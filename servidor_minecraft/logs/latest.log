@@ -1,0 +1,1206 @@
+[10Jan2025 23:23:01.162] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[10Jan2025 23:23:01.166] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[10Jan2025 23:23:02.762] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[10Jan2025 23:23:02.826] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServerPapus/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[10Jan2025 23:23:03.300] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerPapus/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[10Jan2025 23:23:03.301] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerPapus/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Jan2025 23:23:03.303] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerPapus/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Jan2025 23:23:03.304] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerPapus/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Jan2025 23:23:03.788] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[10Jan2025 23:23:03.790] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 55 dependencies adding them to mods collection
+[10Jan2025 23:23:07.870] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10Jan2025 23:23:07.906] [main/ERROR] [mixin/]: Mixin config fabric-item-api-v1.client.mixins.json does not specify "minVersion" property
+[10Jan2025 23:23:07.963] [main/ERROR] [mixin/]: Mixin config fabric-data-attachment-api-v1.mixins.json does not specify "minVersion" property
+[10Jan2025 23:23:07.969] [main/ERROR] [mixin/]: Mixin config fabric-data-attachment-api-v1.client.mixins.json does not specify "minVersion" property
+[10Jan2025 23:23:08.299] [main/ERROR] [mixin/]: Mixin config fabric-item-group-api-v1.mixins.json does not specify "minVersion" property
+[10Jan2025 23:23:08.303] [main/ERROR] [mixin/]: Mixin config fabric-item-group-api-v1.client.mixins.json does not specify "minVersion" property
+[10Jan2025 23:23:08.490] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[10Jan2025 23:23:08.493] [main/INFO] [net.fabricmc.loader.impl.bootstrap.FabricLoaderBootstrap/]: Propagating FML mod list to Fabric Loader
+[10Jan2025 23:23:08.509] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[10Jan2025 23:23:08.687] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
+[10Jan2025 23:23:08.691] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
+[10Jan2025 23:23:08.722] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jan2025 23:23:08.742] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jan2025 23:23:08.745] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jan2025 23:23:08.980] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jan2025 23:23:09.010] [main/INFO] [Puzzles Lib/]: Loading 145 mods:
+	- alexsmobs 1.22.9
+	- amendments 1.20-1.2.14
+	- another_furniture 1.20.1-3.0.1
+	- appleskin 2.5.1+mc1.20.1
+	- architectury 9.2.14
+	- artifacts 9.5.13
+		\-- expandability 9.0.4
+	- bagus_lib 1.20.1-5.3.0
+	- balm 7.3.10
+		\-- kuma_api 20.1.9-SNAPSHOT
+	- betterdeserttemples 1.20-Forge-3.0.3
+	- betterdungeons 1.20-Forge-4.0.4
+	- betterfortresses 1.20-Forge-2.0.6
+	- betterjungletemples 1.20-Forge-2.0.5
+	- bettermineshafts 1.20-Forge-4.0.4
+	- betterstrongholds 1.20-Forge-4.0.3
+	- bettervillage 3.2.0
+	- betterwitchhuts 1.20-Forge-3.0.3
+	- blueprint 7.1.0
+	- carryon 2.1.2.7
+	- chunky 1.3.92
+	- citadel 2.6.1
+	- cloth_config 11.1.136
+	- clumps 12.0.0.4
+	- collective 7.87
+	- configured 2.2.3
+	- corgilib 4.0.3.3
+	- cosmeticarmorreworked 1.20.1-v1a
+	- create 0.5.1.j
+		\-- flywheel 0.6.11-13
+	- creativecore 2.12.28
+	- curios 5.11.0+1.20.1
+	- customskinloader 14.17
+	- dungeoncrawl 2.3.15
+	- dungeons_arise 2.1.58-1.20.x
+	- dungeons_arise_seven_seas 1.0.2
+	- dungeons_plus 1.5.0
+	- earthmobsmod 1.20.1-10.5.0
+	- easymagic 8.0.1
+	- enhancedcelestials 1.20.1-5.0.2.3
+	- fabric_api 0.92.2+1.11.9+1.20.1
+		|-- fabric_api_base 0.4.31+ef105b4977
+		|-- fabric_api_lookup_api_v1 1.6.36+67f9824077
+		|-- fabric_biome_api_v1 13.0.13+dc36698e77
+		|-- fabric_block_api_v1 1.0.11+0e6cb7f777
+		|-- fabric_block_view_api_v2 1.0.1+0767707077
+		|-- fabric_blockrenderlayer_v1 1.1.41+1d0da21e77
+		|-- fabric_client_tags_api_v1 1.1.2+5d6761b877
+		|-- fabric_command_api_v1 1.2.34+f71b366f77
+		|-- fabric_command_api_v2 2.2.13+561530ec77
+		|-- fabric_content_registries_v0 4.0.11+a670df1e77
+		|-- fabric_convention_tags_v1 1.5.5+fa3d1c0177
+		|-- fabric_data_attachment_api_v1 1.0.0+30ef839e77
+		|-- fabric_data_generation_api_v1 12.3.4+369cb3a477
+		|-- fabric_dimensions_v1 2.1.54+8005d10d77
+		|-- fabric_entity_events_v1 1.6.0+6274ab9d77
+		|-- fabric_events_interaction_v0 0.6.2+0d0bd5a777
+		|-- fabric_game_rule_api_v1 1.0.40+683d4da877
+		|-- fabric_item_api_v1 2.1.28+4d0bbcfa77
+		|-- fabric_item_group_api_v1 4.0.12+c9161c2d77
+		|-- fabric_key_binding_api_v1 1.0.37+561530ec77
+		|-- fabric_lifecycle_events_v1 2.2.22+afab492177
+		|-- fabric_loot_api_v2 1.2.1+eb28f93e77
+		|-- fabric_message_api_v1 5.1.9+52cc178c77
+		|-- fabric_mining_level_api_v1 2.1.50+561530ec77
+		|-- fabric_model_loading_api_v1 1.0.3+6274ab9d77
+		|-- fabric_models_v0 0.4.2+7c3892a477
+		|-- fabric_networking_api_v1 1.3.11+503a202477
+		|-- fabric_object_builder_api_v1 11.1.3+2174fc8477
+		|-- fabric_particles_v1 1.1.2+78e1ecb877
+		|-- fabric_recipe_api_v1 1.0.21+514a076577
+		|-- fabric_registry_sync_v0 2.3.3+1c0ea72177
+		|-- fabric_renderer_api_v1 3.2.1+cf68abbe77
+		|-- fabric_renderer_indigo 1.5.2+b5b2da4177
+		|-- fabric_rendering_data_attachment_v1 0.3.37+a6081afc77
+		|-- fabric_rendering_fluids_v1 3.0.28+4ac5e37a77
+		|-- fabric_rendering_v1 3.0.8+66e9a48f77
+		|-- fabric_resource_conditions_api_v1 2.3.8+9ad825cd77
+		|-- fabric_resource_loader_v0 0.11.10+bcd08ed377
+		|-- fabric_screen_api_v1 2.0.8+45a670a577
+		|-- fabric_screen_handler_api_v1 1.3.30+561530ec77
+		|-- fabric_sound_api_v1 1.0.13+4f23bd8477
+		|-- fabric_transfer_api_v1 3.3.5+631c9cd677
+		\-- fabric_transitive_access_wideners_v1 4.3.1+1880499877
+	- flib 0.0.14
+	- forge 47.3.7
+	- fpsreducer 1.20-2.5
+	- framework 0.7.12
+	- friendsandfoes 3.0.6
+	- geckolib 4.7
+	- goblintraders 1.9.3
+	- guardvillagers 1.20.1-1.6.9
+	- hoporp 1.3.7
+	- iceandfire 2.1.13-1.20.1
+	- idas 1.10.3+1.20.1
+	- integrated_api 1.5.1+1.20.1-forge
+		\-- mixinextras 0.2.0-beta.7
+	- jade 11.12.2+forge
+	- jei 15.20.0.105
+	- libraryferret 4.0.0
+	- loot_and_danger_dungeons 1.0.0
+	- mcwdoors 1.1.1
+	- mcwfurnitures 3.3.0
+	- mcwtrpdoors 1.1.4
+	- melody 1.0.2
+	- midashunger 2.2.1+1.20-forge
+	- minecraft 1.20.1
+	- moonlight 1.20-2.13.45
+	- morevillagers 5.0.0
+	- mowziesmobs 1.6.4
+	- mr_dungeons_andtaverns 3.0.3.f
+	- mr_limesplatus_ending 1-v1.1.0c
+	- mutantmonsters 8.0.7
+	- mvs 4.1.2-1.20-forge
+	- personality 4.0.0
+	- philipsruins 4.6
+	- playerrevive 2.0.31
+	- puzzleslib 8.1.25
+		\-- puzzlesaccessapi 8.0.7
+	- quark 4.0-460
+	- reap 1.20.1-1.1.2
+	- savage_and_ravage 6.0.0
+	- simplefarming 1.20.1-2.0.6
+	- spartanfire 2.1.0
+	- spartanshields 3.1.1
+	- spartantoolkit 1.5.1
+	- spartanweaponry 3.1.3
+	- storagedrawers 12.9.13
+	- structorytowers 1.0.6
+	- structure_gel 2.16.2
+	- supplementaries 1.20-3.1.11
+		\-- mixinsquared 0.1.1
+	- tombstone 8.8.6
+	- trade_cycling 1.20.1-1.0.15
+	- usefulbackpacks 2.0.1.124
+	- uteamcore 5.1.4.346
+	- villagertools 1.0.3
+	- walljump 1.20.1-1.3.1-forge
+		\-- configlibtxf 4.2.6-forge
+	- waystones 14.1.6
+	- xaeroworldmap 1.39.2
+	- yungsapi 1.20-Forge-4.0.6
+	- yungsbridges 1.20-Forge-4.0.3
+	- yungsextras 1.20-Forge-4.0.3
+	- zeta 1.0-24
+[10Jan2025 23:23:09.849] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
+[10Jan2025 23:23:09.849] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
+[10Jan2025 23:23:09.850] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin
+[10Jan2025 23:23:09.853] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[10Jan2025 23:23:09.854] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[10Jan2025 23:23:09.854] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor
+[10Jan2025 23:23:11.632] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[10Jan2025 23:23:11.751] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.TomatoVineBlock)
+[10Jan2025 23:23:12.355] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[10Jan2025 23:23:20.491] [main/WARN] [mixin/]: @Final field f_26027_:Lnet/minecraft/world/entity/ai/targeting/TargetingConditions; in guardvillagers.mixins.json:DefendVillageGoalGolemMixin should be final
+[10Jan2025 23:23:22.966] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/ServerPapus/servidor_minecraft/config/guardvillagers-common.toml is not correct. Correcting
+[10Jan2025 23:23:23.058] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[10Jan2025 23:23:23.391] [modloading-worker-0/INFO] [de.keksuccino.melody.Melody/]: [MELODY] Disabling Melody since it's loaded server-side.
+[10Jan2025 23:23:23.443] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[10Jan2025 23:23:23.671] [modloading-worker-0/INFO] [dev.enemeez.simplefarming.common.SimpleFarming/]: Simple Farming setup complete!
+[10Jan2025 23:23:23.684] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
+[10Jan2025 23:23:23.745] [modloading-worker-0/WARN] [yungsapi/]: WARNING: block Block{minecraft:coal_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[10Jan2025 23:23:23.763] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[10Jan2025 23:23:23.763] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[10Jan2025 23:23:23.785] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[10Jan2025 23:23:24.004] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[10Jan2025 23:23:24.569] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[10Jan2025 23:23:24.655] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[10Jan2025 23:23:24.716] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[10Jan2025 23:23:24.749] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[10Jan2025 23:23:24.847] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[10Jan2025 23:23:24.927] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[10Jan2025 23:23:24.929] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[10Jan2025 23:23:24.931] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[10Jan2025 23:23:24.936] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[10Jan2025 23:23:24.937] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[10Jan2025 23:23:24.939] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[10Jan2025 23:23:24.944] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[10Jan2025 23:23:25.471] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[10Jan2025 23:23:25.474] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[10Jan2025 23:23:25.930] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[10Jan2025 23:23:26.874] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[10Jan2025 23:23:27.225] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[10Jan2025 23:23:27.273] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 164 modules to load.
+[10Jan2025 23:23:27.279] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
+[10Jan2025 23:23:27.331] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
+[10Jan2025 23:23:27.335] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
+[10Jan2025 23:23:27.336] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
+[10Jan2025 23:23:27.378] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
+[10Jan2025 23:23:27.417] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
+[10Jan2025 23:23:27.418] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
+[10Jan2025 23:23:27.421] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
+[10Jan2025 23:23:27.422] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
+[10Jan2025 23:23:27.437] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
+[10Jan2025 23:23:27.438] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
+[10Jan2025 23:23:27.438] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
+[10Jan2025 23:23:27.445] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
+[10Jan2025 23:23:27.447] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
+[10Jan2025 23:23:27.447] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
+[10Jan2025 23:23:27.472] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
+[10Jan2025 23:23:27.475] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
+[10Jan2025 23:23:27.477] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
+[10Jan2025 23:23:27.478] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
+[10Jan2025 23:23:27.480] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
+[10Jan2025 23:23:27.481] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
+[10Jan2025 23:23:27.482] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
+[10Jan2025 23:23:27.482] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
+[10Jan2025 23:23:27.483] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
+[10Jan2025 23:23:27.490] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
+[10Jan2025 23:23:27.492] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
+[10Jan2025 23:23:27.496] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
+[10Jan2025 23:23:27.504] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
+[10Jan2025 23:23:27.509] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
+[10Jan2025 23:23:27.510] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
+[10Jan2025 23:23:27.511] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
+[10Jan2025 23:23:27.550] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
+[10Jan2025 23:23:27.583] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jan2025 23:23:27.584] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
+[10Jan2025 23:23:27.586] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jan2025 23:23:27.586] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
+[10Jan2025 23:23:27.587] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
+[10Jan2025 23:23:27.589] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
+[10Jan2025 23:23:27.591] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
+[10Jan2025 23:23:27.593] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
+[10Jan2025 23:23:27.594] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
+[10Jan2025 23:23:27.594] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
+[10Jan2025 23:23:27.596] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
+[10Jan2025 23:23:27.597] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
+[10Jan2025 23:23:27.597] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
+[10Jan2025 23:23:27.599] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
+[10Jan2025 23:23:27.600] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
+[10Jan2025 23:23:27.603] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
+[10Jan2025 23:23:27.607] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
+[10Jan2025 23:23:27.612] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
+[10Jan2025 23:23:27.615] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
+[10Jan2025 23:23:27.618] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jan2025 23:23:27.619] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
+[10Jan2025 23:23:27.627] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fallen Logs...
+[10Jan2025 23:23:27.634] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
+[10Jan2025 23:23:27.646] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jan2025 23:23:27.647] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
+[10Jan2025 23:23:27.668] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
+[10Jan2025 23:23:27.671] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
+[10Jan2025 23:23:27.671] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
+[10Jan2025 23:23:27.680] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
+[10Jan2025 23:23:27.684] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jan2025 23:23:27.684] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
+[10Jan2025 23:23:27.694] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
+[10Jan2025 23:23:27.736] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
+[10Jan2025 23:23:27.737] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
+[10Jan2025 23:23:27.738] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
+[10Jan2025 23:23:27.738] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
+[10Jan2025 23:23:27.741] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
+[10Jan2025 23:23:27.742] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
+[10Jan2025 23:23:27.753] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
+[10Jan2025 23:23:27.755] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
+[10Jan2025 23:23:27.756] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
+[10Jan2025 23:23:27.757] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
+[10Jan2025 23:23:27.757] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
+[10Jan2025 23:23:27.759] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
+[10Jan2025 23:23:27.760] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
+[10Jan2025 23:23:27.760] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
+[10Jan2025 23:23:27.768] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
+[10Jan2025 23:23:27.769] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
+[10Jan2025 23:23:27.778] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
+[10Jan2025 23:23:27.778] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
+[10Jan2025 23:23:27.779] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
+[10Jan2025 23:23:27.783] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
+[10Jan2025 23:23:27.784] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
+[10Jan2025 23:23:27.789] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magma Keeps Concrete Powder...
+[10Jan2025 23:23:27.789] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
+[10Jan2025 23:23:27.793] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jan2025 23:23:27.794] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
+[10Jan2025 23:23:27.795] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
+[10Jan2025 23:23:27.808] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jan2025 23:23:27.814] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
+[10Jan2025 23:23:27.815] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
+[10Jan2025 23:23:27.815] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
+[10Jan2025 23:23:27.816] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
+[10Jan2025 23:23:27.817] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
+[10Jan2025 23:23:27.817] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
+[10Jan2025 23:23:27.819] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
+[10Jan2025 23:23:27.820] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
+[10Jan2025 23:23:27.824] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
+[10Jan2025 23:23:27.825] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jan2025 23:23:27.826] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Villagers...
+[10Jan2025 23:23:27.827] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
+[10Jan2025 23:23:27.828] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
+[10Jan2025 23:23:27.828] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
+[10Jan2025 23:23:27.831] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
+[10Jan2025 23:23:27.837] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
+[10Jan2025 23:23:27.838] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
+[10Jan2025 23:23:27.839] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
+[10Jan2025 23:23:27.839] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
+[10Jan2025 23:23:27.841] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
+[10Jan2025 23:23:27.842] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jan2025 23:23:27.844] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
+[10Jan2025 23:23:27.846] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
+[10Jan2025 23:23:27.847] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
+[10Jan2025 23:23:27.848] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Petals On Water...
+[10Jan2025 23:23:27.850] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
+[10Jan2025 23:23:27.854] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
+[10Jan2025 23:23:27.855] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
+[10Jan2025 23:23:27.859] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
+[10Jan2025 23:23:27.860] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
+[10Jan2025 23:23:27.861] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
+[10Jan2025 23:23:27.861] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
+[10Jan2025 23:23:27.862] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
+[10Jan2025 23:23:27.862] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
+[10Jan2025 23:23:27.863] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
+[10Jan2025 23:23:27.865] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
+[10Jan2025 23:23:27.869] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
+[10Jan2025 23:23:27.870] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
+[10Jan2025 23:23:27.872] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
+[10Jan2025 23:23:27.872] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
+[10Jan2025 23:23:27.875] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
+[10Jan2025 23:23:27.884] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
+[10Jan2025 23:23:27.885] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jan2025 23:23:27.886] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
+[10Jan2025 23:23:27.886] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
+[10Jan2025 23:23:27.887] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
+[10Jan2025 23:23:27.892] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
+[10Jan2025 23:23:27.894] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jan2025 23:23:27.896] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
+[10Jan2025 23:23:27.897] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
+[10Jan2025 23:23:27.903] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
+[10Jan2025 23:23:27.903] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
+[10Jan2025 23:23:27.904] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
+[10Jan2025 23:23:27.907] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
+[10Jan2025 23:23:27.908] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
+[10Jan2025 23:23:27.908] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
+[10Jan2025 23:23:27.912] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
+[10Jan2025 23:23:27.916] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jan2025 23:23:27.916] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
+[10Jan2025 23:23:27.918] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jan2025 23:23:27.918] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
+[10Jan2025 23:23:27.919] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
+[10Jan2025 23:23:27.921] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
+[10Jan2025 23:23:27.922] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
+[10Jan2025 23:23:27.925] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
+[10Jan2025 23:23:27.925] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jan2025 23:23:27.926] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
+[10Jan2025 23:23:27.927] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
+[10Jan2025 23:23:27.928] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
+[10Jan2025 23:23:27.929] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
+[10Jan2025 23:23:27.930] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
+[10Jan2025 23:23:27.930] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
+[10Jan2025 23:23:27.931] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
+[10Jan2025 23:23:27.931] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
+[10Jan2025 23:23:27.945] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
+[10Jan2025 23:23:27.956] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
+[10Jan2025 23:23:27.957] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
+[10Jan2025 23:23:27.960] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
+[10Jan2025 23:23:27.961] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
+[10Jan2025 23:23:28.020] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
+[10Jan2025 23:23:28.021] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
+[10Jan2025 23:23:28.024] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
+[10Jan2025 23:23:28.024] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
+[10Jan2025 23:23:28.030] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
+[10Jan2025 23:23:28.031] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
+[10Jan2025 23:23:28.035] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jan2025 23:23:28.036] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
+[10Jan2025 23:23:28.037] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
+[10Jan2025 23:23:28.039] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 164 modules.
+[10Jan2025 23:23:38.284] [main/INFO] [Moonlight/]: Initialized block sets in 21ms
+[10Jan2025 23:23:40.200] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[10Jan2025 23:23:40.214] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[10Jan2025 23:23:40.216] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[10Jan2025 23:23:40.222] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[10Jan2025 23:23:40.608] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/ServerPapus/servidor_minecraft/config/guardvillagers-common.toml is not correct. Correcting
+[10Jan2025 23:23:40.611] [Thread-3/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/ServerPapus/servidor_minecraft/config/guardvillagers-common.toml is not correct. Correcting
+[10Jan2025 23:23:40.890] [main/WARN] [yungsapi/]: WARNING: block Block{minecraft:coal_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[10Jan2025 23:23:40.943] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[10Jan2025 23:23:41.025] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[10Jan2025 23:23:41.028] [Thread-3/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[10Jan2025 23:23:41.032] [Thread-3/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[10Jan2025 23:23:41.054] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
+[10Jan2025 23:23:41.157] [modloading-worker-0/INFO] [bagus_lib/]: Load Bagus Lib Supporter
+[10Jan2025 23:23:41.230] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[10Jan2025 23:23:41.344] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[10Jan2025 23:23:41.407] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[10Jan2025 23:23:41.440] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[10Jan2025 23:23:41.440] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[10Jan2025 23:23:41.440] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[10Jan2025 23:23:41.440] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[10Jan2025 23:23:41.440] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[10Jan2025 23:23:41.440] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[10Jan2025 23:23:41.440] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[10Jan2025 23:23:41.441] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[10Jan2025 23:23:41.441] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[10Jan2025 23:23:41.441] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[10Jan2025 23:23:41.481] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[10Jan2025 23:23:41.491] [modloading-worker-0/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Initialized enhancedcelestials network!
+[10Jan2025 23:23:41.491] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[10Jan2025 23:23:41.511] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[10Jan2025 23:23:41.515] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[10Jan2025 23:23:41.675] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: BETA Current: 1.20.1-1.6.9 Target: 1.20-1.6.5
+[10Jan2025 23:23:41.675] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[10Jan2025 23:23:41.761] [main/INFO] [Moonlight/]: Initialized color sets in 59ms
+[10Jan2025 23:23:41.906] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.1.4.346 Target: null
+[10Jan2025 23:23:41.908] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[10Jan2025 23:23:41.923] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.1 Target: null
+[10Jan2025 23:23:41.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[10Jan2025 23:23:41.953] [main/INFO] [Supplementaries/]: Finished mod setup in: [29, 3, 0, 1, 0, 0, 16, 9, 2] ms
+[10Jan2025 23:23:41.976] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[10Jan2025 23:23:41.978] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[10Jan2025 23:23:42.119] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[10Jan2025 23:23:42.130] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[10Jan2025 23:23:42.132] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[10Jan2025 23:23:42.149] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[10Jan2025 23:23:42.158] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[10Jan2025 23:23:42.161] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[10Jan2025 23:23:42.162] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[10Jan2025 23:23:42.169] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[10Jan2025 23:23:42.170] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[10Jan2025 23:23:42.190] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 2.0.1.124 Target: null
+[10Jan2025 23:23:42.190] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_plus] Starting version check at http://changelogs.moddinglegacy.com/dungeons-plus.json
+[10Jan2025 23:23:42.269] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_plus] Found status: BETA Current: 1.5.0 Target: null
+[10Jan2025 23:23:42.270] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
+[10Jan2025 23:23:42.279] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.4 Target: null
+[10Jan2025 23:23:42.279] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[10Jan2025 23:23:42.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[10Jan2025 23:23:42.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [villagertools] Starting version check at https://raw.githubusercontent.com/Lothrazar/VillagerTools/trunk/1.19/update.json
+[10Jan2025 23:23:42.456] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [villagertools] Found status: BETA Current: 1.0.3 Target: null
+[10Jan2025 23:23:42.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[10Jan2025 23:23:42.468] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.8.6 Target: 8.9.0
+[10Jan2025 23:23:42.468] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Starting version check at https://api.modrinth.com/updates/MCnBYP0b/forge_updates.json
+[10Jan2025 23:23:42.505] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Found status: OUTDATED Current: 1-v1.1.0c Target: 1.1.0c+mod
+[10Jan2025 23:23:42.506] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[10Jan2025 23:23:42.519] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[10Jan2025 23:23:42.520] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[10Jan2025 23:23:42.647] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23292!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23292!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[10Jan2025 23:23:42.649] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[10Jan2025 23:23:42.665] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[10Jan2025 23:23:42.665] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[10Jan2025 23:23:42.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[10Jan2025 23:23:42.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[10Jan2025 23:23:42.706] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23292!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23292!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[10Jan2025 23:23:42.712] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Starting version check at https://update.maxhenkel.de/forge/reap
+[10Jan2025 23:23:43.162] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Found status: AHEAD Current: 1.20.1-1.1.2 Target: null
+[10Jan2025 23:23:43.162] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[10Jan2025 23:23:43.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[10Jan2025 23:23:43.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[10Jan2025 23:23:43.534] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23292!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23292!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[10Jan2025 23:23:43.534] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[10Jan2025 23:23:43.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[10Jan2025 23:23:43.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[10Jan2025 23:23:43.704] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[10Jan2025 23:23:43.704] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
+[10Jan2025 23:23:43.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.15 Target: null
+[10Jan2025 23:23:43.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[10Jan2025 23:23:43.817] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.45 Target: null
+[10Jan2025 23:23:43.817] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[10Jan2025 23:23:43.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[10Jan2025 23:23:43.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[10Jan2025 23:23:43.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.11 Target: null
+[10Jan2025 23:23:43.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[10Jan2025 23:23:43.895] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
+[10Jan2025 23:23:52.874] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10Jan2025 23:24:01.678] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerPapus/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23291!/assets/.mcassetsroot' uses unexpected schema
+[10Jan2025 23:24:01.679] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerPapus/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23291!/data/.mcassetsroot' uses unexpected schema
+[10Jan2025 23:24:02.325] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 91 ms
+[10Jan2025 23:24:02.340] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
+[10Jan2025 23:24:05.436] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[10Jan2025 23:24:05.527] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[10Jan2025 23:24:05.836] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.8.6.jar
+[10Jan2025 23:24:05.911] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from supplementaries-1.20-3.1.11.jar)
+[10Jan2025 23:24:05.936] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag integrated_api:collections/any_taiga as it is missing following references: #repurposed_structures:collections/taigas (from integrated_api-1.5.1+1.20.1-forge.jar)
+[10Jan2025 23:24:05.944] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag idas:has_structure/byg_redwood_biomes as it is missing following references: byg:redwood_thicket (from idas_forge-1.10.3+1.20.1.jar)
+[10Jan2025 23:24:05.945] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag idas:has_structure/bopmohogany_biomes as it is missing following references: biomesoplenty:rainforest (from idas_forge-1.10.3+1.20.1.jar)
+[10Jan2025 23:24:05.945] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag idas:has_structure/bygmohogany_biomes as it is missing following references: byg:tropical_rainforest (from idas_forge-1.10.3+1.20.1.jar)
+[10Jan2025 23:24:05.947] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag idas:has_structure/bopredwood_biomes as it is missing following references: biomesoplenty:redwood_forest (from idas_forge-1.10.3+1.20.1.jar)
+[10Jan2025 23:24:06.816] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:idas:chests/enchantingtower/enchantingtower_basic_ars
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'ars_nouveau:novice_spell_book'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23296!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23296!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[10Jan2025 23:24:06.846] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[10Jan2025 23:24:07.034] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[10Jan2025 23:24:07.360] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:idas:chests/archmages_tower/archmages_tower_treasure
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'ars_nouveau:ritual_burrowing'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23296!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23296!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[10Jan2025 23:24:07.477] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[10Jan2025 23:24:07.499] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:idas:chests/archmages_tower/archmages_tower_library
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'ars_nouveau:worn_notebook'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23296!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23296!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[10Jan2025 23:24:07.523] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:idas:chests/enchantingtower/enchantingtower_top_ars
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'ars_nouveau:scryer_scroll'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23296!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23296!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[10Jan2025 23:24:07.541] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:idas:chests/archmages_tower/archmages_tower
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'ars_nouveau:magebloom_fiber'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23296!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23296!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[10Jan2025 23:24:07.678] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 5 modifier groups
+[10Jan2025 23:24:08.283] [main/WARN] [Fabric Resource Conditions/]: Skipping object {"type":"minecraft:crafting_shaped","pattern":["#  ","## ","###"],"key":{"#":{"item":"supplementaries:fine_wood"}},"fabric:load_conditions":[{"condition":"supplementaries:flag","flag":"fine_wood"}],"result":{"item":"supplementaries:fine_wood_stairs","count":4}}. Failed to parse resource conditions
+com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:flag
+	at net.fabricmc.fabric.api.resource.conditions.v1.ResourceConditions.conditionMatches(ResourceConditions.java:169) ~[fabric-resource-conditions-api-v1-2.3.8+9ad825cd77.jar%23376!/:2.3.8+9ad825cd77]
+	at net.fabricmc.fabric.api.resource.conditions.v1.ResourceConditions.conditionsMatch(ResourceConditions.java:148) ~[fabric-resource-conditions-api-v1-2.3.8+9ad825cd77.jar%23376!/:2.3.8+9ad825cd77]
+	at net.fabricmc.fabric.api.resource.conditions.v1.ResourceConditions.objectMatchesConditions(ResourceConditions.java:131) ~[fabric-resource-conditions-api-v1-2.3.8+9ad825cd77.jar%23376!/:2.3.8+9ad825cd77]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.fabric_applyResourceConditions(SimpleJsonResourceReloadListener.java:1061) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.handler$bdi001$applyResourceConditions(SimplePreparableReloadListener.java:1037) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[10Jan2025 23:24:08.293] [main/WARN] [Fabric Resource Conditions/]: Skipping object {"type":"minecraft:crafting_shaped","pattern":["###"],"key":{"#":{"item":"supplementaries:fine_wood"}},"fabric:load_conditions":[{"condition":"supplementaries:flag","flag":"fine_wood"}],"result":{"item":"supplementaries:fine_wood_slab","count":6}}. Failed to parse resource conditions
+com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:flag
+	at net.fabricmc.fabric.api.resource.conditions.v1.ResourceConditions.conditionMatches(ResourceConditions.java:169) ~[fabric-resource-conditions-api-v1-2.3.8+9ad825cd77.jar%23376!/:2.3.8+9ad825cd77]
+	at net.fabricmc.fabric.api.resource.conditions.v1.ResourceConditions.conditionsMatch(ResourceConditions.java:148) ~[fabric-resource-conditions-api-v1-2.3.8+9ad825cd77.jar%23376!/:2.3.8+9ad825cd77]
+	at net.fabricmc.fabric.api.resource.conditions.v1.ResourceConditions.objectMatchesConditions(ResourceConditions.java:131) ~[fabric-resource-conditions-api-v1-2.3.8+9ad825cd77.jar%23376!/:2.3.8+9ad825cd77]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.fabric_applyResourceConditions(SimpleJsonResourceReloadListener.java:1061) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.handler$bdi001$applyResourceConditions(SimplePreparableReloadListener.java:1037) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[10Jan2025 23:24:08.294] [main/WARN] [Fabric Resource Conditions/]: Skipping object {"type":"minecraft:crafting_shaped","pattern":["111","121","111"],"key":{"1":{"tag":"minecraft:logs"},"2":{"item":"minecraft:honeycomb"}},"result":{"item":"supplementaries:fine_wood","count":8},"fabric:load_conditions":[{"condition":"supplementaries:flag","flag":"fine_wood"}]}. Failed to parse resource conditions
+com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:flag
+	at net.fabricmc.fabric.api.resource.conditions.v1.ResourceConditions.conditionMatches(ResourceConditions.java:169) ~[fabric-resource-conditions-api-v1-2.3.8+9ad825cd77.jar%23376!/:2.3.8+9ad825cd77]
+	at net.fabricmc.fabric.api.resource.conditions.v1.ResourceConditions.conditionsMatch(ResourceConditions.java:148) ~[fabric-resource-conditions-api-v1-2.3.8+9ad825cd77.jar%23376!/:2.3.8+9ad825cd77]
+	at net.fabricmc.fabric.api.resource.conditions.v1.ResourceConditions.objectMatchesConditions(ResourceConditions.java:131) ~[fabric-resource-conditions-api-v1-2.3.8+9ad825cd77.jar%23376!/:2.3.8+9ad825cd77]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.fabric_applyResourceConditions(SimpleJsonResourceReloadListener.java:1061) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.handler$bdi001$applyResourceConditions(SimplePreparableReloadListener.java:1037) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[10Jan2025 23:24:08.309] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.310] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jan2025 23:24:08.330] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.336] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.358] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.362] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jan2025 23:24:08.365] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.373] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jan2025 23:24:08.374] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.381] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.387] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jan2025 23:24:08.389] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jan2025 23:24:08.390] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.396] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[10Jan2025 23:24:08.404] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.404] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.413] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[10Jan2025 23:24:08.413] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
+[10Jan2025 23:24:08.416] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.417] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[10Jan2025 23:24:08.417] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[10Jan2025 23:24:08.419] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[10Jan2025 23:24:08.420] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[10Jan2025 23:24:08.421] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.423] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.423] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jan2025 23:24:08.425] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.428] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jan2025 23:24:08.430] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.431] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.432] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.433] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.434] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jan2025 23:24:08.434] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jan2025 23:24:08.436] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.436] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[10Jan2025 23:24:08.436] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.441] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.441] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[10Jan2025 23:24:08.442] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
+[10Jan2025 23:24:08.443] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.445] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.446] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jan2025 23:24:08.448] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.448] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.448] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jan2025 23:24:08.451] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.451] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.452] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.452] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[10Jan2025 23:24:08.452] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[10Jan2025 23:24:08.453] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.454] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.457] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.458] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jan2025 23:24:08.460] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.460] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.460] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.461] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.461] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[10Jan2025 23:24:08.461] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[10Jan2025 23:24:08.462] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.462] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.464] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.465] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jan2025 23:24:08.466] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[10Jan2025 23:24:08.467] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[10Jan2025 23:24:08.471] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jan2025 23:24:08.473] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jan2025 23:24:08.474] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.476] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jan2025 23:24:08.477] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.480] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.481] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jan2025 23:24:08.481] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.484] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.486] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.488] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.490] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[10Jan2025 23:24:08.490] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[10Jan2025 23:24:08.490] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jan2025 23:24:08.495] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jan2025 23:24:08.496] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jan2025 23:24:08.500] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jan2025 23:24:08.502] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.504] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.506] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[10Jan2025 23:24:08.506] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[10Jan2025 23:24:08.506] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.506] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.507] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jan2025 23:24:08.507] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jan2025 23:24:08.510] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.511] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.511] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[10Jan2025 23:24:08.511] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[10Jan2025 23:24:08.512] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.514] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.514] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.515] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[10Jan2025 23:24:08.515] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[10Jan2025 23:24:08.515] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.519] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.520] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jan2025 23:24:08.520] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[10Jan2025 23:24:08.520] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[10Jan2025 23:24:08.521] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jan2025 23:24:08.522] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jan2025 23:24:08.524] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.525] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.527] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[10Jan2025 23:24:08.527] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[10Jan2025 23:24:08.527] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.534] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.536] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.540] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.551] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jan2025 23:24:08.552] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.554] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[10Jan2025 23:24:08.555] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[10Jan2025 23:24:08.555] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[10Jan2025 23:24:08.555] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[10Jan2025 23:24:08.555] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.556] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.557] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jan2025 23:24:08.560] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.561] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.561] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[10Jan2025 23:24:08.561] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[10Jan2025 23:24:08.562] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.563] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.563] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.565] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jan2025 23:24:08.566] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jan2025 23:24:08.567] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.571] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.574] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jan2025 23:24:08.578] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jan2025 23:24:08.578] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.580] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jan2025 23:24:08.581] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jan2025 23:24:08.583] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.585] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.586] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jan2025 23:24:08.589] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.590] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jan2025 23:24:08.590] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.591] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.596] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[10Jan2025 23:24:08.596] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[10Jan2025 23:24:08.597] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jan2025 23:24:08.597] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.598] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jan2025 23:24:08.598] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.601] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.602] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.608] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[10Jan2025 23:24:08.608] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[10Jan2025 23:24:08.609] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jan2025 23:24:08.610] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jan2025 23:24:08.611] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jan2025 23:24:08.612] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jan2025 23:24:08.614] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[10Jan2025 23:24:08.615] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.616] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.616] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.617] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.619] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.621] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.629] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jan2025 23:24:08.630] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[10Jan2025 23:24:08.630] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[10Jan2025 23:24:08.632] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.632] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.634] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.634] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.635] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.636] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jan2025 23:24:08.636] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.637] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.639] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.640] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[10Jan2025 23:24:08.640] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[10Jan2025 23:24:08.643] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jan2025 23:24:08.643] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jan2025 23:24:08.647] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jan2025 23:24:08.648] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jan2025 23:24:08.654] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 25 recipes
+[10Jan2025 23:24:08.656] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Skipped modifier named 'savage_and_ravage:adventure/voluntary_exile' as its conditions were not met
+[10Jan2025 23:24:08.656] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Skipped modifier named 'savage_and_ravage:adventure/voluntary_exile' as its conditions were not met
+[10Jan2025 23:24:08.660] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 5 modifier groups
+[10Jan2025 23:24:08.701] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[10Jan2025 23:24:08.743] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[10Jan2025 23:24:08.806] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[10Jan2025 23:24:08.848] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[10Jan2025 23:24:08.858] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[10Jan2025 23:24:08.896] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 3898 recipe advancements
+[10Jan2025 23:24:08.912] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 749 advancements
+[10Jan2025 23:24:08.933] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[10Jan2025 23:24:08.940] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[10Jan2025 23:24:08.942] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+     - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
+     - You can find the datapack URL in the `compatibility` section of the Better Villages description.
+     - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
+[10Jan2025 23:24:08.942] [main/ERROR] [bettervillage/]: More Villagers compatibility is not enabled for Better Village and More Villagers is present in your mod list.
+     - Please install the datapack for better compatibility between Better Villages and More Villagers.
+     - You can find the datapack URL in the `compatibility` section of the Better Villages description.
+     - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
+[10Jan2025 23:24:08.942] [main/INFO] [Dungeon Crawl/]: Loading data...
+[10Jan2025 23:24:09.313] [main/INFO] [Dungeon Crawl/]: Done.
+[10Jan2025 23:24:09.316] [main/ERROR] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API Error: Couldn't parse spawner mob list idas:archmages_tower
+java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
+	at com.craisinlord.integrated_api.misc.mobspawners.MobSpawnerObj.setEntityType(MobSpawnerObj.java:37) ~[integrated_api-1.5.1+1.20.1-forge.jar%23239!/:?]
+	at com.craisinlord.integrated_api.misc.mobspawners.MobSpawnerManager.lambda$apply$0(MobSpawnerManager.java:41) ~[integrated_api-1.5.1+1.20.1-forge.jar%23239!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at com.craisinlord.integrated_api.misc.mobspawners.MobSpawnerManager.apply(MobSpawnerManager.java:36) ~[integrated_api-1.5.1+1.20.1-forge.jar%23239!/:?]
+	at com.craisinlord.integrated_api.misc.mobspawners.MobSpawnerManager.m_5787_(MobSpawnerManager.java:23) ~[integrated_api-1.5.1+1.20.1-forge.jar%23239!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[10Jan2025 23:24:09.327] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
+[10Jan2025 23:24:09.337] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[10Jan2025 23:24:09.337] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[10Jan2025 23:24:09.337] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[10Jan2025 23:24:09.337] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[10Jan2025 23:24:09.338] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 3 patches
+[10Jan2025 23:24:09.338] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/plant_seed with 1 patches
+[10Jan2025 23:24:09.338] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 2 patches
+[10Jan2025 23:24:09.338] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[10Jan2025 23:24:09.338] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[10Jan2025 23:24:09.339] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[10Jan2025 23:24:09.348] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[10Jan2025 23:24:09.405] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: idas:has_structure/bopmahogany_biomes, idas:has_structure/bopredwood_biomes, idas:has_structure/bygmahogany_biomes, idas:has_structure/bygredwood_biomes
+[10Jan2025 23:24:16.457] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 8.69169ms
+[10Jan2025 23:24:16.465] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[10Jan2025 23:24:16.584] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
+[10Jan2025 23:24:16.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[10Jan2025 23:24:16.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10Jan2025 23:24:16.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10Jan2025 23:24:16.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10Jan2025 23:24:16.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[10Jan2025 23:24:16.990] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[10Jan2025 23:24:17.114] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10Jan2025 23:24:17.116] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[10Jan2025 23:24:17.116] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10Jan2025 23:24:17.117] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[10Jan2025 23:24:17.169] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[10Jan2025 23:24:17.175] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[10Jan2025 23:24:17.179] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[10Jan2025 23:24:17.180] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[10Jan2025 23:24:17.484] [Server thread/INFO] [Framework/]: Loading server configs...
+[10Jan2025 23:24:17.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[10Jan2025 23:24:18.033] [Server thread/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Possible lunar events for dimension "minecraft:overworld" are [enhancedcelestials:super_blood_moon, enhancedcelestials:super_moon, enhancedcelestials:blue_moon, enhancedcelestials:blood_moon, enhancedcelestials:harvest_moon, enhancedcelestials:super_blue_moon, enhancedcelestials:super_harvest_moon].
+[10Jan2025 23:24:18.073] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:coal_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[10Jan2025 23:24:25.371] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:coal_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[10Jan2025 23:24:25.402] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:coal_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[10Jan2025 23:24:25.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[10Jan2025 23:24:32.321] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:32.356] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:32.379] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:32.399] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:32.452] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:33.257] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:33.277] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:33.281] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:33.282] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:33.282] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:33.283] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:33.283] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:33.283] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:33.284] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:33.284] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:33.285] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:33.413] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:34.966] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:34.967] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:34.967] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jan2025 23:24:35.407] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[10Jan2025 23:24:35.907] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
+[10Jan2025 23:24:36.283] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10876 ms
+[10Jan2025 23:24:36.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (19.132s)! For help, type "help"
+[10Jan2025 23:24:36.433] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[10Jan2025 23:24:36.474] [Server thread/INFO] [net.stardustlabs.structorytowers.StructoryTowers/]: Thanks for choosing StructoryTowers!
+[10Jan2025 23:24:36.480] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[10Jan2025 23:24:36.481] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[10Jan2025 23:24:42.651] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[10Jan2025 23:25:13.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
+[10Jan2025 23:28:25.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.17.233.135:48601] logged in with entity id 707 at (1042.3780661308538, 234.0, -989.48966682914)
+[10Jan2025 23:28:25.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[10Jan2025 23:28:25.774] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[10Jan2025 23:28:31.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5989ms or 119 ticks behind
+[10Jan2025 23:45:06.494] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[10Jan2025 23:45:06.528] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[10Jan2025 23:45:16.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was doomed to fall by Hoglin
+[10Jan2025 23:46:17.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[10Jan2025 23:46:17.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
