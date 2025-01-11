@@ -1,0 +1,62 @@
+
+###############################
+# General properties for Protect It  mod.
+###############################
+[general]
+	#The access level required for the 'give' command.
+	#Range: 0 ~ 4
+	giveCommandLevel = 2
+	# The number of properties each player can own per world.
+	#Range: 1 ~ 100
+	parcelsPerPlayer = 5
+	# The permission level required to be Ops within Protect It.
+	#This is not the op-permission-level that is set in the server.propeties.
+	# This allows players who are not server-level ops, to have Protect It Ops permissions. ie protections don't protect against Ops.
+	# Ex. server-level ops = 4, but Protect It ops = 3 - a player with permission 3 would be considered an Ops within Protect It.
+	#Range: 0 ~ 4
+	opsPermissionLevel = 4
+	# A buffer between parcels. Another parcel cannot be built within this area.
+	# This is a radius beyond (or in addition to) the parcel border.
+	# Ex. parcel size = 10x10x10, with a buffer radius = 3. The total size = 13x13x13
+	# that another parcel cannot build within.
+	# Note that the buffer is between parcel borders, not other buffers, meaning if 2 parcels
+	# both have a buffer = 3, there is a buffer of 3 between the parcels, not 6.
+	#Range: 1 ~ 10
+	parcelBufferRadius = 3
+	# Like 'parcelBufferRadius', but for Nation parcels.
+	#Range: 1 ~ 50
+	nationParcelBufferRadius = 10
+	# The life span of a border stone in ticks.
+	#Range: > 1200
+	borderStoneLifeSpan = 6000
+	# The number of ticks between border refreshes.
+	#Range: 200 ~ 9223372036854775807
+	ticksPerBorderStoneRefresh = 400
+	# The life span of a foundation stone in ticks.
+	#Range: > 1200
+	foundationStoneLifeSpan = 6000
+
+###############################
+# Protection properties for Claim My Land mod.
+# Note: these config settings are for enabling the protections of the parcel, not for enabling the actions.
+# ex. Block break protection = true, enables the PROTECTION AGAINST breaking blocks in the property,
+# it does NOT enable the player TO BREAK a block.
+###############################
+[protection]
+	# Enables block break protection. If enabled, blocks in property are protected from being broken by others.
+	enableBlockBreakProtection = true
+	# Enables block placement protection. If enabled, blocks are not allowed to be placed in the property by others.
+	enableBlockPlacementProtection = true
+	# Enables multi-block placement protection. If enabled, multi-blocks are not allowed to be placed in the property by others.
+	enableMultiBlockPlacementProtection = true
+	# Enables block tool interaction protection. If enabled, blocks in the property will not change state when right-clicked with tool. Ex. axe will not strip a log.
+	enableBlockToolInteractProtection = true
+	# Enables right click protection. If enabled, blocks in the property will not perform any action if right-clicked. Ex. chests will not open for others.
+	enableRightClickProtection = true
+	# Enables block break protection from living entities. If enabled, blocks in the property  are protected from being broken for living entities (mobs).
+	enableLivingDestroyBlockProtection = true
+	# Enables piston movement protection. If enabled, pistons outside the property will not fire if their movement would move protected blocks.
+	enablePistonMovementProtection = true
+	# Enables explosion protection. If enabled, explosions will not destory protected blocks.
+	enableExplosionProtection = true
+
