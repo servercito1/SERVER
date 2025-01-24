@@ -325,6 +325,7 @@
       "minecraft:lukewarm_ocean": "2025-01-24 03:48:38 +0000",
       "minecraft:river": "2025-01-24 03:48:45 +0000",
       "minecraft:snowy_plains": "2025-01-24 19:03:14 +0000",
+      "minecraft:stony_shore": "2025-01-24 20:31:22 +0000",
       "minecraft:snowy_taiga": "2025-01-24 19:21:00 +0000",
       "minecraft:cold_ocean": "2025-01-24 19:01:20 +0000",
       "minecraft:forest": "2025-01-24 03:50:21 +0000",
@@ -2021,6 +2022,7 @@
       "cooked_beef": "2025-01-24 03:31:51 +0000",
       "bread": "2025-01-24 02:17:42 +0000",
       "golden_apple": "2025-01-24 02:55:39 +0000",
+      "rotten_flesh": "2025-01-24 20:04:09 +0000",
       "cooked_rabbit": "2025-01-24 03:33:28 +0000"
     },
     "done": false
@@ -5921,6 +5923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-24 20:19:13 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-01-24 19:46:47 +0000"
@@ -5936,6 +5944,18 @@
   "pfm:recipes/furniture/andesite_classic_nightstand": {
     "criteria": {
       "andesite_classic_nightstand": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2025-01-24 20:26:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-24 20:19:13 +0000"
     },
     "done": true
   },
@@ -6020,6 +6040,12 @@
   "pfm:recipes/furniture/andesite_coffee_table_classic": {
     "criteria": {
       "andesite_coffee_table_classic": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-24 20:19:13 +0000"
     },
     "done": true
   },
@@ -6197,6 +6223,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-01-24 19:50:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-01-24 19:46:47 +0000"
@@ -6224,6 +6256,12 @@
   "pfm:recipes/furniture/oak_orange_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-01-24 19:51:25 +0000"
     },
     "done": true
   },
@@ -6278,6 +6316,12 @@
   "pfm:recipes/furniture/andesite_chair_modern": {
     "criteria": {
       "andesite_chair_modern": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-01-24 19:50:32 +0000"
     },
     "done": true
   },
@@ -6407,6 +6451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-24 20:19:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-01-24 19:31:12 +0000"
@@ -6458,6 +6508,18 @@
   "pfm:recipes/furniture/warped_orange_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-01-24 20:33:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-01-24 19:51:25 +0000"
     },
     "done": true
   },

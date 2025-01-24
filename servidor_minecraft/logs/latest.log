@@ -606,3 +606,7 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [24Jan2025 19:50:32.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has completed the challenge [Crusade Against Curse]
 [24Jan2025 19:51:25.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Back to childhood]
 [24Jan2025 19:51:25.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Not even afraid of death]
+[24Jan2025 20:06:02.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4218ms or 84 ticks behind
+[24Jan2025 20:37:40.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maikol_4988[/127.244.236.233:53735] logged in with entity id 48317 at (-439.8756309169031, 30.0, 1076.8341600499828)
+[24Jan2025 20:37:40.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 joined the game
+[24Jan2025 20:37:40.419] [Server thread/INFO] [Jade/]: Syncing config to Maikol_4988 (fa63da74-676e-3a75-814c-8fd926924504)
