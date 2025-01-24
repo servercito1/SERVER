@@ -4584,6 +4584,12 @@
     },
     "done": true
   },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-01-24 22:31:51 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/birch_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-24 21:17:16 +0000"
@@ -4635,6 +4641,12 @@
   "dungeons_arise:find_illager_campsite": {
     "criteria": {
       "location0": "2025-01-24 21:23:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:tomahawk": {
+    "criteria": {
+      "has_tomahawk": "2025-01-24 22:32:45 +0000"
     },
     "done": true
   },
@@ -4761,6 +4773,12 @@
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2025-01-24 21:20:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:javelin": {
+    "criteria": {
+      "has_javelin": "2025-01-24 22:32:44 +0000"
     },
     "done": true
   },

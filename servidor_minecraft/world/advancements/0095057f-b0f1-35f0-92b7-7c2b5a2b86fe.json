@@ -319,6 +319,7 @@
       "minecraft:desert": "2025-01-24 02:11:09 +0000",
       "minecraft:jungle": "2025-01-24 03:28:06 +0000",
       "minecraft:ocean": "2025-01-24 21:12:50 +0000",
+      "minecraft:windswept_savanna": "2025-01-24 22:27:51 +0000",
       "minecraft:warm_ocean": "2025-01-24 03:14:13 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-24 03:37:53 +0000",
       "minecraft:flower_forest": "2025-01-24 16:13:33 +0000",
@@ -2297,6 +2298,7 @@
       "minecraft:pillager": "2025-01-24 03:26:26 +0000",
       "minecraft:blaze": "2025-01-24 21:56:53 +0000",
       "minecraft:skeleton": "2025-01-24 02:27:21 +0000",
+      "minecraft:hoglin": "2025-01-24 22:29:11 +0000",
       "minecraft:vindicator": "2025-01-24 03:27:38 +0000",
       "minecraft:spider": "2025-01-24 03:00:09 +0000",
       "minecraft:creeper": "2025-01-24 02:21:10 +0000",
@@ -7778,73 +7780,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:27:34 +0000"
+      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:27:34 +0000"
+      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:27:34 +0000"
+      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:27:34 +0000"
+      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:27:34 +0000"
+      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:27:34 +0000"
+      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:27:34 +0000"
+      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:27:34 +0000"
+      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:27:34 +0000"
+      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:27:34 +0000"
+      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:27:34 +0000"
+      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:27:34 +0000"
+      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
     },
     "done": false
   },
@@ -7862,7 +7864,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-01-24 22:03:48 +0000"
+      "minecraft:crimson_forest": "2025-01-24 22:03:48 +0000",
+      "minecraft:nether_wastes": "2025-01-24 22:33:16 +0000"
     },
     "done": false
   },
@@ -7980,6 +7983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-24 22:30:09 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/warped_yellow_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-24 22:22:46 +0000"
@@ -8049,6 +8058,12 @@
   "pfm:recipes/furniture/andesite_table_classic": {
     "criteria": {
       "andesite_table_classic": "2025-01-24 21:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-24 22:30:09 +0000"
     },
     "done": true
   },
@@ -8250,6 +8265,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-01-24 22:28:03 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/service_bell": {
     "criteria": {
       "has_nugget": "2025-01-24 22:26:41 +0000"
@@ -8400,6 +8421,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-24 22:28:28 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-01-24 22:12:35 +0000"
@@ -8484,6 +8511,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-24 22:30:09 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_lime_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-24 22:24:58 +0000"
@@ -8511,6 +8544,18 @@
   "pfm:recipes/furniture/warped_lime_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-24 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-24 22:30:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-24 22:30:09 +0000"
     },
     "done": true
   },
