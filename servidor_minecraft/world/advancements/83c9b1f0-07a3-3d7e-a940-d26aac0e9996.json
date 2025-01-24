@@ -6086,6 +6086,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-24 23:08:57 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/calcite_table_modern_dinner": {
     "criteria": {
       "calcite_table_modern_dinner": "2025-01-24 21:41:54 +0000"
@@ -6551,6 +6557,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-24 21:28:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-01-24 23:14:19 +0000"
     },
     "done": true
   },

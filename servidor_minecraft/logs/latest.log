@@ -1031,3 +1031,27 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [24Jan2025 23:08:57.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 was cursed by elrisas741 's Magic
 [24Jan2025 23:08:57.412] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
 [24Jan2025 23:09:28.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aldhair_16 moved wrongly!
+[24Jan2025 23:09:58.547] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[24Jan2025 23:09:58.553] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[24Jan2025 23:10:49.997] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 23:10:50.005] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 23:10:58.197] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 23:10:58.208] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 23:11:26.432] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[24Jan2025 23:11:29.174] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[24Jan2025 23:11:29.182] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[24Jan2025 23:11:33.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Aldhair_16
+[24Jan2025 23:11:33.329] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[24Jan2025 23:12:57.549] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 23:12:57.557] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 23:13:10.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 was slain by elrisas741
+[24Jan2025 23:13:55.899] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[24Jan2025 23:13:55.911] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[24Jan2025 23:14:19.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has reached the goal [Here They Come]
+[24Jan2025 23:14:54.496] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 23:14:54.505] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 23:15:08.249] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 23:15:08.259] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 23:19:10.179] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/187784, l='ServerLevel[world]', x=-1271.63, y=29.00, z=-1582.14] died, message: 'Unemployed was slain by Zombie'
+[24Jan2025 23:19:43.388] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 23:19:43.397] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
