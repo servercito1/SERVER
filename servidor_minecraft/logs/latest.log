@@ -551,3 +551,23 @@
 [24Jan2025 15:49:25.369] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/43396, l='ServerLevel[world]', x=262.83, y=77.00, z=137.51] died: Toxic Slime was slain by elrisas741
 [24Jan2025 15:49:55.370] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/43562, l='ServerLevel[world]', x=260.26, y=80.00, z=156.77] died: Toxic Slime was slain by elrisas741
 [24Jan2025 15:50:17.738] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/41969, l='ServerLevel[world]', x=332.45, y=-20.00, z=157.23] died: Toxic Slime was killed
+[24Jan2025 15:52:50.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/44027, l='ServerLevel[world]', x=387.57, y=-20.00, z=105.37] died: Toxic Slime was killed
+[24Jan2025 15:52:53.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/44065, l='ServerLevel[world]', x=342.74, y=-20.00, z=86.74] died: Toxic Slime was killed
+[24Jan2025 15:52:57.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=445, y=103, z=156} BlockPos{x=445, y=102, z=156}
+[24Jan2025 15:53:07.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=119, z=157} BlockPos{x=456, y=117, z=157}
+[24Jan2025 15:53:07.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=119, z=157} BlockPos{x=456, y=117, z=157}
+[24Jan2025 15:53:07.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=119, z=157} BlockPos{x=456, y=117, z=157}
+[24Jan2025 15:53:07.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=119, z=157} BlockPos{x=456, y=117, z=157}
+[24Jan2025 15:53:07.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=119, z=157} BlockPos{x=456, y=117, z=157}
+[24Jan2025 15:53:07.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=119, z=157} BlockPos{x=456, y=117, z=157}
+[24Jan2025 15:53:07.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=119, z=157} BlockPos{x=456, y=117, z=157}
+[24Jan2025 15:53:09.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/44307, l='ServerLevel[world]', x=418.55, y=-20.00, z=139.26] died: Toxic Slime was killed
+[24Jan2025 15:53:12.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/44333, l='ServerLevel[world]', x=361.87, y=-20.00, z=145.33] died: Toxic Slime was killed
+[24Jan2025 15:53:36.738] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/44714, l='ServerLevel[world]', x=434.80, y=-20.00, z=113.13] died: Toxic Slime was killed
+[24Jan2025 15:53:38.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/44781, l='ServerLevel[world]', x=418.26, y=-20.00, z=130.74] died: Toxic Slime was killed
+[24Jan2025 15:53:42.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/44870, l='ServerLevel[world]', x=405.26, y=-20.00, z=158.26] died: Toxic Slime was killed
+[24Jan2025 15:58:15.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved too quickly! -0.34423228504954295,10.008168668867256,0.6995041523011309
+[24Jan2025 15:58:15.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[24Jan2025 15:58:21.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Strange Biomes]
+[24Jan2025 16:00:31.423] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[24Jan2025 16:00:31.424] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved

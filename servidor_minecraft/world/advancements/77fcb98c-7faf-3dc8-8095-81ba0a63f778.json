@@ -4370,6 +4370,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-01-24 15:54:12 +0000",
+      "minecraft:warped_forest": "2025-01-24 15:58:05 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-01-24 14:33:41 +0000"
@@ -4546,6 +4553,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:inverted_forest": "2025-01-24 15:58:21 +0000",
       "incendium:toxic_heap": "2025-01-24 15:30:24 +0000"
     },
     "done": false
@@ -4565,6 +4573,12 @@
   "mcwfurnitures:recipes/jungle": {
     "criteria": {
       "has_wood": "2025-01-24 14:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-24 15:52:57 +0000"
     },
     "done": true
   },
@@ -4994,6 +5008,12 @@
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-01-24 15:58:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-24 14:34:18 +0000"
@@ -5129,6 +5149,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2025-01-24 15:52:55 +0000"
     },
     "done": true
   },
