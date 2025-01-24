@@ -314,6 +314,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-01-24 03:59:26 +0000",
+      "minecraft:savanna_plateau": "2025-01-24 14:38:38 +0000",
       "minecraft:beach": "2025-01-24 03:48:51 +0000",
       "minecraft:sparse_jungle": "2025-01-24 03:49:47 +0000",
       "minecraft:lukewarm_ocean": "2025-01-24 03:48:38 +0000",
@@ -324,6 +325,7 @@
       "minecraft:jungle": "2025-01-24 03:49:07 +0000",
       "minecraft:warm_ocean": "2025-01-24 03:27:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-24 03:59:35 +0000",
+      "minecraft:savanna": "2025-01-24 14:36:24 +0000",
       "minecraft:plains": "2025-01-24 14:32:05 +0000"
     },
     "done": false
@@ -852,6 +854,7 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
+      "savanna": "2025-01-24 14:39:05 +0000",
       "desert": "2025-01-24 02:15:29 +0000"
     },
     "done": false
@@ -4353,6 +4356,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-01-24 14:33:41 +0000"
@@ -4362,6 +4371,18 @@
   "mcwtrpdoors:recipes/jungle/jungle_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 14:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-01-24 14:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-01-24 14:33:53 +0000"
     },
     "done": true
   },
@@ -4383,6 +4404,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-01-24 14:19:59 +0000"
@@ -4395,6 +4422,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 14:19:53 +0000"
@@ -4404,6 +4437,12 @@
   "pfm:recipes/furniture/jungle_modern_stool": {
     "criteria": {
       "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:34:19 +0000"
     },
     "done": true
   },
@@ -4437,6 +4476,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-01-24 14:19:59 +0000"
@@ -4461,6 +4512,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_shelf": {
     "criteria": {
       "has_planks": "2025-01-24 14:19:59 +0000"
@@ -4479,15 +4548,51 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-01-24 14:33:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_jungle_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
     },
     "done": true
   },
@@ -4515,6 +4620,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_chair": {
     "criteria": {
       "has_planks": "2025-01-24 14:19:59 +0000"
@@ -4539,9 +4650,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 14:19:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
     },
     "done": true
   },
@@ -4554,6 +4683,12 @@
   "pfm:recipes/furniture/jungle_raw_table_log": {
     "criteria": {
       "has_log": "2025-01-24 14:19:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:34:19 +0000"
     },
     "done": true
   },
@@ -4587,9 +4722,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-01-24 14:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-24 14:37:05 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 14:19:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
     },
     "done": true
   },
@@ -4614,6 +4779,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-01-24 14:33:44 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-01-24 14:46:21 +0000"
     },
     "done": true
   },
@@ -4647,6 +4818,42 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-01-24 14:19:53 +0000"
@@ -4656,6 +4863,18 @@
   "pfm:recipes/furniture/stripped_jungle_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
     },
     "done": true
   },
@@ -4683,9 +4902,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-01-24 14:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-24 14:34:18 +0000"
     },
     "done": true
   },
@@ -4707,9 +4950,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_table": {
     "criteria": {
       "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
     },
     "done": true
   },
@@ -4737,9 +5010,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_chair_modern": {
     "criteria": {
       "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-24 14:34:18 +0000"
     },
     "done": true
   },
@@ -4767,6 +5070,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-01-24 14:19:53 +0000"
@@ -4776,6 +5091,24 @@
   "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 14:19:53 +0000"
+    },
+    "done": true
+  },
+  "simplefarming:berries": {
+    "criteria": {
+      "blueberries": "2025-01-24 14:41:36 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-01-24 14:34:18 +0000"
     },
     "done": true
   },
@@ -4797,6 +5130,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-01-24 14:33:33 +0000"
@@ -4806,6 +5157,12 @@
   "mcwtrpdoors:recipes/jungle/jungle_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
     },
     "done": true
   },
