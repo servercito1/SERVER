@@ -966,3 +966,32 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [24Jan2025 22:37:57.840] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-7803, y=74, z=5556} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
 [24Jan2025 22:37:57.840] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-7803, y=74, z=5556}
 [24Jan2025 22:37:58.477] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[24Jan2025 22:38:50.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Aldhair_16) moved too quickly! -9.595598402484029,3.0,0.7440852013351105
+[24Jan2025 22:38:50.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Aldhair_16) moved too quickly! -10.09759693975684,3.0,0.5993206960984025
+[24Jan2025 22:38:50.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Aldhair_16) moved too quickly! -10.599552556788694,3.0,0.4519533895072527
+[24Jan2025 22:38:50.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Aldhair_16) moved too quickly! -11.101485208055237,3.0,0.3031933758056766
+[24Jan2025 22:38:50.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[24Jan2025 22:39:01.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has completed the challenge [Subspace Bubble]
+[24Jan2025 22:39:11.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5701ms or 114 ticks behind
+[24Jan2025 22:39:40.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Burying the Hatchet]
+[24Jan2025 22:42:42.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Frosted Prison]
+[24Jan2025 22:43:00.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Frosted Prison]
+[24Jan2025 22:45:50.201] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 22:45:50.209] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 22:48:11.424] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 22:48:11.432] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 22:48:21.767] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 22:48:21.777] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 22:50:17.648] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/168315, l='ServerLevel[world]', x=-8695.51, y=102.00, z=5574.12] died, message: 'Weaponsmith was slain by Zombie'
+[24Jan2025 22:51:26.409] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 22:51:26.419] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 22:52:51.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8790, y=62, z=5668} BlockPos{x=-8787, y=62, z=5667}
+[24Jan2025 22:52:53.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8787, y=62, z=5668} BlockPos{x=-8780, y=62, z=5666}
+[24Jan2025 22:58:23.400] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 22:58:23.409] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 22:58:45.899] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[24Jan2025 22:58:45.901] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[24Jan2025 22:59:01.945] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[24Jan2025 22:59:01.953] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[24Jan2025 22:59:23.846] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 22:59:23.855] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved

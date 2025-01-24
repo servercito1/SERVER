@@ -307,12 +307,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-01-24 22:40:08 +0000",
+      "minecraft:frozen_river": "2025-01-24 22:41:44 +0000",
       "minecraft:windswept_hills": "2025-01-24 16:14:09 +0000",
       "minecraft:wooded_badlands": "2025-01-24 03:25:38 +0000",
       "minecraft:beach": "2025-01-24 03:39:29 +0000",
       "minecraft:lukewarm_ocean": "2025-01-24 03:32:45 +0000",
       "minecraft:river": "2025-01-24 03:25:02 +0000",
       "minecraft:stony_shore": "2025-01-24 03:28:35 +0000",
+      "minecraft:snowy_plains": "2025-01-24 22:41:56 +0000",
+      "minecraft:snowy_taiga": "2025-01-24 22:41:15 +0000",
       "minecraft:swamp": "2025-01-24 16:20:40 +0000",
       "minecraft:forest": "2025-01-24 16:48:51 +0000",
       "minecraft:lush_caves": "2025-01-24 03:14:49 +0000",
@@ -1554,6 +1558,7 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
+      "taiga": "2025-01-24 22:40:09 +0000",
       "savanna": "2025-01-24 03:54:11 +0000",
       "desert": "2025-01-24 02:15:48 +0000"
     },
@@ -2302,6 +2307,7 @@
       "minecraft:vindicator": "2025-01-24 03:27:38 +0000",
       "minecraft:spider": "2025-01-24 03:00:09 +0000",
       "minecraft:creeper": "2025-01-24 02:21:10 +0000",
+      "minecraft:zombified_piglin": "2025-01-24 22:34:23 +0000",
       "minecraft:witch": "2025-01-24 16:00:09 +0000",
       "minecraft:wither_skeleton": "2025-01-24 03:09:47 +0000",
       "minecraft:husk": "2025-01-24 02:35:40 +0000",
@@ -7780,75 +7786,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
+      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
+      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
+      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
+      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
+      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
+      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
+      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
+      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
+      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
+      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
+      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:33:25 +0000"
+      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
     },
     "done": false
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-24 22:58:34 +0000"
+    },
+    "done": true
   },
   "pfm:recipes/furniture/andesite_kitchen_wall_counter": {
     "criteria": {
@@ -7884,6 +7896,12 @@
   "incendium:withered_forest/root": {
     "criteria": {
       "requirement": "2025-01-24 22:00:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 22:58:34 +0000"
     },
     "done": true
   },
@@ -8061,6 +8079,12 @@
     },
     "done": true
   },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-01-24 22:43:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-01-24 22:30:09 +0000"
@@ -8082,6 +8106,12 @@
   "pfm:recipes/furniture/bamboo_yellow_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 22:58:34 +0000"
     },
     "done": true
   },
@@ -8172,6 +8202,12 @@
   "pfm:recipes/furniture/andesite_table_basic": {
     "criteria": {
       "andesite_table_basic": "2025-01-24 21:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-24 22:58:34 +0000"
     },
     "done": true
   },
@@ -8277,6 +8313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-24 22:58:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-01-24 22:10:13 +0000"
@@ -8379,6 +8421,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/smooth_stone_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 22:58:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2025-01-24 21:50:12 +0000"
@@ -8466,6 +8514,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-01-24 22:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-01-24 22:33:46 +0000"
     },
     "done": true
   },
@@ -8559,6 +8613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-24 22:58:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_lime_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-24 22:24:58 +0000"
@@ -8634,6 +8694,12 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-01-24 22:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-01-24 22:39:01 +0000"
     },
     "done": true
   },

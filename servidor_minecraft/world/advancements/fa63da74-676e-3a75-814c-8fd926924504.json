@@ -289,9 +289,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-01-24 22:58:55 +0000",
       "log_spam_fixer": "2025-01-24 02:18:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -4500,6 +4501,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-24 21:46:07 +0000"
@@ -4515,6 +4522,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-01-24 21:27:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
     },
     "done": true
   },
@@ -4590,6 +4603,18 @@
     },
     "done": false
   },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-24 21:17:16 +0000"
@@ -4599,6 +4624,12 @@
   "pfm:recipes/furniture/birch_log_stool": {
     "criteria": {
       "has_log": "2025-01-24 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
     },
     "done": true
   },
@@ -4617,6 +4648,18 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-24 21:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
     },
     "done": true
   },
@@ -4644,6 +4687,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:tomahawk": {
     "criteria": {
       "has_tomahawk": "2025-01-24 22:32:45 +0000"
@@ -4656,6 +4705,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/oak_chair_classic_white": {
+    "criteria": {
+      "oak_chair_classic_white": "2025-01-24 22:43:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-01-24 22:13:47 +0000"
@@ -4665,6 +4720,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-01-24 21:27:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
     },
     "done": true
   },
@@ -4710,9 +4771,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2025-01-24 22:03:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
     },
     "done": true
   },
@@ -4740,6 +4813,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/white_shower_towel": {
+    "criteria": {
+      "has_white_wool": "2025-01-24 22:43:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-01-24 21:17:16 +0000"
@@ -4764,6 +4843,30 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-01-24 22:43:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
       "killed_illusioner": "2025-01-24 21:38:32 +0000"
@@ -4776,9 +4879,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:javelin": {
     "criteria": {
       "has_javelin": "2025-01-24 22:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
     },
     "done": true
   },
@@ -4800,9 +4921,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-01-24 22:52:49 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-01-24 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-01-24 22:43:43 +0000"
     },
     "done": true
   },
@@ -4824,6 +4957,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
       "killed_illusioner": "2025-01-24 21:38:32 +0000"
@@ -4833,6 +4972,18 @@
   "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_lamp": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-01-24 22:43:43 +0000"
     },
     "done": true
   },
@@ -4854,6 +5005,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 21:17:16 +0000"
@@ -4863,6 +5026,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-24 21:17:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-01-24 22:43:43 +0000"
     },
     "done": true
   },
