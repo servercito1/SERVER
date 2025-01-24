@@ -7786,73 +7786,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
+      "log_spam_fixer": "2025-01-24 23:08:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
+      "log_spam_fixer": "2025-01-24 23:08:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
+      "log_spam_fixer": "2025-01-24 23:08:55 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
+      "log_spam_fixer": "2025-01-24 23:08:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
+      "log_spam_fixer": "2025-01-24 23:08:55 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
+      "log_spam_fixer": "2025-01-24 23:08:55 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
+      "log_spam_fixer": "2025-01-24 23:08:55 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
+      "log_spam_fixer": "2025-01-24 23:08:55 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
+      "log_spam_fixer": "2025-01-24 23:08:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
+      "log_spam_fixer": "2025-01-24 23:08:55 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
+      "log_spam_fixer": "2025-01-24 23:08:55 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 22:58:55 +0000"
+      "log_spam_fixer": "2025-01-24 23:08:55 +0000"
     },
     "done": false
   },
@@ -8061,6 +8061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-01-24 22:59:30 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_lime_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-24 22:24:58 +0000"
@@ -8211,6 +8217,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-01-24 23:00:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "supplementaries:blackboard_white": "2025-01-24 22:08:46 +0000"
@@ -8277,6 +8289,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-01-24 23:00:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-24 21:37:32 +0000"
@@ -8316,6 +8334,12 @@
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-01-24 22:58:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2025-01-24 22:59:30 +0000"
     },
     "done": true
   },
@@ -8382,6 +8406,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-01-24 22:08:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-01-24 23:00:00 +0000"
     },
     "done": true
   },

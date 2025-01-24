@@ -5858,6 +5858,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
@@ -5873,6 +5891,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-24 21:28:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
     },
     "done": true
   },
@@ -5912,6 +5936,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
@@ -5927,6 +5957,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
     },
     "done": true
   },
@@ -5954,6 +5990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-01-24 21:07:28 +0000"
@@ -5978,6 +6020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
@@ -5993,6 +6041,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-01-24 21:29:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-01-24 22:59:41 +0000"
     },
     "done": true
   },
@@ -6020,6 +6074,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-01-24 22:18:51 +0000"
@@ -6032,9 +6092,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
     },
     "done": true
   },
@@ -6047,6 +6119,12 @@
   "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_cherry": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
     },
     "done": true
   },
@@ -6098,6 +6176,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
@@ -6107,6 +6197,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
     },
     "done": true
   },
@@ -6143,6 +6239,12 @@
   "pfm:recipes/furniture/dark_oak_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
     },
     "done": true
   },
@@ -6278,6 +6380,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_cherry": {
+    "criteria": {
+      "has_the_recipe": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
@@ -6287,6 +6395,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_table_log": {
+    "criteria": {
+      "has_log": "2025-01-24 23:03:29 +0000"
     },
     "done": true
   },
@@ -6308,6 +6422,18 @@
     },
     "done": true
   },
+  "another_furniture:recipes/cherry_table": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
@@ -6323,6 +6449,12 @@
   "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2025-01-24 22:59:41 +0000"
     },
     "done": true
   },
@@ -6344,6 +6476,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/calcite_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-24 21:41:54 +0000"
@@ -6359,6 +6497,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-01-24 22:52:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_chair": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
     },
     "done": true
   },
@@ -6383,6 +6527,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
     },
     "done": true
   },
@@ -6494,6 +6644,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
@@ -6536,6 +6692,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/calcite_table_dinner": {
     "criteria": {
       "calcite_table_dinner": "2025-01-24 21:41:54 +0000"
@@ -6572,15 +6746,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/calcite_chair": {
     "criteria": {
       "calcite_chair": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_chair": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
     },
     "done": true
   },
@@ -6593,6 +6785,24 @@
   "pfm:recipes/furniture/andesite_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
     },
     "done": true
   },
@@ -6632,9 +6842,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
     },
     "done": true
   },
@@ -6653,6 +6875,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
     },
     "done": true
   },
@@ -6683,6 +6911,12 @@
   "pfm:recipes/furniture/calcite_table_basic": {
     "criteria": {
       "calcite_table_basic": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
     },
     "done": true
   },
@@ -6719,6 +6953,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_shelf": {
+    "criteria": {
+      "has_planks": "2025-01-24 23:03:29 +0000"
     },
     "done": true
   },

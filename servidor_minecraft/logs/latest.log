@@ -995,3 +995,39 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [24Jan2025 22:59:01.953] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
 [24Jan2025 22:59:23.846] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
 [24Jan2025 22:59:23.855] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 22:59:58.760] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 22:59:58.771] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 23:00:00.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has reached the goal [Strong Undead]
+[24Jan2025 23:00:00.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has completed the challenge [Crusade Against Curse]
+[24Jan2025 23:00:01.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Your First Receptacle]
+[24Jan2025 23:01:01.849] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 23:01:01.851] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 23:02:11.251] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 23:02:11.260] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 23:02:53.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 lost connection: Timed out
+[24Jan2025 23:02:53.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 left the game
+[24Jan2025 23:03:02.097] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 23:03:02.106] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 23:05:04.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [22PieroRR: Set Allow PvP Combat to false]
+[24Jan2025 23:05:12.201] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 23:05:12.210] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 23:05:57.050] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[24Jan2025 23:05:57.059] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[24Jan2025 23:06:13.971] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maikol_4988[/127.244.236.233:51643] logged in with entity id 185139 at (-8817.5, 93.0, 5569.5)
+[24Jan2025 23:06:13.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 joined the game
+[24Jan2025 23:06:14.088] [Server thread/INFO] [Jade/]: Syncing config to Maikol_4988 (fa63da74-676e-3a75-814c-8fd926924504)
+[24Jan2025 23:06:25.996] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 23:06:26.004] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 23:07:13.099] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 23:07:13.101] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 23:07:27.149] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 23:07:27.159] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 23:07:55.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved wrongly!
+[24Jan2025 23:08:36.646] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[24Jan2025 23:08:36.655] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[24Jan2025 23:08:56.747] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[24Jan2025 23:08:56.760] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 23:08:57.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has reached the goal [Strong or Careful]
+[24Jan2025 23:08:57.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 was cursed by elrisas741 's Magic
+[24Jan2025 23:08:57.412] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[24Jan2025 23:09:28.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aldhair_16 moved wrongly!
