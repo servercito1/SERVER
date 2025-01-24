@@ -4357,121 +4357,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 16:41:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 16:41:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 16:41:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 16:41:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 16:41:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 16:41:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 16:41:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 16:41:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 16:41:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 16:41:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 16:41:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-24 16:41:57 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/jungle_coffee_table_classic": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-01-24 14:19:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-01-24 16:19:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-01-24 16:13:31 +0000",
-      "minecraft:nether_wastes": "2025-01-24 16:00:04 +0000",
-      "minecraft:soul_sand_valley": "2025-01-24 16:04:40 +0000",
-      "minecraft:basalt_deltas": "2025-01-24 15:54:12 +0000",
-      "minecraft:warped_forest": "2025-01-24 15:58:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2025-01-24 14:33:41 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/soul_vulture": {
-    "criteria": {
-      "killed": "2025-01-24 16:07:06 +0000"
     },
     "done": true
   },
@@ -4481,135 +4369,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-01-24 16:19:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
-    "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2025-01-24 14:37:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_fence": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_table_modern_dinner": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_classic_stool": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall": {
-    "criteria": {
-      "has_blackstone": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-01-24 14:33:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-01-24 16:19:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/jungle/jungle_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 14:19:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_table_basic": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_simple_stool": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/jungle_chair": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_table_modern_dinner": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/stone_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:34:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_kitchen_wall_counter": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_table_classic": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-01-24 15:27:42 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:40:57 +0000"
     },
     "done": true
   },
@@ -4619,123 +4381,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs": {
-    "criteria": {
-      "has_blackstone": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_modern_stool": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/stone_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:34:19 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/jungle/jungle_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 14:19:53 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_sign": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
-    "criteria": {
-      "has_snout_armor_trim_smithing_template": "2025-01-24 16:11:21 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_jungle": {
-    "criteria": {
-      "has_the_recipe": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_table_classic": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_sign": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2025-01-24 14:34:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_fence": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-01-24 14:33:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-01-24 15:31:03 +0000"
     },
     "done": true
   },
@@ -4745,64 +4393,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/jungle_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-01-24 14:19:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-01-24 14:34:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-01-24 14:34:18 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/soul_searcher": {
-    "criteria": {
-      "incendium:inverted_forest": "2025-01-24 15:58:21 +0000",
-      "incendium:toxic_heap": "2025-01-24 15:30:24 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_cherry_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2025-01-24 14:34:19 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_coffee_table_basic": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/jungle_shelf": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
     },
     "done": true
   },
@@ -4812,136 +4405,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-01-24 15:52:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/jungle_window": {
-    "criteria": {
-      "has_ingredient": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-01-24 14:33:33 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2025-01-24 14:34:19 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/stone_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:34:19 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_swamp_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 16:40:57 +0000",
-      "has_the_recipe": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2025-01-24 14:34:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2025-01-24 14:34:19 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/stripped_jungle_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-01-24 16:11:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2025-01-24 14:34:19 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_cherry": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
   "mcwdoors:recipes/jungle": {
     "criteria": {
       "has_wood": "2025-01-24 14:19:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-01-24 15:30:20 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_classic_stool": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_table_dinner": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "endertrigon:recipes/tools/dragon_horn": {
-    "criteria": {
-      "has_ender_eye": "2025-01-24 16:19:24 +0000"
     },
     "done": true
   },
@@ -4951,123 +4417,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/checker": {
-    "criteria": {
-      "has_cobblestone": "2025-01-24 14:34:19 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_chair": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_button": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_jungle": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_classic_nightstand": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/stripped_cherry_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_spruce": {
-    "criteria": {
-      "has_the_recipe": "2025-01-24 14:30:51 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:34:18 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackboard": {
-    "criteria": {
-      "has_blackstone": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-01-24 14:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-01-24 15:31:03 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/cherry": {
-    "criteria": {
-      "has_wood": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/jungle/jungle_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 14:19:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_kitchen_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
     },
     "done": true
   },
@@ -5077,207 +4429,15 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/stone_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:34:19 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/blackstone_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_coffee_table_basic": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-01-24 14:33:41 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_chair_classic": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-01-24 14:27:56 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/tavern_quest": {
-    "criteria": {
-      "open_tavern_chest": "2025-01-24 14:37:34 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/blackstone_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-01-24 14:37:05 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/jungle/jungle_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 14:19:53 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/jungle/jungle_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 14:19:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-01-24 16:11:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_whispering_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_table_basic": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_cherry": {
-    "criteria": {
-      "has_the_recipe": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_table_log": {
-    "criteria": {
-      "has_log": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-01-24 14:33:44 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthi": {
-    "criteria": {
-      "barako": "2025-01-24 14:46:21 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_log_stool": {
-    "criteria": {
-      "has_log": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2025-01-24 14:24:29 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/cherry_table": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-01-24 16:19:16 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/service_bell": {
-    "criteria": {
-      "has_nugget": "2025-01-24 14:33:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_modern_stool": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_table_log": {
-    "criteria": {
-      "has_log": "2025-01-24 14:19:59 +0000"
     },
     "done": true
   },
@@ -5293,21 +4453,453 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/cherry_table_dinner": {
+  "pfm:recipes/furniture/jungle_kitchen_cabinet": {
     "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
+      "has_planks": "2025-01-24 14:19:53 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 14:19:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_log_stool": {
+    "criteria": {
+      "has_log": "2025-01-24 14:19:53 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 14:19:53 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_beach": {
+    "criteria": {
+      "has_logs": "2025-01-24 14:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-24 14:19:53 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 14:19:53 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 14:19:53 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 14:19:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_shelf": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_jungle_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_table_log": {
+    "criteria": {
+      "has_log": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_jungle_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_jungle_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_table": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-24 14:24:29 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-01-24 14:27:52 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-24 14:27:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_the_recipe": "2025-01-24 14:30:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_spruce_sign": "2025-01-24 14:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-24 14:33:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/service_bell": {
+    "criteria": {
+      "has_nugget": "2025-01-24 14:33:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-24 14:33:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-24 14:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-24 14:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-24 14:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-24 14:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-01-24 14:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-01-24 14:33:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
     },
     "done": true
   },
   "pfm:recipes/furniture/andesite_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-24 14:34:18 +0000"
-    },
-    "done": true
-  },
-  "incendium:root": {
-    "criteria": {
-      "requirement": "2025-01-24 15:30:20 +0000"
     },
     "done": true
   },
@@ -5323,135 +4915,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/grease_ball": {
-    "criteria": {
-      "has_slimeball": "2025-01-24 15:31:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-01-24 14:34:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2025-01-24 14:34:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-01-24 14:34:18 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:53 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap": {
-    "criteria": {
-      "has_water_bucket": "2025-01-24 15:25:22 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_chair": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/stripped_jungle_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_chair_modern": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-01-24 14:34:19 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackstone_lamp": {
-    "criteria": {
-      "has_blackstone": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2025-01-24 14:34:19 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_chair_dinner": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-01-24 16:19:22 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_coffee_table_modern": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/ash_brick": {
-    "criteria": {
-      "forge:ash": "2025-01-24 15:29:28 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_raw_table_log": {
-    "criteria": {
-      "has_log": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/jungle/jungle_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 14:19:53 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_spruce": {
-    "criteria": {
-      "has_spruce_sign": "2025-01-24 14:30:51 +0000"
     },
     "done": true
   },
@@ -5461,45 +4927,9 @@
     },
     "done": true
   },
-  "incendium:toxic_heap/root": {
-    "criteria": {
-      "requirement": "2025-01-24 15:30:24 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/blackstone_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2025-01-24 14:34:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ornate_iron_window": {
-    "criteria": {
-      "has_ingredient": "2025-01-24 14:33:33 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/root": {
-    "criteria": {
-      "incendium:inverted_forest": "2025-01-24 15:58:21 +0000"
     },
     "done": true
   },
@@ -5509,51 +4939,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/stripped_jungle_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_log_stool": {
-    "criteria": {
-      "has_log": "2025-01-24 14:19:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_slab": {
-    "criteria": {
-      "has_blackstone": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-01-24 16:02:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/stripped_cherry_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/andesite_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-01-24 14:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-01-24 15:25:22 +0000"
     },
     "done": true
   },
@@ -5563,153 +4951,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-01-24 16:19:22 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/jungle_table": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_door": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_simple_bunk_ladder": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-01-24 16:19:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_better_fortress": "2025-01-24 16:18:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2025-01-24 14:34:19 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_coffee_table_classic": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_slab": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/cherry": {
-    "criteria": {
-      "has_wood": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_slab": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-01-24 16:13:38 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_all_illager_structures": {
-    "criteria": {
-      "illager_camp": "2025-01-24 14:27:52 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/cherry_kitchen_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/jungle/jungle_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 14:19:53 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/cherry_chair": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flower_box": {
-    "criteria": {
-      "has_dirt": "2025-01-24 16:23:19 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_classic_nightstand": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_chair_dinner": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
     },
     "done": true
   },
@@ -5722,12 +4972,6 @@
   "pfm:recipes/furniture/andesite_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-01-24 14:34:18 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_chair_modern": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
     },
     "done": true
   },
@@ -5749,72 +4993,6 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/cherry_kitchen_wall_counter": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_simple_stool": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_coffee_table_modern": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_glazed_terracotta": {
-    "criteria": {
-      "has_green_terracotta": "2025-01-24 15:52:55 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_chair_classic": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/basic_shower_head": {
-    "criteria": {
-      "has_water_bucket": "2025-01-24 15:25:22 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/print_beach": {
-    "criteria": {
-      "has_logs": "2025-01-24 14:19:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
@@ -5827,117 +5005,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-01-24 14:19:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-01-24 15:31:03 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 14:19:53 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/slime_poison": {
-    "criteria": {
-      "poison": "2025-01-24 15:31:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-01-24 15:30:20 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/blackstone_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone": {
-    "criteria": {
-      "has_blackstone": "2025-01-24 16:11:17 +0000"
-    },
-    "done": true
-  },
-  "simplefarming:berries": {
-    "criteria": {
-      "blueberries": "2025-01-24 14:41:36 +0000"
-    },
-    "done": false
-  },
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 16:40:57 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/cherry_shelf": {
-    "criteria": {
-      "has_planks": "2025-01-24 16:41:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-01-24 14:34:18 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/jungle/jungle_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 14:19:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_simple_bunk_ladder": {
-    "criteria": {
-      "has_planks": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/jungle/jungle_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 14:19:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-01-24 16:19:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-01-24 16:02:08 +0000"
     },
     "done": true
   },
@@ -5953,27 +5029,879 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-24 14:34:19 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/sconce_soul": {
-    "criteria": {
-      "has_iron_nugget": "2025-01-24 14:33:33 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/jungle/jungle_blossom_trapdoor": {
-    "criteria": {
-      "has_plankss": "2025-01-24 14:19:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-01-24 14:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-01-24 14:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-24 14:37:05 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-01-24 14:37:34 +0000"
+    },
+    "done": true
+  },
+  "simplefarming:berries": {
+    "criteria": {
+      "blueberries": "2025-01-24 14:41:36 +0000"
+    },
+    "done": false
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-01-24 14:46:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2025-01-24 15:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-24 15:25:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basic_shower_head": {
+    "criteria": {
+      "has_water_bucket": "2025-01-24 15:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-24 15:27:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-01-24 15:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-24 15:30:20 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-01-24 15:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-24 15:30:20 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-01-24 15:58:21 +0000",
+      "incendium:toxic_heap": "2025-01-24 15:30:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-01-24 15:30:24 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-01-24 15:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-24 15:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-24 15:31:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/grease_ball": {
+    "criteria": {
+      "has_slimeball": "2025-01-24 15:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-24 15:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2025-01-24 15:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-24 15:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-24 16:13:31 +0000",
+      "minecraft:nether_wastes": "2025-01-24 16:00:04 +0000",
+      "minecraft:soul_sand_valley": "2025-01-24 16:04:40 +0000",
+      "minecraft:basalt_deltas": "2025-01-24 15:54:12 +0000",
+      "minecraft:warped_forest": "2025-01-24 15:58:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-01-24 15:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-24 16:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-01-24 16:02:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-01-24 16:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-24 16:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "has_blackstone": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-01-24 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-01-24 16:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-24 16:11:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-01-24 16:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-01-24 16:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-24 16:19:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-24 16:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-24 16:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-24 16:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-24 16:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-24 16:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-24 16:19:24 +0000"
+    },
+    "done": true
+  },
+  "endertrigon:recipes/tools/dragon_horn": {
+    "criteria": {
+      "has_ender_eye": "2025-01-24 16:19:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-24 16:19:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-01-24 16:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 16:40:57 +0000",
+      "has_the_recipe": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_log_stool": {
+    "criteria": {
+      "has_log": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_cherry": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_cherry": {
+    "criteria": {
+      "has_the_recipe": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_table_log": {
+    "criteria": {
+      "has_log": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_table": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_chair": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_cherry_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_chair": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_shelf": {
+    "criteria": {
+      "has_planks": "2025-01-24 16:41:09 +0000"
     },
     "done": true
   },
