@@ -4,7 +4,7 @@
 	owner: "0095057f-b0f1-35f0-92b7-7c2b5a2b86fe"
 	ranks: {
 		0095057f-b0f1-35f0-92b7-7c2b5a2b86fe: "owner"
-		77fcb98c-7faf-3dc8-8095-81ba0a63f778: "invited"
+		77fcb98c-7faf-3dc8-8095-81ba0a63f778: "member"
 	}
 	properties: {
 		"ftbteams:display_name": ""
@@ -28,6 +28,8 @@
 	message_history: [
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1737731351430L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"22PieroRR\"}]}" }
 		{ from: "0095057f-b0f1-35f0-92b7-7c2b5a2b86fe", date: 1737731438411L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"elrisas741\"}]}" }
+		{ from: "0095057f-b0f1-35f0-92b7-7c2b5a2b86fe", date: 1737732224760L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"elrisas741\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1737732225925L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"elrisas741\"}]}" }
 	]
 	extra: { }
 }

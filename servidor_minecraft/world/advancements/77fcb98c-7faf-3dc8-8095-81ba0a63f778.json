@@ -313,6 +313,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-01-24 15:22:49 +0000",
       "minecraft:birch_forest": "2025-01-24 03:59:26 +0000",
       "minecraft:bamboo_jungle": "2025-01-24 14:52:02 +0000",
       "minecraft:savanna_plateau": "2025-01-24 14:38:38 +0000",
@@ -4431,6 +4432,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-24 15:27:42 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 14:19:53 +0000"
@@ -4863,6 +4870,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2025-01-24 15:25:22 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_jungle_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-01-24 14:19:59 +0000"
@@ -4956,6 +4969,12 @@
   "pfm:recipes/furniture/andesite_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-24 15:25:22 +0000"
     },
     "done": true
   },
@@ -5064,6 +5083,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-24 14:19:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basic_shower_head": {
+    "criteria": {
+      "has_water_bucket": "2025-01-24 15:25:22 +0000"
     },
     "done": true
   },
