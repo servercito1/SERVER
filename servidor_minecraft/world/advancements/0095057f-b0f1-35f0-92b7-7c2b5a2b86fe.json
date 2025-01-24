@@ -307,6 +307,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:windswept_hills": "2025-01-24 16:14:09 +0000",
       "minecraft:wooded_badlands": "2025-01-24 03:25:38 +0000",
       "minecraft:beach": "2025-01-24 03:39:29 +0000",
       "minecraft:lukewarm_ocean": "2025-01-24 03:32:45 +0000",
@@ -317,6 +318,7 @@
       "minecraft:jungle": "2025-01-24 03:28:06 +0000",
       "minecraft:warm_ocean": "2025-01-24 03:14:13 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-24 03:37:53 +0000",
+      "minecraft:flower_forest": "2025-01-24 16:13:33 +0000",
       "minecraft:savanna": "2025-01-24 03:39:41 +0000",
       "minecraft:plains": "2025-01-24 03:39:54 +0000"
     },
@@ -5494,7 +5496,8 @@
     "criteria": {
       "smoker": "2025-01-24 15:20:22 +0000",
       "blastfurnace": "2025-01-24 04:06:45 +0000",
-      "lectern": "2025-01-24 04:08:55 +0000"
+      "lectern": "2025-01-24 04:08:55 +0000",
+      "woodworkingtable": "2025-01-24 16:13:03 +0000"
     },
     "done": false
   },
@@ -6386,11 +6389,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-24 16:11:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 15:38:57 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "librarian": "2025-01-24 16:09:19 +0000",
+      "farmer": "2025-01-24 16:17:28 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
@@ -6998,6 +7014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-24 16:11:05 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-24 15:20:27 +0000"
@@ -7055,6 +7077,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-01-24 15:34:56 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-01-24 16:09:19 +0000"
     },
     "done": true
   },
@@ -7202,6 +7230,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-24 16:09:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 15:38:57 +0000"
@@ -7337,6 +7371,12 @@
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-24 15:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-24 16:11:05 +0000"
     },
     "done": true
   },
