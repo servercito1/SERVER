@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "cataclysm:azure_seastone"
+    },
+    {
+      "item": "cataclysm:azure_seastone"
+    },
+    {
+      "item": "cataclysm:azure_seastone"
+    },
+    {
+      "item": "cataclysm:polished_azure_seastone"
+    },
+    {
+      "item": "cataclysm:polished_azure_seastone"
+    },
+    {
+      "item": "cataclysm:polished_azure_seastone"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:azure_seastone_cataclysm_coffee_table_basic"
+  }
+}

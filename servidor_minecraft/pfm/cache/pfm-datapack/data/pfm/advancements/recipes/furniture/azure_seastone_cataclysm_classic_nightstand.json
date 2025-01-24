@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "azure_seastone_cataclysm_classic_nightstand": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cataclysm:polished_azure_seastone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:azure_seastone_cataclysm_classic_nightstand"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "azure_seastone_cataclysm_classic_nightstand",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:azure_seastone_cataclysm_classic_nightstand"
+    ]
+  },
+  "sends_telemetry_event": true
+}

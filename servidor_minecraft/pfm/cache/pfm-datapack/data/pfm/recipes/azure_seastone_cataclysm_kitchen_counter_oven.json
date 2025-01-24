@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "cataclysm:azure_seastone"
+    },
+    {
+      "item": "cataclysm:azure_seastone"
+    },
+    {
+      "item": "cataclysm:azure_seastone"
+    },
+    {
+      "item": "cataclysm:azure_seastone"
+    },
+    {
+      "item": "cataclysm:azure_seastone"
+    },
+    {
+      "item": "cataclysm:polished_azure_seastone"
+    },
+    {
+      "item": "cataclysm:polished_azure_seastone"
+    },
+    {
+      "item": "cataclysm:polished_azure_seastone"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:azure_seastone_cataclysm_kitchen_counter_oven"
+  }
+}

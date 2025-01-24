@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "cataclysm:polished_obsidian"
+    },
+    {
+      "item": "cataclysm:polished_obsidian"
+    },
+    {
+      "item": "cataclysm:polished_obsidian"
+    },
+    {
+      "item": "cataclysm:polished_obsidian"
+    },
+    {
+      "item": "cataclysm:polished_obsidian"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:obsidian_cataclysm_kitchen_drawer"
+  }
+}

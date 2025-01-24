@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:obsidian_cataclysm_table_classic"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "obsidian_cataclysm_table_classic": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cataclysm:polished_obsidian"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "obsidian_cataclysm_table_classic",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:obsidian_cataclysm_table_classic"
+    ]
+  },
+  "sends_telemetry_event": true
+}

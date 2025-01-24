@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "cataclysm:polished_obsidian"
+    },
+    {
+      "item": "cataclysm:polished_obsidian"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:obsidian_cataclysm_chair_classic"
+  }
+}

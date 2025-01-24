@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "cataclysm:polished_azure_seastone"
+    },
+    {
+      "item": "cataclysm:polished_azure_seastone"
+    },
+    {
+      "item": "cataclysm:polished_azure_seastone"
+    },
+    {
+      "item": "cataclysm:polished_azure_seastone"
+    },
+    {
+      "item": "cataclysm:polished_azure_seastone"
+    },
+    {
+      "item": "cataclysm:polished_azure_seastone"
+    },
+    {
+      "item": "cataclysm:polished_azure_seastone"
+    },
+    {
+      "item": "cataclysm:polished_azure_seastone"
+    },
+    {
+      "item": "cataclysm:polished_azure_seastone"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:azure_seastone_cataclysm_kitchen_wall_counter"
+  }
+}

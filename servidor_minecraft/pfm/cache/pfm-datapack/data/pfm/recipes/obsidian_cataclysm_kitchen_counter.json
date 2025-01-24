@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "cataclysm:polished_obsidian"
+    },
+    {
+      "item": "cataclysm:polished_obsidian"
+    },
+    {
+      "item": "cataclysm:polished_obsidian"
+    },
+    {
+      "item": "cataclysm:polished_obsidian"
+    },
+    {
+      "item": "cataclysm:polished_obsidian"
+    },
+    {
+      "item": "cataclysm:polished_obsidian"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:obsidian_cataclysm_kitchen_counter"
+  }
+}
