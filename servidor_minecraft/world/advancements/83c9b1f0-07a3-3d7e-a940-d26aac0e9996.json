@@ -651,7 +651,8 @@
       "cooked_porkchop": "2025-01-24 04:22:16 +0000",
       "cooked_mutton": "2025-01-24 03:50:05 +0000",
       "cooked_beef": "2025-01-24 03:00:04 +0000",
-      "bread": "2025-01-24 02:54:40 +0000"
+      "bread": "2025-01-24 02:54:40 +0000",
+      "cooked_rabbit": "2025-01-24 21:37:15 +0000"
     },
     "done": false
   },
@@ -5797,9 +5798,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/calcite_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },
@@ -5812,6 +5825,18 @@
   "pfm:recipes/furniture/andesite_classic_nightstand": {
     "criteria": {
       "andesite_classic_nightstand": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
     },
     "done": true
   },
@@ -5833,9 +5858,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/calcite_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_chair_classic": {
+    "criteria": {
+      "calcite_chair_classic": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_chair_classic": {
     "criteria": {
       "andesite_chair_classic": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
     },
     "done": true
   },
@@ -5881,6 +5930,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-01-24 21:25:34 +0000"
@@ -5911,6 +5966,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/calcite_table_modern_dinner": {
+    "criteria": {
+      "calcite_table_modern_dinner": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-01-24 21:25:34 +0000"
@@ -5923,6 +5984,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_oak_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-24 21:25:34 +0000"
@@ -5932,6 +5999,12 @@
   "pfm:recipes/furniture/gray_shower_towel": {
     "criteria": {
       "has_gray_wool": "2025-01-24 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_chair_modern": {
+    "criteria": {
+      "calcite_chair_modern": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },
@@ -5950,6 +6023,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },
@@ -5983,15 +6062,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-01-24 21:22:09 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-01-24 21:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
     },
     "done": true
   },
@@ -6019,6 +6116,30 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_table_classic": {
+    "criteria": {
+      "calcite_table_classic": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
@@ -6037,6 +6158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
@@ -6046,6 +6173,12 @@
   "another_furniture:recipes/gray_stool": {
     "criteria": {
       "has_wool": "2025-01-24 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },
@@ -6061,15 +6194,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/calcite_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-01-24 21:06:39 +0000"
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-01-24 21:40:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_chair_dinner": {
+    "criteria": {
+      "calcite_chair_dinner": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },
@@ -6082,6 +6233,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-24 21:28:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },
@@ -6103,6 +6260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
@@ -6115,9 +6278,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/calcite_table_natural": {
+    "criteria": {
+      "calcite_table_natural": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-01-24 21:07:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },
@@ -6130,6 +6305,24 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_coffee_table_classic": {
+    "criteria": {
+      "calcite_coffee_table_classic": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
     },
     "done": true
   },
@@ -6151,9 +6344,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/calcite_table_dinner": {
+    "criteria": {
+      "calcite_table_dinner": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-24 21:28:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },
@@ -6169,15 +6374,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/calcite_chair": {
+    "criteria": {
+      "calcite_chair": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_classic_nightstand": {
+    "criteria": {
+      "calcite_classic_nightstand": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },
@@ -6193,6 +6416,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/calcite_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
@@ -6205,9 +6440,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_chair_classic_gray": {
     "criteria": {
       "oak_chair_classic_gray": "2025-01-24 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_table_basic": {
+    "criteria": {
+      "calcite_table_basic": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },
@@ -6223,9 +6470,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },
@@ -6241,9 +6500,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/calcite_coffee_table_modern": {
+    "criteria": {
+      "calcite_coffee_table_modern": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2025-01-24 21:06:39 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },
@@ -6268,6 +6539,12 @@
   "pfm:recipes/furniture/andesite_modern_stool": {
     "criteria": {
       "has_planks": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_coffee_table_basic": {
+    "criteria": {
+      "calcite_coffee_table_basic": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },

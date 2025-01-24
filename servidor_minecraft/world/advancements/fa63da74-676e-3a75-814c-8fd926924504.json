@@ -313,6 +313,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-01-24 21:39:51 +0000",
+      "minecraft:taiga": "2025-01-24 21:36:26 +0000",
       "minecraft:birch_forest": "2025-01-24 03:59:27 +0000",
       "minecraft:beach": "2025-01-24 03:48:51 +0000",
       "minecraft:dark_forest": "2025-01-24 21:24:13 +0000",
@@ -330,6 +332,7 @@
       "minecraft:desert": "2025-01-24 02:18:49 +0000",
       "minecraft:windswept_forest": "2025-01-24 21:22:06 +0000",
       "minecraft:jungle": "2025-01-24 03:49:13 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-01-24 21:38:14 +0000",
       "minecraft:snowy_beach": "2025-01-24 21:07:25 +0000",
       "minecraft:windswept_savanna": "2025-01-24 21:24:10 +0000",
       "minecraft:warm_ocean": "2025-01-24 03:28:32 +0000",
@@ -1022,7 +1025,8 @@
     "criteria": {
       "bread": "2025-01-24 02:24:13 +0000",
       "golden_apple": "2025-01-24 02:54:07 +0000",
-      "enchanted_golden_apple": "2025-01-24 02:58:10 +0000"
+      "enchanted_golden_apple": "2025-01-24 02:58:10 +0000",
+      "carrot": "2025-01-24 21:43:19 +0000"
     },
     "done": false
   },
@@ -4473,73 +4477,73 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:34:00 +0000"
+      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:34:00 +0000"
+      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:34:00 +0000"
+      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:34:00 +0000"
+      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:34:00 +0000"
+      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:34:00 +0000"
+      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:34:00 +0000"
+      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:34:00 +0000"
+      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:34:00 +0000"
+      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:34:00 +0000"
+      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:34:00 +0000"
+      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:34:00 +0000"
+      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
     },
     "done": false
   },
@@ -4717,6 +4721,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-01-24 21:39:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-01-24 21:17:16 +0000"
@@ -4740,6 +4750,12 @@
       "has_logs": "2025-01-24 21:17:16 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-01-24 21:38:32 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/flower_box": {
     "criteria": {
@@ -4768,6 +4784,12 @@
   "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-01-24 21:38:32 +0000"
     },
     "done": true
   },
