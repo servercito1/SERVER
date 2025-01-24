@@ -664,3 +664,9 @@
 [24Jan2025 16:39:15.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> intenta p
 [24Jan2025 16:39:19.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> pa ver si es bug
 [24Jan2025 16:40:08.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> ya
+[24Jan2025 16:42:08.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Disconnected
+[24Jan2025 16:42:08.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
+[24Jan2025 16:46:59.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: 22PieroRR
+[24Jan2025 16:48:57.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[24Jan2025 16:48:57.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
+[24Jan2025 16:50:13.096] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75a77d1c[id=<null>,name=22PieroRR,properties={},legacy=false] (/127.58.96.15:56429) lost connection: Disconnected

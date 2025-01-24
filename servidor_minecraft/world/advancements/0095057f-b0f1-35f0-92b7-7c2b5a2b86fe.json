@@ -314,6 +314,7 @@
       "minecraft:river": "2025-01-24 03:25:02 +0000",
       "minecraft:stony_shore": "2025-01-24 03:28:35 +0000",
       "minecraft:swamp": "2025-01-24 16:20:40 +0000",
+      "minecraft:forest": "2025-01-24 16:48:51 +0000",
       "minecraft:lush_caves": "2025-01-24 03:14:49 +0000",
       "minecraft:desert": "2025-01-24 02:11:09 +0000",
       "minecraft:jungle": "2025-01-24 03:28:06 +0000",
@@ -6511,6 +6512,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2025-01-24 16:42:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-01-24 15:21:48 +0000"
@@ -7144,6 +7151,12 @@
   "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-24 15:37:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-24 16:45:24 +0000"
     },
     "done": true
   },
