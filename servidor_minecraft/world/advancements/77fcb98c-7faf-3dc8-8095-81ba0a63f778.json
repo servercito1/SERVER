@@ -329,6 +329,7 @@
       "minecraft:ocean": "2025-01-24 15:06:03 +0000",
       "minecraft:warm_ocean": "2025-01-24 03:27:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-24 03:59:35 +0000",
+      "minecraft:meadow": "2025-01-24 16:35:47 +0000",
       "minecraft:savanna": "2025-01-24 14:36:24 +0000",
       "minecraft:plains": "2025-01-24 14:32:05 +0000"
     },
@@ -5300,6 +5301,12 @@
   "mcwtrpdoors:recipes/jungle/jungle_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 14:19:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-01-24 16:23:19 +0000"
     },
     "done": true
   },
