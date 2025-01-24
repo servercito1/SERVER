@@ -2295,6 +2295,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-24 03:26:26 +0000",
+      "minecraft:blaze": "2025-01-24 21:56:53 +0000",
       "minecraft:skeleton": "2025-01-24 02:27:21 +0000",
       "minecraft:vindicator": "2025-01-24 03:27:38 +0000",
       "minecraft:spider": "2025-01-24 03:00:09 +0000",
@@ -6287,7 +6288,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:infernal_dunes": "2025-01-24 15:12:51 +0000"
+      "incendium:infernal_dunes": "2025-01-24 15:12:51 +0000",
+      "incendium:withered_forest": "2025-01-24 22:00:36 +0000"
     },
     "done": false
   },
@@ -7780,9 +7782,21 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-24 22:03:48 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/andesite_classic_nightstand": {
     "criteria": {
       "andesite_classic_nightstand": "2025-01-24 21:24:53 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-01-24 22:00:36 +0000"
     },
     "done": true
   },
@@ -8020,6 +8034,18 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-01-24 21:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-01-24 22:02:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-01-24 21:47:50 +0000"
@@ -8035,6 +8061,12 @@
   "pfm:recipes/furniture/andesite_table_natural": {
     "criteria": {
       "andesite_table_natural": "2025-01-24 21:24:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-01-24 21:56:39 +0000"
     },
     "done": true
   },
