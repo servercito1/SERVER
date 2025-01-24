@@ -318,6 +318,7 @@
       "minecraft:wooded_badlands": "2025-01-24 03:25:38 +0000",
       "minecraft:beach": "2025-01-24 03:39:30 +0000",
       "minecraft:dark_forest": "2025-01-24 22:00:48 +0000",
+      "minecraft:sparse_jungle": "2025-01-24 22:26:09 +0000",
       "minecraft:lukewarm_ocean": "2025-01-24 03:30:56 +0000",
       "minecraft:river": "2025-01-24 03:25:02 +0000",
       "minecraft:stony_shore": "2025-01-24 03:29:14 +0000",
@@ -330,6 +331,7 @@
       "minecraft:ocean": "2025-01-24 21:59:13 +0000",
       "minecraft:warm_ocean": "2025-01-24 03:10:53 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-24 03:37:53 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-24 22:10:34 +0000",
       "minecraft:savanna": "2025-01-24 03:39:45 +0000",
       "minecraft:plains": "2025-01-24 03:40:04 +0000"
     },
@@ -5817,6 +5819,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-01-24 22:27:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/calcite_modern_stool": {
     "criteria": {
       "has_planks": "2025-01-24 21:41:54 +0000"
@@ -5883,6 +5891,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
@@ -5901,6 +5915,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_table_modern_dinner": {
     "criteria": {
       "andesite_table_modern_dinner": "2025-01-24 21:25:34 +0000"
@@ -5916,6 +5936,12 @@
   "pfm:recipes/furniture/andesite_oak_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-24 22:08:25 +0000"
     },
     "done": true
   },
@@ -5979,6 +6005,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/calcite_table_modern_dinner": {
     "criteria": {
       "calcite_table_modern_dinner": "2025-01-24 21:41:54 +0000"
@@ -5994,6 +6026,12 @@
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-01-24 21:14:16 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
     },
     "done": true
   },
@@ -6015,15 +6053,33 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/calcite_chair_modern": {
     "criteria": {
       "calcite_chair_modern": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_chair_dinner": {
     "criteria": {
       "andesite_chair_dinner": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_log_stool": {
+    "criteria": {
+      "has_log": "2025-01-24 22:18:51 +0000"
     },
     "done": true
   },
@@ -6039,6 +6095,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/calcite_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-01-24 21:41:54 +0000"
@@ -6051,9 +6119,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/gray_tall_stool": {
     "criteria": {
       "has_wool": "2025-01-24 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 22:18:51 +0000"
     },
     "done": true
   },
@@ -6096,6 +6182,12 @@
   "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
     },
     "done": true
   },
@@ -6183,6 +6275,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
@@ -6204,6 +6302,12 @@
   "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2025-01-24 22:27:18 +0000"
     },
     "done": true
   },
@@ -6234,6 +6338,18 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "cabbage_seeds": "2025-01-24 21:40:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-01-24 22:19:19 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
     },
     "done": true
   },
@@ -6363,9 +6479,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
     },
     "done": true
   },
@@ -6441,6 +6575,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
@@ -6450,6 +6590,12 @@
   "pfm:recipes/furniture/calcite_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-24 22:18:51 +0000"
     },
     "done": true
   },
@@ -6474,6 +6620,18 @@
   "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-24 22:18:51 +0000"
     },
     "done": true
   },
@@ -6519,6 +6677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-01-24 21:33:15 +0000"
@@ -6528,6 +6692,12 @@
   "another_furniture:recipes/gray_sofa": {
     "criteria": {
       "has_wool": "2025-01-24 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
     },
     "done": true
   },
@@ -6558,6 +6728,18 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-24 21:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-24 22:19:19 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
     },
     "done": true
   },
