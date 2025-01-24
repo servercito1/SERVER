@@ -316,6 +316,7 @@
       "minecraft:old_growth_pine_taiga": "2025-01-24 21:39:51 +0000",
       "minecraft:taiga": "2025-01-24 21:36:26 +0000",
       "minecraft:birch_forest": "2025-01-24 03:59:27 +0000",
+      "minecraft:savanna_plateau": "2025-01-24 21:51:37 +0000",
       "minecraft:beach": "2025-01-24 03:48:51 +0000",
       "minecraft:dark_forest": "2025-01-24 21:24:13 +0000",
       "minecraft:sparse_jungle": "2025-01-24 03:55:01 +0000",
@@ -324,6 +325,7 @@
       "minecraft:snowy_plains": "2025-01-24 21:07:34 +0000",
       "minecraft:stony_shore": "2025-01-24 21:30:46 +0000",
       "minecraft:snowy_taiga": "2025-01-24 21:08:37 +0000",
+      "minecraft:grove": "2025-01-24 21:47:05 +0000",
       "minecraft:cold_ocean": "2025-01-24 21:32:18 +0000",
       "minecraft:forest": "2025-01-24 03:49:12 +0000",
       "minecraft:lush_caves": "2025-01-24 03:25:04 +0000",
@@ -332,11 +334,13 @@
       "minecraft:desert": "2025-01-24 02:18:49 +0000",
       "minecraft:windswept_forest": "2025-01-24 21:22:06 +0000",
       "minecraft:jungle": "2025-01-24 03:49:13 +0000",
+      "minecraft:ocean": "2025-01-24 21:49:42 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-24 21:38:14 +0000",
       "minecraft:snowy_beach": "2025-01-24 21:07:25 +0000",
       "minecraft:windswept_savanna": "2025-01-24 21:24:10 +0000",
       "minecraft:warm_ocean": "2025-01-24 03:28:32 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-24 03:59:38 +0000",
+      "minecraft:savanna": "2025-01-24 21:51:35 +0000",
       "minecraft:plains": "2025-01-24 21:26:39 +0000"
     },
     "done": false
@@ -4477,73 +4481,73 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
+      "log_spam_fixer": "2025-01-24 21:54:45 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
+      "log_spam_fixer": "2025-01-24 21:54:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
+      "log_spam_fixer": "2025-01-24 21:54:45 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
+      "log_spam_fixer": "2025-01-24 21:54:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
+      "log_spam_fixer": "2025-01-24 21:54:45 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
+      "log_spam_fixer": "2025-01-24 21:54:45 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
+      "log_spam_fixer": "2025-01-24 21:54:45 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
+      "log_spam_fixer": "2025-01-24 21:54:45 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
+      "log_spam_fixer": "2025-01-24 21:54:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
+      "log_spam_fixer": "2025-01-24 21:54:45 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
+      "log_spam_fixer": "2025-01-24 21:54:45 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 21:44:04 +0000"
+      "log_spam_fixer": "2025-01-24 21:54:45 +0000"
     },
     "done": false
   },
@@ -4565,6 +4569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 21:46:07 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 21:17:16 +0000"
@@ -4574,6 +4584,24 @@
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-01-24 21:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 21:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 21:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-24 21:48:29 +0000"
     },
     "done": true
   },
@@ -4613,6 +4641,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-01-24 21:46:07 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-01-24 21:17:16 +0000"
@@ -4643,6 +4677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 21:46:07 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-01-24 21:25:08 +0000"
@@ -4670,6 +4710,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-01-24 21:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 21:46:07 +0000"
     },
     "done": true
   },
@@ -4712,6 +4758,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-01-24 21:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-01-24 21:46:07 +0000"
     },
     "done": true
   },
@@ -4769,6 +4821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 21:46:07 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 21:17:16 +0000"
@@ -4778,6 +4836,18 @@
   "pfm:recipes/furniture/birch_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-01-24 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 21:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-24 21:46:07 +0000"
     },
     "done": true
   },

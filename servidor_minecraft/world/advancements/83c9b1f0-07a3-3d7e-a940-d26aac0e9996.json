@@ -318,6 +318,7 @@
       "minecraft:lukewarm_ocean": "2025-01-24 03:30:56 +0000",
       "minecraft:river": "2025-01-24 03:25:02 +0000",
       "minecraft:stony_shore": "2025-01-24 03:29:14 +0000",
+      "minecraft:forest": "2025-01-24 21:50:23 +0000",
       "minecraft:lush_caves": "2025-01-24 03:14:53 +0000",
       "minecraft:desert": "2025-01-24 02:08:13 +0000",
       "minecraft:jungle": "2025-01-24 03:28:29 +0000",
@@ -5918,6 +5919,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-01-24 21:51:11 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_coffee_table_classic": {
     "criteria": {
       "andesite_coffee_table_classic": "2025-01-24 21:25:34 +0000"
@@ -6041,6 +6048,12 @@
   "another_furniture:recipes/gray_tall_stool": {
     "criteria": {
       "has_wool": "2025-01-24 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-01-24 21:51:11 +0000"
     },
     "done": true
   },
