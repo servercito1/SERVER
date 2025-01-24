@@ -6612,6 +6612,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-01-24 15:41:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-24 15:41:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-24 15:37:58 +0000"
@@ -6666,9 +6678,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2025-01-24 15:41:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-24 15:42:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-01-24 15:33:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-01-24 15:41:22 +0000"
     },
     "done": true
   },
@@ -6705,6 +6735,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-24 15:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-24 15:41:22 +0000"
     },
     "done": true
   },
@@ -6768,6 +6804,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-01-24 15:41:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-01-24 15:34:54 +0000"
@@ -6777,6 +6819,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-01-24 15:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-24 15:41:22 +0000"
     },
     "done": true
   },
@@ -6840,9 +6888,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-24 15:41:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-24 15:38:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-01-24 15:41:22 +0000"
     },
     "done": true
   },
@@ -6876,6 +6936,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-01-24 15:41:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-24 15:37:58 +0000"
@@ -6897,6 +6963,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 15:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-24 15:41:22 +0000"
     },
     "done": true
   },
@@ -6960,6 +7032,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-01-24 15:41:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-24 15:35:14 +0000"
@@ -6981,6 +7059,12 @@
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-24 15:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-24 15:41:22 +0000"
     },
     "done": true
   },
@@ -7041,6 +7125,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 15:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-24 15:41:22 +0000"
     },
     "done": true
   },
@@ -7179,6 +7269,12 @@
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-24 15:35:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-01-24 15:41:22 +0000"
     },
     "done": true
   },
