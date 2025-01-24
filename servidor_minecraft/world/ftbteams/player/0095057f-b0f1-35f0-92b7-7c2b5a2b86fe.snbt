@@ -2,13 +2,11 @@
 	id: "0095057f-b0f1-35f0-92b7-7c2b5a2b86fe"
 	type: "player"
 	player_name: "22PieroRR"
-	ranks: {
-		0095057f-b0f1-35f0-92b7-7c2b5a2b86fe: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "22PieroRR"
 		"ftbteams:description": ""
-		"ftbteams:color": "#59FF94"
+		"ftbteams:color": "#FF597A"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
