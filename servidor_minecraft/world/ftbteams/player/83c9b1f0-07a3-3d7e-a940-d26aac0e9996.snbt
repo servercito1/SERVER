@@ -2,9 +2,7 @@
 	id: "83c9b1f0-07a3-3d7e-a940-d26aac0e9996"
 	type: "player"
 	player_name: "Aldhair_16"
-	ranks: {
-		83c9b1f0-07a3-3d7e-a940-d26aac0e9996: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Aldhair_16"
 		"ftbteams:description": ""

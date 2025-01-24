@@ -5,6 +5,8 @@
 	ranks: {
 		0095057f-b0f1-35f0-92b7-7c2b5a2b86fe: "owner"
 		77fcb98c-7faf-3dc8-8095-81ba0a63f778: "member"
+		83c9b1f0-07a3-3d7e-a940-d26aac0e9996: "member"
+		fa63da74-676e-3a75-814c-8fd926924504: "member"
 	}
 	properties: {
 		"ftbteams:display_name": ""
@@ -30,6 +32,10 @@
 		{ from: "0095057f-b0f1-35f0-92b7-7c2b5a2b86fe", date: 1737731438411L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"elrisas741\"}]}" }
 		{ from: "0095057f-b0f1-35f0-92b7-7c2b5a2b86fe", date: 1737732224760L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"elrisas741\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1737732225925L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"elrisas741\"}]}" }
+		{ from: "0095057f-b0f1-35f0-92b7-7c2b5a2b86fe", date: 1737752979328L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Maikol_4988\"}]}" }
+		{ from: "0095057f-b0f1-35f0-92b7-7c2b5a2b86fe", date: 1737752984422L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Aldhair_16\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1737752989823L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Maikol_4988\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1737752990202L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Aldhair_16\"}]}" }
 	]
 	extra: { }
 }

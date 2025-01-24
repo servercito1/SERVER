@@ -2073,6 +2073,7 @@
       "minecraft:cave_spider": "2025-01-24 03:33:42 +0000",
       "minecraft:piglin": "2025-01-24 15:59:50 +0000",
       "minecraft:enderman": "2025-01-24 15:33:44 +0000",
+      "minecraft:stray": "2025-01-24 20:48:56 +0000",
       "minecraft:zombie": "2025-01-24 03:24:45 +0000"
     },
     "done": false
@@ -5965,6 +5966,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-24 20:50:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-01-24 19:41:09 +0000"
@@ -6118,6 +6125,12 @@
   "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-24 20:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-24 21:03:00 +0000"
     },
     "done": true
   },
@@ -6490,6 +6503,12 @@
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2025-01-24 19:50:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-01-24 21:03:00 +0000"
     },
     "done": true
   },

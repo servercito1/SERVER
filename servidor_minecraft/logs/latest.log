@@ -611,3 +611,37 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [24Jan2025 20:37:40.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 joined the game
 [24Jan2025 20:37:40.419] [Server thread/INFO] [Jade/]: Syncing config to Maikol_4988 (fa63da74-676e-3a75-814c-8fd926924504)
 [24Jan2025 20:50:09.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Take Aim]
+[24Jan2025 20:56:42.551] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 lost connection: Timed out
+[24Jan2025 20:56:42.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 left the game
+[24Jan2025 20:57:38.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maikol_4988[/127.244.236.233:42673] logged in with entity id 55378 at (-445.80110888483256, 3.0, 1022.5666825653703)
+[24Jan2025 20:57:38.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 joined the game
+[24Jan2025 20:57:39.064] [Server thread/INFO] [Jade/]: Syncing config to Maikol_4988 (fa63da74-676e-3a75-814c-8fd926924504)
+[24Jan2025 20:58:33.205] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1fdcccb5[id=<null>,name=22PieroRR,properties={},legacy=false] (/127.58.96.15:40811) lost connection: Disconnected
+[24Jan2025 20:59:34.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has reached the goal [Bone Crusher]
+[24Jan2025 20:59:59.702] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aldhair_16[/127.1.134.220:57093] logged in with entity id 55788 at (-1003.2587917226405, 64.0, -1064.2484772638059)
+[24Jan2025 20:59:59.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 joined the game
+[24Jan2025 20:59:59.751] [Server thread/INFO] [Jade/]: Syncing config to Aldhair_16 (83c9b1f0-07a3-3d7e-a940-d26aac0e9996)
+[24Jan2025 21:02:33.373] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,sophisticatedcore:channel] rejected their client side version number
+[24Jan2025 21:02:33.374] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[24Jan2025 21:02:33.383] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ae82594[id=<null>,name=22PieroRR,properties={},legacy=false] (/127.58.96.15:51379) lost connection: Connection closed - mismatched mod channel list
+[24Jan2025 21:03:57.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> zzzzzzzzzz
+[24Jan2025 21:03:58.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> ZZZZZ
+[24Jan2025 21:03:59.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> zzzzzzzzzzzzzzzzzzz
+[24Jan2025 21:04:02.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> zzzzzzzzzzzzzzzzzzzzzzz
+[24Jan2025 21:04:03.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aldhair_16> z
+[24Jan2025 21:07:25.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Frosted Prison]
+[24Jan2025 21:07:47.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [This Must be a Sign!]
+[24Jan2025 21:09:07.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.58.96.15:42167] logged in with entity id 63213 at (-1300.6576833944528, 69.05489334703208, -1808.4204087592582)
+[24Jan2025 21:09:07.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[24Jan2025 21:09:07.420] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[24Jan2025 21:09:49.825] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from Maikol_4988#fa63da74 to #b26b011b
+[24Jan2025 21:09:49.825] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from fa63da74-676e-3a75-814c-8fd926924504 (Maikol_4988#fa63da74) to b26b011b-5f44-49e7-9316-b6691ba4d3ee (#b26b011b)
+[24Jan2025 21:09:49.825] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for fa63da74-676e-3a75-814c-8fd926924504 (Maikol_4988#fa63da74) due to claim limits
+[24Jan2025 21:09:49.825] [Server thread/INFO] [FTB Chunks/]: Team #b26b011b had 70 claimed chunks, now has 70
+[24Jan2025 21:09:50.203] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from Aldhair_16#83c9b1f0 to #b26b011b
+[24Jan2025 21:09:50.203] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 83c9b1f0-07a3-3d7e-a940-d26aac0e9996 (Aldhair_16#83c9b1f0) to b26b011b-5f44-49e7-9316-b6691ba4d3ee (#b26b011b)
+[24Jan2025 21:09:50.203] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 83c9b1f0-07a3-3d7e-a940-d26aac0e9996 (Aldhair_16#83c9b1f0) due to claim limits
+[24Jan2025 21:09:50.204] [Server thread/INFO] [FTB Chunks/]: Team #b26b011b had 70 claimed chunks, now has 70
+[24Jan2025 21:11:23.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1140, y=79, z=-1727} BlockPos{x=-1140, y=77, z=-1726}
+[24Jan2025 21:12:52.827] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[24Jan2025 21:13:42.867] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
