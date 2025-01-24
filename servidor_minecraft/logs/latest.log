@@ -610,3 +610,4 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [24Jan2025 20:37:40.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maikol_4988[/127.244.236.233:53735] logged in with entity id 48317 at (-439.8756309169031, 30.0, 1076.8341600499828)
 [24Jan2025 20:37:40.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 joined the game
 [24Jan2025 20:37:40.419] [Server thread/INFO] [Jade/]: Syncing config to Maikol_4988 (fa63da74-676e-3a75-814c-8fd926924504)
+[24Jan2025 20:50:09.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Take Aim]

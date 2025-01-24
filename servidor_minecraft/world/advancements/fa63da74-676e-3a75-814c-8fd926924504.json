@@ -2467,6 +2467,7 @@
       "minecraft:creeper": "2025-01-24 03:17:01 +0000",
       "minecraft:husk": "2025-01-24 02:53:39 +0000",
       "minecraft:cave_spider": "2025-01-24 03:21:43 +0000",
+      "minecraft:stray": "2025-01-24 20:42:28 +0000",
       "minecraft:zombie": "2025-01-24 03:31:55 +0000"
     },
     "done": false
@@ -4435,73 +4436,79 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 20:38:55 +0000"
+      "log_spam_fixer": "2025-01-24 20:48:55 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 20:38:55 +0000"
+      "log_spam_fixer": "2025-01-24 20:48:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 20:38:55 +0000"
+      "log_spam_fixer": "2025-01-24 20:48:55 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 20:38:55 +0000"
+      "log_spam_fixer": "2025-01-24 20:48:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 20:38:55 +0000"
+      "log_spam_fixer": "2025-01-24 20:48:55 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 20:38:55 +0000"
+      "log_spam_fixer": "2025-01-24 20:48:55 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 20:38:55 +0000"
+      "log_spam_fixer": "2025-01-24 20:48:55 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 20:38:55 +0000"
+      "log_spam_fixer": "2025-01-24 20:48:55 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 20:38:55 +0000"
+      "log_spam_fixer": "2025-01-24 20:48:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 20:38:55 +0000"
+      "log_spam_fixer": "2025-01-24 20:48:55 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-24 20:43:01 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 20:38:55 +0000"
+      "log_spam_fixer": "2025-01-24 20:48:55 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 20:38:55 +0000"
+      "log_spam_fixer": "2025-01-24 20:48:55 +0000"
     },
     "done": false
   },
