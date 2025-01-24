@@ -2048,13 +2048,16 @@
     "criteria": {
       "minecraft:pillager": "2025-01-24 14:28:02 +0000",
       "minecraft:skeleton": "2025-01-24 02:19:35 +0000",
+      "minecraft:hoglin": "2025-01-24 16:02:25 +0000",
       "minecraft:vindicator": "2025-01-24 14:27:56 +0000",
       "minecraft:spider": "2025-01-24 03:29:40 +0000",
+      "minecraft:piglin_brute": "2025-01-24 16:01:17 +0000",
       "minecraft:slime": "2025-01-24 15:31:02 +0000",
       "minecraft:phantom": "2025-01-24 15:48:20 +0000",
       "minecraft:wither_skeleton": "2025-01-24 03:31:57 +0000",
       "minecraft:husk": "2025-01-24 02:20:16 +0000",
       "minecraft:cave_spider": "2025-01-24 03:33:42 +0000",
+      "minecraft:piglin": "2025-01-24 15:59:50 +0000",
       "minecraft:enderman": "2025-01-24 15:33:44 +0000",
       "minecraft:zombie": "2025-01-24 03:24:45 +0000"
     },
@@ -4372,6 +4375,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-01-24 16:00:04 +0000",
+      "minecraft:soul_sand_valley": "2025-01-24 16:04:40 +0000",
       "minecraft:basalt_deltas": "2025-01-24 15:54:12 +0000",
       "minecraft:warped_forest": "2025-01-24 15:58:05 +0000"
     },
@@ -4380,6 +4385,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-01-24 14:33:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-01-24 16:07:06 +0000"
     },
     "done": true
   },
@@ -5032,6 +5043,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-01-24 16:02:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-01-24 14:19:59 +0000"
@@ -5251,6 +5268,12 @@
   "mcwtrpdoors:recipes/jungle/jungle_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 14:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-24 16:02:08 +0000"
     },
     "done": true
   },

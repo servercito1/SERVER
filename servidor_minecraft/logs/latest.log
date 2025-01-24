@@ -571,3 +571,27 @@
 [24Jan2025 15:58:21.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Strange Biomes]
 [24Jan2025 16:00:31.423] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
 [24Jan2025 16:00:31.424] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[24Jan2025 16:00:52.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has reached the goal [Strong or Careful]
+[24Jan2025 16:00:52.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was doomed to fall by Skeleton
+[24Jan2025 16:01:20.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> xd
+[24Jan2025 16:02:08.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Those Were the Days]
+[24Jan2025 16:02:51.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [War Pigs]
+[24Jan2025 16:04:39.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/54836, l='ServerLevel[world]', x=730.52, y=35.59, z=994.98] died: Restless Spirit starved to death
+[24Jan2025 16:04:39.166] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/54839, l='ServerLevel[world]', x=755.61, y=35.47, z=994.46] died: Restless Spirit starved to death
+[24Jan2025 16:04:53.109] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/55049, l='ServerLevel[world]', x=757.98, y=45.70, z=1018.19] died: Restless Spirit starved to death
+[24Jan2025 16:04:53.109] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/55051, l='ServerLevel[world]', x=745.28, y=34.52, z=1018.53] died: Restless Spirit starved to death
+[24Jan2025 16:06:05.040] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/55930, l='ServerLevel[world]', x=-1308.50, y=68.88, z=-1661.30] died, message: 'Unemployed drowned'
+[24Jan2025 16:06:07.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/56147, l='ServerLevel[world]', x=725.32, y=45.34, z=984.95] died: Restless Spirit starved to death
+[24Jan2025 16:06:29.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/56391, l='ServerLevel[world]', x=723.80, y=37.96, z=976.50] died: Restless Spirit starved to death
+[24Jan2025 16:06:29.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/56393, l='ServerLevel[world]', x=705.43, y=36.55, z=966.81] died: Restless Spirit starved to death
+[24Jan2025 16:06:35.627] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/56495, l='ServerLevel[world]', x=724.46, y=49.50, z=943.83] died: Restless Spirit starved to death
+[24Jan2025 16:06:37.875] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/56514, l='ServerLevel[world]', x=730.48, y=45.98, z=948.07] died: Restless Spirit starved to death
+[24Jan2025 16:06:39.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/56528, l='ServerLevel[world]', x=709.19, y=38.37, z=971.72] died: Restless Spirit starved to death
+[24Jan2025 16:06:40.126] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/56542, l='ServerLevel[world]', x=716.35, y=44.99, z=998.38] died: Restless Spirit starved to death
+[24Jan2025 16:07:06.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Fetch Me Their Souls!]
+[24Jan2025 16:09:19.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [What a Deal!]
+[24Jan2025 16:09:19.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [First Trade]
+[24Jan2025 16:09:38.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[24Jan2025 16:10:23.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[24Jan2025 16:10:30.063] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jan2025 16:10:40.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind

@@ -2294,6 +2294,7 @@
       "minecraft:vindicator": "2025-01-24 03:27:38 +0000",
       "minecraft:spider": "2025-01-24 03:00:09 +0000",
       "minecraft:creeper": "2025-01-24 02:21:10 +0000",
+      "minecraft:witch": "2025-01-24 16:00:09 +0000",
       "minecraft:wither_skeleton": "2025-01-24 03:09:47 +0000",
       "minecraft:husk": "2025-01-24 02:35:40 +0000",
       "minecraft:stray": "2025-01-24 02:57:05 +0000",
@@ -6480,6 +6481,12 @@
       "incendium:infernal_dunes": "2025-01-24 15:12:51 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-24 16:00:52 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
