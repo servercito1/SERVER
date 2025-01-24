@@ -325,6 +325,7 @@
       "minecraft:lukewarm_ocean": "2025-01-24 03:48:38 +0000",
       "minecraft:river": "2025-01-24 03:48:45 +0000",
       "minecraft:snowy_plains": "2025-01-24 19:03:14 +0000",
+      "minecraft:snowy_taiga": "2025-01-24 19:21:00 +0000",
       "minecraft:cold_ocean": "2025-01-24 19:01:20 +0000",
       "minecraft:forest": "2025-01-24 03:50:21 +0000",
       "minecraft:lush_caves": "2025-01-24 03:23:55 +0000",
@@ -5914,9 +5915,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_orange_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 19:13:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_classic_nightstand": {
+    "criteria": {
+      "andesite_classic_nightstand": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-01-24 19:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_orange_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
     },
     "done": true
   },
@@ -5932,9 +5969,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_chair_classic": {
+    "criteria": {
+      "andesite_chair_classic": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_orange_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_modern_dinner": {
+    "criteria": {
+      "andesite_table_modern_dinner": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 19:13:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_orange_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
     },
     "done": true
   },
@@ -5944,9 +6017,57 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_coffee_table_classic": {
+    "criteria": {
+      "andesite_coffee_table_classic": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_orange_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-24 19:31:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_classic": {
+    "criteria": {
+      "andesite_table_classic": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_frosted_prison": {
     "criteria": {
       "prison": "2025-01-24 19:08:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-24 19:33:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:46:47 +0000"
     },
     "done": true
   },
@@ -5962,9 +6083,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_orange_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 19:13:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_orange_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:46:47 +0000"
     },
     "done": true
   },
@@ -5980,9 +6119,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_orange_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_orange_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 19:13:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair_dinner": {
+    "criteria": {
+      "andesite_chair_dinner": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-01-24 19:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_basic": {
+    "criteria": {
+      "andesite_table_basic": "2025-01-24 19:46:47 +0000"
     },
     "done": true
   },
@@ -5992,9 +6161,75 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair": {
+    "criteria": {
+      "andesite_chair": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_orange_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-24 19:31:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_orange_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_orange_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_orange_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 19:13:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_orange_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_dinner": {
+    "criteria": {
+      "andesite_table_dinner": "2025-01-24 19:46:47 +0000"
     },
     "done": true
   },
@@ -6004,9 +6239,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/chorus_cataclysm_orange_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_orange_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_orange_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-24 19:31:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_orange_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 19:13:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair_modern": {
+    "criteria": {
+      "andesite_chair_modern": "2025-01-24 19:46:47 +0000"
     },
     "done": true
   },
@@ -6016,9 +6287,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_orange_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 19:13:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-24 19:31:12 +0000"
     },
     "done": true
   },
@@ -6046,15 +6329,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-24 19:31:12 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 19:13:17 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/bamboo_orange_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_greenwood_pub": {
     "criteria": {
       "location0": "2025-01-24 18:59:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:46:47 +0000"
     },
     "done": true
   },
@@ -6070,15 +6371,75 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-24 19:31:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-01-24 19:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-24 19:41:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_natural": {
+    "criteria": {
+      "andesite_table_natural": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 19:13:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-24 19:31:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-24 19:31:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-24 19:31:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 19:13:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_orange_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-01-24 19:31:12 +0000"
     },
     "done": true
   },
@@ -6094,9 +6455,51 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/warped_orange_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-24 19:31:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_orange_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-24 19:41:09 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 19:13:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_coffee_table_basic": {
+    "criteria": {
+      "andesite_coffee_table_basic": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_orange_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-24 19:46:47 +0000"
     },
     "done": true
   },
@@ -6118,9 +6521,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-24 19:31:12 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-24 19:13:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_coffee_table_modern": {
+    "criteria": {
+      "andesite_coffee_table_modern": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-01-24 19:41:09 +0000"
     },
     "done": true
   },

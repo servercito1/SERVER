@@ -594,3 +594,15 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [24Jan2025 19:16:37.548] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [24Jan2025 19:16:37.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [24Jan2025 19:16:37.748] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jan2025 19:33:04.241] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[24Jan2025 19:33:04.244] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[24Jan2025 19:33:10.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has reached the goal [Strong or Careful]
+[24Jan2025 19:33:10.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was cursed by Maledictus 's Magic
+[24Jan2025 19:43:53.492] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jan2025 19:46:33.844] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[24Jan2025 19:46:33.855] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[24Jan2025 19:46:42.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Maledictus
+[24Jan2025 19:50:32.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has reached the goal [Strong Undead]
+[24Jan2025 19:50:32.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has completed the challenge [Crusade Against Curse]
+[24Jan2025 19:51:25.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Back to childhood]
+[24Jan2025 19:51:25.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Not even afraid of death]
