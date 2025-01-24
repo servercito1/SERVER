@@ -858,6 +858,7 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
+      "plains": "2025-01-24 15:34:38 +0000",
       "savanna": "2025-01-24 14:39:05 +0000",
       "desert": "2025-01-24 02:15:29 +0000"
     },
@@ -2049,9 +2050,11 @@
       "minecraft:skeleton": "2025-01-24 02:19:35 +0000",
       "minecraft:vindicator": "2025-01-24 14:27:56 +0000",
       "minecraft:spider": "2025-01-24 03:29:40 +0000",
+      "minecraft:slime": "2025-01-24 15:31:02 +0000",
       "minecraft:wither_skeleton": "2025-01-24 03:31:57 +0000",
       "minecraft:husk": "2025-01-24 02:20:16 +0000",
       "minecraft:cave_spider": "2025-01-24 03:33:42 +0000",
+      "minecraft:enderman": "2025-01-24 15:33:44 +0000",
       "minecraft:zombie": "2025-01-24 03:24:45 +0000"
     },
     "done": false
@@ -4510,6 +4513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-24 15:31:03 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 14:19:53 +0000"
@@ -4533,6 +4542,12 @@
       "has_andesite": "2025-01-24 14:34:18 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:toxic_heap": "2025-01-24 15:30:24 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
@@ -4612,6 +4627,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-24 15:30:20 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_classic_stool": {
     "criteria": {
       "has_planks": "2025-01-24 14:19:59 +0000"
@@ -4669,6 +4690,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-24 15:31:03 +0000"
     },
     "done": true
   },
@@ -4834,6 +4861,12 @@
     },
     "done": true
   },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-01-24 15:30:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
@@ -4843,6 +4876,12 @@
   "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/grease_ball": {
+    "criteria": {
+      "has_slimeball": "2025-01-24 15:31:03 +0000"
     },
     "done": true
   },
@@ -4906,6 +4945,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-01-24 15:29:28 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 14:19:53 +0000"
@@ -4921,6 +4966,12 @@
   "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-24 14:34:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-01-24 15:30:24 +0000"
     },
     "done": true
   },
@@ -5116,9 +5167,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-24 15:31:03 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-24 14:19:53 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-01-24 15:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-24 15:30:20 +0000"
     },
     "done": true
   },
