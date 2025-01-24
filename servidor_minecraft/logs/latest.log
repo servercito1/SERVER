@@ -478,3 +478,14 @@
 [24Jan2025 15:09:11.431] [Server thread/INFO] [FTB Chunks/]: Transferred 1 chunks from 0095057f-b0f1-35f0-92b7-7c2b5a2b86fe (22PieroRR#0095057f) to b26b011b-5f44-49e7-9316-b6691ba4d3ee (XD#b26b011b)
 [24Jan2025 15:09:11.431] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 0095057f-b0f1-35f0-92b7-7c2b5a2b86fe (22PieroRR#0095057f) due to claim limits
 [24Jan2025 15:09:11.431] [Server thread/INFO] [FTB Chunks/]: Team XD#b26b011b had 0 claimed chunks, now has 1
+[24Jan2025 15:10:41.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> nuc acepta
+[24Jan2025 15:12:47.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [We Need to Go Deeper]
+[24Jan2025 15:12:47.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Incendium]
+[24Jan2025 15:12:51.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5816ms or 116 ticks behind
+[24Jan2025 15:12:51.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Darude - Firestorm]
+[24Jan2025 15:12:51.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Strange Biomes]
+[24Jan2025 15:17:07.719] [pool-6-thread-5/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-1083, y=75, z=-1445}
+[24Jan2025 15:17:08.473] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1083, y=75, z=-1445} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[24Jan2025 15:17:08.474] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-1083, y=75, z=-1445}
+[24Jan2025 15:19:24.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Knowledge raises the soul]
+[24Jan2025 15:19:40.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Safe Haven]
