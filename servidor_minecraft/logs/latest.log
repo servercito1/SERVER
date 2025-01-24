@@ -462,3 +462,19 @@
 [24Jan2025 14:56:47.683] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2469, y=67, z=405} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
 [24Jan2025 14:56:47.683] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=2469, y=67, z=405}
 [24Jan2025 14:57:18.505] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[24Jan2025 15:02:22.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.58.96.15:57633] logged in with entity id 22660 at (-1032.328637135825, 74.0, -1053.6774617230562)
+[24Jan2025 15:02:22.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[24Jan2025 15:02:22.974] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[24Jan2025 15:02:41.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> este nuc ahorita cierro el sv
+[24Jan2025 15:02:54.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> XD
+[24Jan2025 15:03:34.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> XD
+[24Jan2025 15:07:26.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [It's an Emu!!!]
+[24Jan2025 15:07:43.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> gpo
+[24Jan2025 15:08:51.314] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 1 chunks from PARTYINSANA#6c4b65c8 to 22PieroRR#0095057f
+[24Jan2025 15:08:51.315] [Server thread/INFO] [FTB Chunks/]: Transferred 1 chunks from 6c4b65c8-23f0-4234-8b4f-7a7a7c2eb0bf (PARTYINSANA#6c4b65c8) to 0095057f-b0f1-35f0-92b7-7c2b5a2b86fe (22PieroRR#0095057f)
+[24Jan2025 15:08:51.315] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 6c4b65c8-23f0-4234-8b4f-7a7a7c2eb0bf (PARTYINSANA#6c4b65c8) due to claim limits
+[24Jan2025 15:08:51.316] [Server thread/INFO] [FTB Chunks/]: Team 22PieroRR#0095057f had 0 claimed chunks, now has 1
+[24Jan2025 15:09:11.431] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 1 chunks from 22PieroRR#0095057f to XD#b26b011b
+[24Jan2025 15:09:11.431] [Server thread/INFO] [FTB Chunks/]: Transferred 1 chunks from 0095057f-b0f1-35f0-92b7-7c2b5a2b86fe (22PieroRR#0095057f) to b26b011b-5f44-49e7-9316-b6691ba4d3ee (XD#b26b011b)
+[24Jan2025 15:09:11.431] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 0095057f-b0f1-35f0-92b7-7c2b5a2b86fe (22PieroRR#0095057f) due to claim limits
+[24Jan2025 15:09:11.431] [Server thread/INFO] [FTB Chunks/]: Team XD#b26b011b had 0 claimed chunks, now has 1
