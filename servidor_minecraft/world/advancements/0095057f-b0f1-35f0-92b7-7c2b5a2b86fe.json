@@ -312,6 +312,7 @@
       "minecraft:windswept_hills": "2025-01-24 16:14:09 +0000",
       "minecraft:wooded_badlands": "2025-01-24 03:25:38 +0000",
       "minecraft:beach": "2025-01-24 03:39:29 +0000",
+      "minecraft:sparse_jungle": "2025-01-24 23:42:49 +0000",
       "minecraft:lukewarm_ocean": "2025-01-24 03:32:45 +0000",
       "minecraft:river": "2025-01-24 03:25:02 +0000",
       "minecraft:stony_shore": "2025-01-24 03:28:35 +0000",
@@ -1560,6 +1561,7 @@
     "criteria": {
       "taiga": "2025-01-24 22:40:09 +0000",
       "savanna": "2025-01-24 03:54:11 +0000",
+      "plains": "2025-01-24 23:49:43 +0000",
       "desert": "2025-01-24 02:15:48 +0000"
     },
     "done": false
@@ -5507,10 +5509,16 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "huntingpost": "2025-01-25 00:01:44 +0000",
+      "cartographytable": "2025-01-25 00:34:20 +0000",
+      "fletchingtable": "2025-01-25 00:27:21 +0000",
+      "brewingstand": "2025-01-25 00:37:37 +0000",
+      "gardeningtable": "2025-01-24 23:50:24 +0000",
       "smoker": "2025-01-24 15:20:22 +0000",
       "blastfurnace": "2025-01-24 04:06:45 +0000",
       "lectern": "2025-01-24 04:08:55 +0000",
-      "woodworkingtable": "2025-01-24 16:13:03 +0000"
+      "woodworkingtable": "2025-01-24 16:13:03 +0000",
+      "stonecutter": "2025-01-25 00:48:01 +0000"
     },
     "done": false
   },
@@ -7365,6 +7373,7 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
+      "fletcher": "2025-01-25 00:43:55 +0000",
       "librarian": "2025-01-24 16:09:19 +0000",
       "farmer": "2025-01-24 16:17:28 +0000"
     },
@@ -7784,52 +7793,15 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/smooth_stone_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2025-01-24 22:58:34 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/andesite_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-01-24 21:24:53 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/birch_lime_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-01-24 22:03:48 +0000",
-      "minecraft:nether_wastes": "2025-01-24 22:33:16 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/andesite_classic_nightstand": {
     "criteria": {
       "andesite_classic_nightstand": "2025-01-24 21:24:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/crimson_lime_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
-    },
-    "done": true
-  },
-  "incendium:withered_forest/root": {
-    "criteria": {
-      "requirement": "2025-01-24 22:00:36 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/smooth_stone_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 22:58:34 +0000"
     },
     "done": true
   },
@@ -7839,69 +7811,15 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/oak_yellow_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_home": {
-    "criteria": {
-      "coded_trigger": "2025-01-24 21:44:02 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flint_block": {
-    "criteria": {
-      "has_flint": "2025-01-24 22:10:13 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/warped_lime_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/andesite_chair_classic": {
     "criteria": {
       "andesite_chair_classic": "2025-01-24 21:24:53 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/spruce_yellow_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "cabbage": "2025-01-24 21:50:21 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-01-24 21:24:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/crimson_yellow_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_lime_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_lime_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
     },
     "done": true
   },
@@ -7911,45 +7829,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-01-24 22:08:46 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
-    "criteria": {
-      "has_item": "2025-01-24 21:47:50 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/andesite_oak_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-01-24 21:24:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-01-24 22:30:09 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/warped_yellow_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/decayed_workbench": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-24 21:37:32 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/acacia_flower_box": {
-    "criteria": {
-      "has_slab": "2025-01-24 22:12:35 +0000"
     },
     "done": true
   },
@@ -7965,45 +7847,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/bamboo_yellow_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-24 21:37:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-01-24 21:24:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/bamboo_lime_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-01-24 22:59:30 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_lime_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/acacia_bench": {
-    "criteria": {
-      "has_slab": "2025-01-24 22:12:35 +0000"
     },
     "done": true
   },
@@ -8013,57 +7859,9 @@
     },
     "done": true
   },
-  "cataclysm:find_frosted_prison": {
-    "criteria": {
-      "prison": "2025-01-24 22:43:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-01-24 22:30:09 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/andesite_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-01-24 21:24:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-01-24 21:33:55 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/bamboo_yellow_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/smooth_stone_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-24 22:58:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-01-24 22:26:41 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/chorus_cataclysm_yellow_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_yellow_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
     },
     "done": true
   },
@@ -8073,105 +7871,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/tree_fertilizer": {
-    "criteria": {
-      "has_item": "2025-01-24 21:47:50 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/crimson_lime_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-01-24 22:12:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-01-24 23:15:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-24 21:50:12 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/bamboo_spikes": {
-    "criteria": {
-      "minecraft:wooden_slabs": "2025-01-24 22:12:35 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/andesite_chair_dinner": {
     "criteria": {
       "andesite_chair_dinner": "2025-01-24 21:24:53 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/jungle_yellow_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-24 21:37:32 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mangrove_yellow_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pancake_fd": {
-    "criteria": {
-      "forge:eggs": "2025-01-24 21:54:44 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/andesite_table_basic": {
     "criteria": {
       "andesite_table_basic": "2025-01-24 21:24:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-24 22:58:34 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2025-01-24 23:00:01 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackboard": {
-    "criteria": {
-      "supplementaries:blackboard_white": "2025-01-24 22:08:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_fence": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-24 21:37:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-01-24 22:08:46 +0000"
     },
     "done": true
   },
@@ -8187,51 +7895,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-24 21:37:32 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_yellow_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_lime_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/andesite_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-01-24 21:24:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_yellow_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/warped_yellow_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_maledictus": {
-    "criteria": {
-      "ignis": "2025-01-24 23:00:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-24 21:37:32 +0000"
     },
     "done": true
   },
@@ -8241,87 +7907,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/crimson_yellow_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/cabbage_crate": {
-    "criteria": {
-      "has_cabbage": "2025-01-24 21:50:12 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2025-01-24 22:28:03 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/service_bell": {
-    "criteria": {
-      "has_nugget": "2025-01-24 22:26:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-01-24 23:15:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-24 22:58:34 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/statue": {
-    "criteria": {
-      "has_smooth_stone_slab": "2025-01-24 22:59:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-01-24 22:10:13 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/andesite_table_dinner": {
     "criteria": {
       "andesite_table_dinner": "2025-01-24 21:24:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/acacia_yellow_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-01-24 21:47:50 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/bamboo_lime_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/acacia_shutter": {
-    "criteria": {
-      "has_slab": "2025-01-24 22:12:35 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_yellow_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
     },
     "done": true
   },
@@ -8331,177 +7919,9 @@
     },
     "done": true
   },
-  "pfm:recipes/building_blocks/acacia_herringbone_planks": {
-    "criteria": {
-      "has_wood_slabs": "2025-01-24 22:12:35 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2025-01-24 22:15:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-01-24 22:08:46 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_undead": {
-    "criteria": {
-      "coded_trigger": "2025-01-24 23:00:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-01-24 22:08:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-01-24 22:08:46 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/planter_rich": {
-    "criteria": {
-      "has_bone_meal": "2025-01-24 21:47:50 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_yellow_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/chorus_cataclysm_lime_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ornate_iron_window": {
-    "criteria": {
-      "has_ingredient": "2025-01-24 22:26:41 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/smooth_stone_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 22:58:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-24 21:50:12 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mangrove_lime_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/acacia_yellow_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/andesite_oak_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-01-24 21:24:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/birch_yellow_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-24 21:37:32 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mangrove_yellow_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-01-24 22:28:28 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/item_shelf": {
-    "criteria": {
-      "minecraft:wooden_slabs": "2025-01-24 22:12:35 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/birch_yellow_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-24 21:37:32 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/birch_lime_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/dune_blaze": {
-    "criteria": {
-      "requirement": "2025-01-24 21:56:53 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_yellow_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_better_fortress": "2025-01-24 22:02:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
-    "criteria": {
-      "has_warped_fungus": "2025-01-24 22:33:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-01-24 21:47:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-01-24 21:54:44 +0000"
     },
     "done": true
   },
@@ -8511,45 +7931,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-01-24 22:09:55 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-01-24 21:56:39 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_lime_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/andesite_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-01-24 21:24:53 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/noodle_soup": {
+  "pfm:recipes/furniture/andesite_coffee_table_basic": {
     "criteria": {
-      "has_any_ingredient": "2025-01-24 22:30:09 +0000"
+      "andesite_coffee_table_basic": "2025-01-24 21:24:53 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/jungle_lime_classic_bed": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
+      "has_polished_andesite": "2025-01-24 21:24:53 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/chorus_cataclysm_lime_simple_bed": {
+  "pfm:recipes/furniture/andesite_coffee_table_modern": {
     "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
+      "andesite_coffee_table_modern": "2025-01-24 21:24:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-24 21:33:55 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/decayed_workbench": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-24 21:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-24 21:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-24 21:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-24 21:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-24 21:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-24 21:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-24 21:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-24 21:37:32 +0000"
     },
     "done": true
   },
@@ -8565,45 +8027,148 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/warped_lime_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-01-24 22:30:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-24 22:30:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-24 22:58:34 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_lime_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-01-24 21:42:44 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/acacia_lime_simple_bed": {
+  "tombstone:adventure/use_home": {
     "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
+      "coded_trigger": "2025-01-24 21:44:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-01-24 21:47:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-01-24 21:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-24 21:47:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-01-24 21:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-24 21:47:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-24 21:50:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-01-24 21:50:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-24 21:50:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cabbage": "2025-01-24 21:50:21 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-01-24 21:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-24 21:54:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-01-24 21:56:39 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-01-24 21:56:53 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-01-24 22:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-01-24 22:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-24 22:03:48 +0000",
+      "minecraft:nether_wastes": "2025-01-24 22:33:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-24 22:08:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "supplementaries:blackboard_white": "2025-01-24 22:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-24 22:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-24 22:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-24 22:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-24 22:08:46 +0000"
     },
     "done": true
   },
@@ -8613,21 +8178,339 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/cherry_lime_classic_bed": {
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-24 22:09:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-01-24 22:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-24 22:10:13 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_flower_box": {
+    "criteria": {
+      "has_slab": "2025-01-24 22:12:35 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_bench": {
+    "criteria": {
+      "has_slab": "2025-01-24 22:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-24 22:12:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-24 22:12:35 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_shutter": {
+    "criteria": {
+      "has_slab": "2025-01-24 22:12:35 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/building_blocks/acacia_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-24 22:12:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-24 22:12:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-24 22:12:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-01-24 22:15:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_lime_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-24 22:24:58 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/andesite_coffee_table_basic": {
+  "pfm:recipes/furniture/crimson_lime_classic_bed": {
     "criteria": {
-      "andesite_coffee_table_basic": "2025-01-24 21:24:53 +0000"
+      "has_bed": "2025-01-24 22:24:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+  "pfm:recipes/furniture/warped_lime_classic_bed": {
     "criteria": {
-      "has_polished_andesite": "2025-01-24 21:24:53 +0000"
+      "has_bed": "2025-01-24 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_lime_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_lime_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_lime_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_lime_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_lime_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_lime_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_lime_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_lime_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 22:24:58 +0000"
     },
     "done": true
   },
@@ -8649,15 +8532,27 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/chorus_cataclysm_yellow_classic_bed": {
+  "pfm:recipes/furniture/cherry_lime_simple_bed": {
     "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
+      "has_bed": "2025-01-24 22:24:58 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/jar": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "minecraft:wooden_slabs": "2025-01-24 22:12:35 +0000"
+      "has_iron_nugget": "2025-01-24 22:26:41 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/service_bell": {
+    "criteria": {
+      "has_nugget": "2025-01-24 22:26:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-24 22:26:41 +0000"
     },
     "done": true
   },
@@ -8667,33 +8562,628 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-01-24 22:28:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-24 22:28:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-24 22:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-24 22:30:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-24 22:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-24 22:30:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-24 22:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-01-24 22:33:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2025-01-24 22:39:01 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/cherry_lime_simple_bed": {
+  "cataclysm:find_frosted_prison": {
     "criteria": {
-      "has_bed": "2025-01-24 22:24:58 +0000"
+      "prison": "2025-01-24 22:43:00 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/cherry_yellow_simple_bed": {
+  "pfm:recipes/furniture/smooth_stone_kitchen_counter_oven": {
     "criteria": {
-      "has_bed": "2025-01-24 22:22:46 +0000"
+      "has_planks": "2025-01-24 22:58:34 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/andesite_coffee_table_modern": {
+  "pfm:recipes/furniture/smooth_stone_kitchen_wall_small_drawer": {
     "criteria": {
-      "andesite_coffee_table_modern": "2025-01-24 21:24:53 +0000"
+      "has_planks": "2025-01-24 22:58:34 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/andesite_modern_stool": {
+  "pfm:recipes/furniture/smooth_stone_kitchen_cabinet": {
     "criteria": {
-      "has_planks": "2025-01-24 21:24:53 +0000"
+      "has_planks": "2025-01-24 22:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-24 22:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-24 22:58:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 22:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-24 22:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-01-24 22:59:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2025-01-24 22:59:30 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-01-24 23:00:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-01-24 23:00:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-01-24 23:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-24 23:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-01-24 23:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-24 23:20:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-24 23:34:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "wither_skeleton_skull": "2025-01-24 23:40:23 +0000",
+      "skeleton_skull": "2025-01-24 23:51:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-24 23:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-24 23:40:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-24 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-01-25 00:19:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_chair": {
+    "criteria": {
+      "stone_chair": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_coffee_table_basic": {
+    "criteria": {
+      "stone_coffee_table_basic": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-25 00:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_table_dinner": {
+    "criteria": {
+      "stone_table_dinner": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_table_modern_dinner": {
+    "criteria": {
+      "stone_table_modern_dinner": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_chair_modern": {
+    "criteria": {
+      "stone_chair_modern": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-01-25 00:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-25 00:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-01-25 00:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-25 00:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_classic_nightstand": {
+    "criteria": {
+      "stone_classic_nightstand": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-25 00:22:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "roasted_mutton_chops": "2025-01-25 00:54:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-25 00:19:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_coffee_table_classic": {
+    "criteria": {
+      "stone_coffee_table_classic": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_table_natural": {
+    "criteria": {
+      "stone_table_natural": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-01-25 00:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-25 00:22:25 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_chair_classic": {
+    "criteria": {
+      "stone_chair_classic": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-25 00:29:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_table_classic": {
+    "criteria": {
+      "stone_table_classic": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_table_basic": {
+    "criteria": {
+      "stone_table_basic": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_chair_dinner": {
+    "criteria": {
+      "stone_chair_dinner": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "simplefarming:berries": {
+    "criteria": {
+      "blueberries": "2025-01-25 00:13:58 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/stone_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_coffee_table_modern": {
+    "criteria": {
+      "stone_coffee_table_modern": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-01-25 00:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-25 00:46:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-01-25 00:29:37 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-01-25 00:35:31 +0000"
     },
     "done": true
   },

@@ -313,6 +313,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-01-25 00:03:18 +0000",
       "minecraft:taiga": "2025-01-24 22:39:38 +0000",
       "minecraft:deep_ocean": "2025-01-24 22:00:07 +0000",
       "minecraft:frozen_river": "2025-01-24 22:40:39 +0000",
@@ -331,9 +332,11 @@
       "minecraft:forest": "2025-01-24 21:50:23 +0000",
       "minecraft:lush_caves": "2025-01-24 03:14:53 +0000",
       "minecraft:deep_cold_ocean": "2025-01-24 22:01:28 +0000",
+      "minecraft:frozen_ocean": "2025-01-24 23:48:27 +0000",
       "minecraft:desert": "2025-01-24 02:08:13 +0000",
       "minecraft:jungle": "2025-01-24 03:28:29 +0000",
       "minecraft:ocean": "2025-01-24 21:59:13 +0000",
+      "minecraft:snowy_beach": "2025-01-24 23:48:15 +0000",
       "minecraft:warm_ocean": "2025-01-24 03:10:53 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-24 03:37:53 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-24 22:10:34 +0000",
@@ -665,8 +668,10 @@
       "cooked_porkchop": "2025-01-24 04:22:16 +0000",
       "cooked_mutton": "2025-01-24 03:50:05 +0000",
       "cooked_beef": "2025-01-24 03:00:04 +0000",
+      "pumpkin_pie": "2025-01-24 23:39:08 +0000",
       "bread": "2025-01-24 02:54:40 +0000",
       "golden_apple": "2025-01-24 22:45:15 +0000",
+      "melon_slice": "2025-01-25 00:29:37 +0000",
       "cooked_rabbit": "2025-01-24 21:37:15 +0000",
       "cooked_chicken": "2025-01-24 22:33:07 +0000"
     },
@@ -5810,33 +5815,237 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-24 21:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-24 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-24 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_shower_towel": {
+    "criteria": {
+      "has_gray_wool": "2025-01-24 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-01-24 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-01-24 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_stool": {
+    "criteria": {
+      "has_wool": "2025-01-24 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-01-24 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-24 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_gray": {
+    "criteria": {
+      "oak_chair_classic_gray": "2025-01-24 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-24 21:02:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-24 21:06:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-24 21:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-24 21:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-24 21:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-24 21:07:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-01-24 21:07:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-01-24 21:14:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/calcite_classic_stool": {
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
-      "has_planks": "2025-01-24 21:41:54 +0000"
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/andesite_kitchen_wall_counter": {
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
-      "has_planks": "2025-01-24 21:25:34 +0000"
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
-      "coded_trigger": "2025-01-24 22:27:18 +0000"
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/calcite_modern_stool": {
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
-      "has_planks": "2025-01-24 21:41:54 +0000"
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
     },
     "done": true
   },
@@ -5846,15 +6055,771 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-24 21:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-24 21:22:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_classic_nightstand": {
     "criteria": {
       "andesite_classic_nightstand": "2025-01-24 21:25:34 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair_classic": {
+    "criteria": {
+      "andesite_chair_classic": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_modern_dinner": {
+    "criteria": {
+      "andesite_table_modern_dinner": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_coffee_table_classic": {
+    "criteria": {
+      "andesite_coffee_table_classic": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_classic": {
+    "criteria": {
+      "andesite_table_classic": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair_dinner": {
+    "criteria": {
+      "andesite_chair_dinner": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_basic": {
+    "criteria": {
+      "andesite_table_basic": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair": {
+    "criteria": {
+      "andesite_chair": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_dinner": {
+    "criteria": {
+      "andesite_table_dinner": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair_modern": {
+    "criteria": {
+      "andesite_chair_modern": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_natural": {
+    "criteria": {
+      "andesite_table_natural": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_coffee_table_basic": {
+    "criteria": {
+      "andesite_coffee_table_basic": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_coffee_table_modern": {
+    "criteria": {
+      "andesite_coffee_table_modern": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:25:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-01-24 21:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-24 21:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-24 21:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-24 21:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-24 21:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-24 21:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-24 21:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-24 21:29:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-01-24 21:29:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-01-24 21:33:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-01-24 21:40:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_chair_classic": {
+    "criteria": {
+      "calcite_chair_classic": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_table_modern_dinner": {
+    "criteria": {
+      "calcite_table_modern_dinner": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_chair_modern": {
+    "criteria": {
+      "calcite_chair_modern": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_table_classic": {
+    "criteria": {
+      "calcite_table_classic": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_chair_dinner": {
+    "criteria": {
+      "calcite_chair_dinner": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_table_natural": {
+    "criteria": {
+      "calcite_table_natural": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_coffee_table_classic": {
+    "criteria": {
+      "calcite_coffee_table_classic": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_table_dinner": {
+    "criteria": {
+      "calcite_table_dinner": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_chair": {
+    "criteria": {
+      "calcite_chair": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_classic_nightstand": {
+    "criteria": {
+      "calcite_classic_nightstand": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_table_basic": {
+    "criteria": {
+      "calcite_table_basic": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_coffee_table_modern": {
+    "criteria": {
+      "calcite_coffee_table_modern": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/calcite_coffee_table_basic": {
+    "criteria": {
+      "calcite_coffee_table_basic": "2025-01-24 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-01-24 21:51:11 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-01-24 21:51:11 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-01-24 21:57:26 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-01-24 21:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-24 22:08:25 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_log_stool": {
+    "criteria": {
+      "has_log": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-24 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-01-24 22:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-24 22:19:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-01-24 22:27:18 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2025-01-24 22:27:18 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-01-24 22:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-24 22:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-24 22:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-01-24 22:53:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-01-24 22:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-24 22:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-01-24 22:59:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2025-01-24 22:59:41 +0000"
     },
     "done": true
   },
@@ -5876,63 +6841,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_oak_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-01-24 21:28:32 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/cherry_table_basic": {
     "criteria": {
       "has_planks": "2025-01-24 23:03:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-01-24 21:02:55 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/calcite_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/calcite_chair_classic": {
-    "criteria": {
-      "calcite_chair_classic": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_chair_classic": {
-    "criteria": {
-      "andesite_chair_classic": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },
@@ -5942,51 +6853,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/cherry_table_classic": {
     "criteria": {
       "has_planks": "2025-01-24 23:03:29 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_table_modern_dinner": {
-    "criteria": {
-      "andesite_table_modern_dinner": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_oak_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-01-24 22:08:25 +0000"
     },
     "done": true
   },
@@ -5996,81 +6865,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-01-24 21:07:28 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_oak": "2025-01-24 21:51:11 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_coffee_table_classic": {
-    "criteria": {
-      "andesite_coffee_table_classic": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_classic_stool": {
-    "criteria": {
-      "has_planks": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-24 23:03:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-01-24 21:29:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-01-24 22:59:41 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_table_classic": {
-    "criteria": {
-      "andesite_table_classic": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-01-24 21:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-01-24 21:02:55 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_frosted_prison": {
-    "criteria": {
-      "prison": "2025-01-24 22:42:42 +0000"
     },
     "done": true
   },
@@ -6080,33 +6877,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/dark_oak_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2025-01-24 23:08:57 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/calcite_table_modern_dinner": {
-    "criteria": {
-      "calcite_table_modern_dinner": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/cherry_coffee_table_basic": {
     "criteria": {
       "has_planks": "2025-01-24 23:03:29 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2025-01-24 21:25:34 +0000"
     },
     "done": true
   },
@@ -6116,69 +6889,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_undead_pirate_ship": {
-    "criteria": {
-      "location0": "2025-01-24 21:14:16 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/sign_post_cherry": {
     "criteria": {
       "has_planks": "2025-01-24 23:03:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_oak_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/gray_shower_towel": {
-    "criteria": {
-      "has_gray_wool": "2025-01-24 21:02:55 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/dark_oak": {
-    "criteria": {
-      "has_wood": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/calcite_chair_modern": {
-    "criteria": {
-      "calcite_chair_modern": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/dark_oak": {
-    "criteria": {
-      "has_wood": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_chair_dinner": {
-    "criteria": {
-      "andesite_chair_dinner": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_log_stool": {
-    "criteria": {
-      "has_log": "2025-01-24 22:18:51 +0000"
     },
     "done": true
   },
@@ -6194,57 +6907,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/stripped_cherry_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-01-24 23:03:29 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pancake_fd": {
-    "criteria": {
-      "forge:eggs": "2025-01-24 22:55:51 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/calcite_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_table_basic": {
-    "criteria": {
-      "andesite_table_basic": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 22:18:51 +0000"
     },
     "done": true
   },
@@ -6254,177 +6919,15 @@
     },
     "done": true
   },
-  "another_furniture:recipes/gray_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-01-24 21:02:55 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2025-01-24 21:51:11 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_simple_stool": {
-    "criteria": {
-      "has_planks": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_chair": {
-    "criteria": {
-      "andesite_chair": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-01-24 21:22:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-01-24 21:25:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/gray_lamp": {
-    "criteria": {
-      "has_wool": "2025-01-24 21:02:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-01-24 21:28:32 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_kitchen_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2025-01-24 21:57:26 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/calcite_table_classic": {
-    "criteria": {
-      "calcite_table_classic": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/sign_post_cherry": {
     "criteria": {
       "has_the_recipe": "2025-01-24 23:03:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/cherry_table_log": {
     "criteria": {
       "has_log": "2025-01-24 23:03:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-01-24 21:07:28 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
     },
     "done": true
   },
@@ -6440,69 +6943,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/gray_stool": {
-    "criteria": {
-      "has_wool": "2025-01-24 21:02:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/statue": {
-    "criteria": {
-      "has_smooth_stone_slab": "2025-01-24 22:59:41 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:kill_villager": {
-    "criteria": {
-      "killedvillager": "2025-01-24 22:27:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-01-24 21:00:48 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_table_dinner": {
-    "criteria": {
-      "andesite_table_dinner": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/cherry_table_dinner": {
     "criteria": {
       "has_planks": "2025-01-24 23:03:29 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/calcite_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-01-24 21:06:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-01-24 22:52:13 +0000"
     },
     "done": true
   },
@@ -6512,195 +6955,15 @@
     },
     "done": true
   },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "cabbage_seeds": "2025-01-24 21:40:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
-    "criteria": {
-      "has_item": "2025-01-24 22:19:19 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/cherry_chair_modern": {
     "criteria": {
       "has_planks": "2025-01-24 23:03:29 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/calcite_chair_dinner": {
-    "criteria": {
-      "calcite_chair_dinner": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_chair_modern": {
-    "criteria": {
-      "andesite_chair_modern": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-01-24 21:28:32 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2025-01-24 23:14:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/netherite_arrow": {
-    "criteria": {
-      "has_bow": "2025-01-24 21:29:40 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/gray_curtain": {
-    "criteria": {
-      "has_wool": "2025-01-24 21:02:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2025-01-24 21:07:47 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/calcite_table_natural": {
-    "criteria": {
-      "calcite_table_natural": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-01-24 21:07:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:zombie_dungeon": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2025-01-24 21:57:26 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/calcite_coffee_table_classic": {
-    "criteria": {
-      "calcite_coffee_table_classic": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/stripped_cherry_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-01-24 23:03:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-01-24 21:42:54 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_oak_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_raw_table_log": {
-    "criteria": {
-      "has_log": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-01-24 21:28:32 +0000"
     },
     "done": true
   },
@@ -6722,51 +6985,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/calcite_table_dinner": {
-    "criteria": {
-      "calcite_table_dinner": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-01-24 21:28:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-01-24 22:55:51 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_table_natural": {
-    "criteria": {
-      "andesite_table_natural": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-01-24 21:02:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-01-24 23:03:29 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/calcite_chair": {
-    "criteria": {
-      "calcite_chair": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },
@@ -6776,27 +6997,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/cherry_chair": {
     "criteria": {
       "has_planks": "2025-01-24 23:03:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/andesite_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2025-01-24 21:25:34 +0000"
     },
     "done": true
   },
@@ -6818,51 +7021,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/calcite_classic_nightstand": {
-    "criteria": {
-      "calcite_classic_nightstand": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/calcite_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/cherry_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-01-24 23:03:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },
@@ -6872,57 +7033,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2025-01-24 22:53:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/cherry_chair_classic": {
     "criteria": {
       "has_planks": "2025-01-24 23:03:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/print_four_panel": {
-    "criteria": {
-      "has_logs": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_chair_classic_gray": {
-    "criteria": {
-      "oak_chair_classic_gray": "2025-01-24 21:02:55 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/calcite_table_basic": {
-    "criteria": {
-      "calcite_table_basic": "2025-01-24 21:41:54 +0000"
     },
     "done": true
   },
@@ -6932,129 +7045,267 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/andesite_coffee_table_basic": {
-    "criteria": {
-      "andesite_coffee_table_basic": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-24 21:25:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-01-24 21:41:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-01-24 22:18:51 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/cherry_shelf": {
     "criteria": {
       "has_planks": "2025-01-24 23:03:29 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/eat_nourishing_food": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "nourishment": "2025-01-24 21:33:15 +0000"
+      "coded_trigger": "2025-01-24 23:08:57 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/gray_sofa": {
+  "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
-      "has_wool": "2025-01-24 21:02:55 +0000"
+      "coded_trigger": "2025-01-24 23:14:19 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "has_logs": "2025-01-24 22:18:51 +0000"
+      "has_enchanted_golden_apple": "2025-01-24 23:24:50 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/calcite_coffee_table_modern": {
+  "tombstone:adventure/enchant_grave_key": {
     "criteria": {
-      "calcite_coffee_table_modern": "2025-01-24 21:41:54 +0000"
+      "has_upgraded_grave_key": "2025-01-24 23:24:56 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/chicken_sandwich": {
+  "tombstone:adventure/teleport_to_grave": {
     "criteria": {
-      "has_cooked_chicken": "2025-01-24 21:06:39 +0000"
+      "coded_trigger": "2025-01-24 23:25:05 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/calcite_simple_stool": {
+  "spartanweaponry:parrying_dagger": {
     "criteria": {
-      "has_planks": "2025-01-24 21:41:54 +0000"
+      "has_parrying_dagger": "2025-01-24 23:33:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+  "tombstone:adventure/mutual_aid": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-01-24 21:19:47 +0000"
+      "coded_trigger": "2025-01-24 23:34:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_mossy_stone_bricks": "2025-01-24 21:28:32 +0000"
+      "log_spam_fixer": "2025-01-25 00:54:32 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-01-25 00:14:09 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
-      "crafting_table": "2025-01-24 22:19:19 +0000"
+      "has_item": "2025-01-25 00:09:22 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_whispering_trapdoor": {
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
-      "has_logs": "2025-01-24 22:18:51 +0000"
+      "has_any_ingredient": "2025-01-25 00:14:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "incendium:technical/on_kill": {
     "criteria": {
-      "has_snowball": "2025-01-24 22:52:13 +0000"
+      "log_spam_fixer": "2025-01-25 00:54:32 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "hunter": "2025-01-25 00:49:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 00:54:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-25 00:14:09 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/andesite_coffee_table_modern": {
+  "incendium:technical/holy_wrath": {
     "criteria": {
-      "andesite_coffee_table_modern": "2025-01-24 21:25:34 +0000"
+      "log_spam_fixer": "2025-01-25 00:54:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 00:54:32 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-01-25 00:17:49 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/andesite_modern_stool": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "has_planks": "2025-01-24 21:25:34 +0000"
+      "has_potato": "2025-01-25 00:14:16 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/calcite_coffee_table_basic": {
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
-      "calcite_coffee_table_basic": "2025-01-24 21:41:54 +0000"
+      "has_item": "2025-01-25 00:09:22 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "lectern": "2025-01-25 00:01:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 00:54:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 00:54:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 00:54:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-25 00:14:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 00:54:32 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-25 00:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-25 00:14:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "bacon_and_eggs": "2025-01-25 00:16:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-01-25 00:16:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-01-25 00:09:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-01-25 00:14:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 00:54:32 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-01-25 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-01-25 00:16:10 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "lectern": "2025-01-25 00:01:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-25 00:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-25 00:14:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 00:54:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-25 00:14:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-25 00:54:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-25 00:16:10 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-01-25 00:35:42 +0000"
     },
     "done": true
   },

@@ -36,6 +36,7 @@
 		{ from: "0095057f-b0f1-35f0-92b7-7c2b5a2b86fe", date: 1737752984422L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Aldhair_16\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1737752989823L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Maikol_4988\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1737752990202L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Aldhair_16\"}]}" }
+		{ from: "0095057f-b0f1-35f0-92b7-7c2b5a2b86fe", date: 1737764165726L, text: "{\"text\":\"nucs\"}" }
 	]
 	extra: { }
 }
