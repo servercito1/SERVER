@@ -143,3 +143,17 @@
 [25Jan2025 01:25:25.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 drowned
 [25Jan2025 01:25:25.375] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
 [25Jan2025 01:27:22.228] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 3 in "main" inventory handler
+[25Jan2025 01:31:21.974] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elrisas741[/127.194.73.14:43129] logged in with entity id 61353 at (-8024.869572567114, 64.0, 5037.359035897204)
+[25Jan2025 01:31:21.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 joined the game
+[25Jan2025 01:31:22.055] [Server thread/INFO] [Jade/]: Syncing config to elrisas741 (77fcb98c-7faf-3dc8-8095-81ba0a63f778)
+[25Jan2025 01:31:24.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[25Jan2025 01:31:24.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
+[25Jan2025 01:32:49.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Where Is The Stone Pen?]
+[25Jan2025 01:34:02.278] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[25Jan2025 01:34:02.286] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:34:34.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aldhair_16 lost connection: Disconnected
+[25Jan2025 01:34:34.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 left the game
+[25Jan2025 01:35:56.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Disconnected
+[25Jan2025 01:35:56.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
+[25Jan2025 01:36:12.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 lost connection: Disconnected
+[25Jan2025 01:36:12.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 left the game
