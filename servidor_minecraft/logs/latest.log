@@ -46,3 +46,100 @@
 [25Jan2025 00:55:51.256] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/31635, l='ServerLevel[world]', x=-8055.70, y=74.00, z=5011.70] died, message: 'Nitwit was slain by Aldhair_16'
 [25Jan2025 00:57:03.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Ace Trainer]
 [25Jan2025 00:57:31.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [A Glorious Feast]
+[25Jan2025 00:59:56.224] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[25Jan2025 00:59:56.236] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:00:07.278] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[25Jan2025 01:00:07.287] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:02:35.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Ace Trainer]
+[25Jan2025 01:02:54.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [A Glorious Feast]
+[25Jan2025 01:04:08.656] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/31646, l='ServerLevel[world]', x=-8183.35, y=69.00, z=5028.48] died, message: 'Farmer froze to death'
+[25Jan2025 01:04:13.028] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[25Jan2025 01:04:13.039] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:04:20.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 was slain by elrisas741
+[25Jan2025 01:04:20.133] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:04:43.918] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[25Jan2025 01:04:43.926] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:04:45.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has reached the goal [Chain Death]
+[25Jan2025 01:04:45.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 was slain by elrisas741
+[25Jan2025 01:04:45.933] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:05:15.683] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[25Jan2025 01:05:15.695] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:05:23.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 was slain by elrisas741
+[25Jan2025 01:05:23.035] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:05:46.896] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[25Jan2025 01:05:46.906] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[25Jan2025 01:05:47.051] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[25Jan2025 01:05:47.060] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:06:10.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Aldhair_16
+[25Jan2025 01:06:10.029] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[25Jan2025 01:06:13.696] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/31654, l='ServerLevel[world]', x=-8079.99, y=64.00, z=5083.97] died, message: 'Nitwit was slain by Zombie'
+[25Jan2025 01:06:27.613] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/45694, l='ServerLevel[world]', x=-8609.44, y=63.00, z=5775.78] died, message: 'Unemployed was slain by Zombie'
+[25Jan2025 01:06:58.081] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[25Jan2025 01:06:58.092] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[25Jan2025 01:07:04.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Aldhair_16
+[25Jan2025 01:07:14.533] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[25Jan2025 01:07:14.543] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:07:19.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 was slain by Maikol_4988
+[25Jan2025 01:07:19.779] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:07:55.466] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[25Jan2025 01:07:55.476] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[25Jan2025 01:07:59.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was burnt to a crisp whilst fighting Aldhair_16
+[25Jan2025 01:07:59.810] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[25Jan2025 01:08:04.500] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[25Jan2025 01:08:04.511] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:08:23.281] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[25Jan2025 01:08:23.292] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:08:29.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 was slain by elrisas741
+[25Jan2025 01:08:32.401] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[25Jan2025 01:08:32.422] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[25Jan2025 01:08:52.563] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[25Jan2025 01:08:52.574] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:08:55.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 was slain by Maikol_4988
+[25Jan2025 01:08:55.670] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:09:13.913] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[25Jan2025 01:09:13.922] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[25Jan2025 01:09:17.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by 22PieroRR
+[25Jan2025 01:09:17.300] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[25Jan2025 01:09:24.854] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/31636, l='ServerLevel[world]', x=-8117.30, y=100.42, z=4916.43] died, message: 'Beekeeper was slain by Zombie'
+[25Jan2025 01:09:55.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Funeral Theft]
+[25Jan2025 01:11:20.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [This Must be a Sign!]
+[25Jan2025 01:11:48.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31652, l='ServerLevel[world]', x=-8092.95, y=63.00, z=5076.44] died, message: 'Unemployed was slain by Zombie'
+[25Jan2025 01:12:57.161] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[25Jan2025 01:12:57.167] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[25Jan2025 01:13:04.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has reached the goal [Strong or Careful]
+[25Jan2025 01:13:04.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 was slain by Aldhair_16
+[25Jan2025 01:13:04.722] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[25Jan2025 01:14:35.070] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[25Jan2025 01:14:35.079] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:14:39.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 was slain by elrisas741
+[25Jan2025 01:14:39.286] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:14:44.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [22PieroRR: Set Allow PvP Combat to false]
+[25Jan2025 01:15:18.583] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[25Jan2025 01:15:18.591] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:15:21.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 was slain by Maikol_4988
+[25Jan2025 01:15:21.484] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:16:09.607] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[25Jan2025 01:16:09.615] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[25Jan2025 01:16:11.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by 22PieroRR
+[25Jan2025 01:16:11.635] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[25Jan2025 01:17:03.433] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[25Jan2025 01:17:03.440] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[25Jan2025 01:17:09.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 was slain by Aldhair_16
+[25Jan2025 01:20:16.459] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[25Jan2025 01:20:16.468] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:20:29.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 was slain by Maikol_4988
+[25Jan2025 01:20:29.473] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:20:36.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Funeral Theft]
+[25Jan2025 01:20:45.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Old School Defense]
+[25Jan2025 01:21:40.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Disconnected
+[25Jan2025 01:21:40.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
+[25Jan2025 01:23:35.619] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[25Jan2025 01:23:35.627] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:23:44.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 was slain by Maikol_4988
+[25Jan2025 01:23:44.790] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[25Jan2025 01:24:28.063] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Jan2025 01:25:07.875] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[25Jan2025 01:25:07.904] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[25Jan2025 01:25:25.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 drowned
+[25Jan2025 01:25:25.375] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[25Jan2025 01:27:22.228] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 3 in "main" inventory handler
