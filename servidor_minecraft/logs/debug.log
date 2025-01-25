@@ -14190,3 +14190,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25Jan2025 01:35:56.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
 [25Jan2025 01:36:12.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 lost connection: Disconnected
 [25Jan2025 01:36:12.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 left the game
+[25Jan2025 01:39:32.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 01:39:32.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 01:44:32.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 01:44:32.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
