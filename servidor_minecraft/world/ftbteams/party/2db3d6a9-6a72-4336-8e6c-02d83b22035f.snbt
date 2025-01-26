@@ -1,0 +1,29 @@
+{
+	id: "2db3d6a9-6a72-4336-8e6c-02d83b22035f"
+	type: "party"
+	owner: "77fcb98c-7faf-3dc8-8095-81ba0a63f778"
+	ranks: {
+		77fcb98c-7faf-3dc8-8095-81ba0a63f778: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "elrisas741's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9E59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1737925474047L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"elrisas741\"}]}" }]
+	extra: { }
+}
