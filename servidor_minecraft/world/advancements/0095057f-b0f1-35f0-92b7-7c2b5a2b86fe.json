@@ -7378,7 +7378,9 @@
     "criteria": {
       "fletcher": "2025-01-25 00:43:55 +0000",
       "librarian": "2025-01-24 16:09:19 +0000",
-      "farmer": "2025-01-24 16:17:28 +0000"
+      "armorer": "2025-01-26 03:03:18 +0000",
+      "farmer": "2025-01-24 16:17:28 +0000",
+      "hunter": "2025-01-26 03:09:56 +0000"
     },
     "done": false
   },
@@ -10395,6 +10397,144 @@
   "sophisticatedstorage:recipes/misc/storage_crafting_upgrade_from_backpack_crafting_upgrade": {
     "criteria": {
       "has_backpack_upgrade": "2025-01-26 02:11:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:13:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:13:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:13:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:13:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:13:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:13:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:13:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:13:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:13:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:13:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:13:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-26 03:13:49 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/storage_pickup_upgrade_from_backpack_pickup_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-01-26 03:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-26 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-26 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-01-26 03:11:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-01-26 03:11:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_filter_upgrade_from_backpack_filter_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-01-26 03:06:18 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-01-26 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-01-26 03:10:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-01-26 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_filter_upgrade": {
+    "criteria": {
+      "has_filter_upgrade": "2025-01-26 03:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-26 03:09:57 +0000"
     },
     "done": true
   },
