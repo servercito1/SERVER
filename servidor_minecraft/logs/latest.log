@@ -1149,3 +1149,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 8:
 [26Jan2025 01:20:12.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3090ms or 61 ticks behind
 [26Jan2025 01:20:15.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: 22PieroRR
 [26Jan2025 01:22:03.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Not a Diamond]
+[26Jan2025 01:30:42.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[26Jan2025 01:30:42.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
