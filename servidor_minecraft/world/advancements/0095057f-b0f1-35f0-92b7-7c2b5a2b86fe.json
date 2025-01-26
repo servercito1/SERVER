@@ -10392,5 +10392,11 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_crafting_upgrade_from_backpack_crafting_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-01-26 02:11:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

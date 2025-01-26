@@ -17299,3 +17299,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 8:
 [26Jan2025 02:04:23.782] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for b26b011b-5f44-49e7-9316-b6691ba4d3ee (#b26b011b) due to claim limits
 [26Jan2025 02:04:23.782] [Server thread/INFO] [FTB Chunks/]: Team 22PieroRR#0095057f had 0 claimed chunks, now has 137
 [26Jan2025 02:04:23.782] [Server thread/DEBUG] [FTB Chunks/]: dropping references to empty team b26b011b-5f44-49e7-9316-b6691ba4d3ee
+[26Jan2025 02:08:39.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jan2025 02:08:39.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jan2025 02:09:39.531] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 137 chunks from 22PieroRR#0095057f to 22PieroRR_s_Party#0df51151
+[26Jan2025 02:09:39.532] [Server thread/INFO] [FTB Chunks/]: Transferred 137 chunks from 0095057f-b0f1-35f0-92b7-7c2b5a2b86fe (22PieroRR#0095057f) to 0df51151-af39-41a9-87c3-67b0c50311f8 (22PieroRR_s_Party#0df51151)
+[26Jan2025 02:09:39.532] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 0095057f-b0f1-35f0-92b7-7c2b5a2b86fe (22PieroRR#0095057f) due to claim limits
+[26Jan2025 02:09:39.532] [Server thread/INFO] [FTB Chunks/]: Team 22PieroRR_s_Party#0df51151 had 0 claimed chunks, now has 137
+[26Jan2025 02:12:38.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [22PieroRR: Set Allow PvP Combat to false]
+[26Jan2025 02:13:39.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jan2025 02:13:39.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
