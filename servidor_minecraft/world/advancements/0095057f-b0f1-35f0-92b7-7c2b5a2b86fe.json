@@ -10338,78 +10338,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 01:29:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 01:29:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 01:29:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 01:29:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 01:29:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 01:29:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 01:29:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 01:29:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 01:29:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 01:29:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 01:29:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 01:29:53 +0000"
-    },
-    "done": false
-  },
   "sophisticatedstorage:recipes/misc/upgrade_base": {
     "criteria": {
       "has_iron_ingot": "2025-01-26 01:20:09 +0000"
@@ -10446,12 +10374,6 @@
     },
     "done": true
   },
-  "apotheosis:affix/gem": {
-    "criteria": {
-      "gem": "2025-01-26 01:22:03 +0000"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/jungle_barrel": {
     "criteria": {
       "has_jungle_plank": "2025-01-26 01:20:09 +0000"
@@ -10461,6 +10383,12 @@
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-01-26 01:20:12 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-01-26 01:22:03 +0000"
     },
     "done": true
   },

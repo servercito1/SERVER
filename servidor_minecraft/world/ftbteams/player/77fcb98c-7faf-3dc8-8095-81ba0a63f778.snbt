@@ -2,7 +2,9 @@
 	id: "77fcb98c-7faf-3dc8-8095-81ba0a63f778"
 	type: "player"
 	player_name: "elrisas741"
-	ranks: { }
+	ranks: {
+		77fcb98c-7faf-3dc8-8095-81ba0a63f778: "owner"
+	}
 	properties: {
 		"ftbteams:display_name": "elrisas741"
 		"ftbteams:description": ""

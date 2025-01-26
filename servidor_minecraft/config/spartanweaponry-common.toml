@@ -1,24 +1,4 @@
 
-[constantan]
-	#Base Damage for constantan weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 2.25
-	#Durability for constantan weapons
-	#Range: 1 ~ 100000
-	durability = 300
-	#Set to true to disable constantan weapons
-	disable = false
-
-[silver]
-	#Base Damage for silver weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 1.5
-	#Durability for silver weapons
-	#Range: 1 ~ 100000
-	durability = 48
-	#Set to true to disable silver weapons
-	disable = false
-
 [dagger]
 	#Disables all recipes for all Daggers.
 	disable = false
@@ -391,6 +371,16 @@
 	#Set to true to disable steel weapons
 	disable = false
 
+[silver]
+	#Base Damage for silver weapons
+	#Range: 0.1 ~ 100.0
+	base_damage = 1.5
+	#Durability for silver weapons
+	#Range: 1 ~ 100000
+	durability = 48
+	#Set to true to disable silver weapons
+	disable = false
+
 [electrum]
 	#Base Damage for electrum weapons
 	#Range: 0.1 ~ 100.0
@@ -429,6 +419,16 @@
 	#Range: 1 ~ 100000
 	durability = 440
 	#Set to true to disable invar weapons
+	disable = false
+
+[constantan]
+	#Base Damage for constantan weapons
+	#Range: 0.1 ~ 100.0
+	base_damage = 2.25
+	#Durability for constantan weapons
+	#Range: 1 ~ 100000
+	durability = 300
+	#Set to true to disable constantan weapons
 	disable = false
 
 [platinum]

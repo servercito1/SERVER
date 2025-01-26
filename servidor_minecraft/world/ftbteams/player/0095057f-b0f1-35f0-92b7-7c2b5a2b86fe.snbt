@@ -2,7 +2,9 @@
 	id: "0095057f-b0f1-35f0-92b7-7c2b5a2b86fe"
 	type: "player"
 	player_name: "22PieroRR"
-	ranks: { }
+	ranks: {
+		0095057f-b0f1-35f0-92b7-7c2b5a2b86fe: "owner"
+	}
 	properties: {
 		"ftbteams:display_name": "22PieroRR"
 		"ftbteams:description": ""
