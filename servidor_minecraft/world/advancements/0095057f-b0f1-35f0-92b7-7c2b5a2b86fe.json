@@ -11121,9 +11121,21 @@
     },
     "done": true
   },
+  "largemeals:recipes/cooking/cod_deluxe": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-27 00:10:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2025-01-26 23:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-27 00:17:04 +0000"
     },
     "done": true
   },
@@ -11142,6 +11154,12 @@
   "create:water_wheel": {
     "criteria": {
       "0": "2025-01-27 00:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-27 00:17:04 +0000"
     },
     "done": true
   },
@@ -11181,6 +11199,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/bone_knife": {
+    "criteria": {
+      "has_bones": "2025-01-27 00:14:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2025-01-26 23:56:41 +0000"
@@ -11196,6 +11220,12 @@
   "create:recipes/misc/crafting/kinetics/large_cogwheel": {
     "criteria": {
       "has_item": "2025-01-26 23:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-27 00:18:36 +0000"
     },
     "done": true
   },
@@ -11235,15 +11265,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-27 00:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-27 00:17:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/clutch": {
     "criteria": {
       "has_item": "2025-01-26 23:56:41 +0000"
     },
     "done": true
   },
+  "largemeals:recipes/cooking/red_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-27 00:10:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/depot": {
     "criteria": {
       "has_item": "2025-01-26 23:56:41 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2025-01-27 00:14:14 +0000"
     },
     "done": true
   },
