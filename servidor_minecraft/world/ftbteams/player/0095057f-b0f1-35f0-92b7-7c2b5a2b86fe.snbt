@@ -6,7 +6,7 @@
 	properties: {
 		"ftbteams:display_name": "22PieroRR"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FF597A"
+		"ftbteams:color": "#FF8259"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
@@ -20,7 +20,7 @@
 		"ftbchunks:entity_interact_mode": "allies"
 		"ftbchunks:nonliving_entity_attack_mode": "allies"
 		"ftbchunks:claim_visibility": "public"
-		"ftbchunks:location_mode": "allies"
+		"ftbchunks:location_mode": "public"
 	}
 	message_history: [ ]
 	extra: { }
