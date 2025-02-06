@@ -2965,6 +2965,7 @@
       "smithingtable": "2025-02-05 02:57:29 +0000",
       "blastfurnace": "2025-02-06 15:42:56 +0000",
       "lectern": "2025-02-06 15:42:23 +0000",
+      "woodworkingtable": "2025-02-06 16:43:30 +0000",
       "stonecutter": "2025-02-04 01:17:43 +0000",
       "cauldron": "2025-02-03 18:22:17 +0000"
     },
@@ -10783,6 +10784,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/mangrove_cabinet": {
+    "criteria": {
+      "has_mangrove_trapdoor": "2025-02-06 16:38:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-02-06 16:25:11 +0000"
@@ -10807,6 +10814,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_yellow_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-06 15:50:52 +0000"
@@ -10819,9 +10832,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_log_stool": {
+    "criteria": {
+      "has_log": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_yellow_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_table_basic": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
     },
     "done": true
   },
@@ -10837,9 +10874,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_4": {
+    "criteria": {
+      "has_mangrove_plank": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_3": {
+    "criteria": {
+      "has_mangrove_plank": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_2": {
+    "criteria": {
+      "has_mangrove_plank": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_1": {
+    "criteria": {
+      "has_mangrove_plank": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/warped_yellow_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_mangrove_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_table_log": {
+    "criteria": {
+      "has_log": "2025-02-06 16:37:59 +0000"
     },
     "done": true
   },
@@ -10867,9 +10946,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/sandstone_cataclysm_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-02-06 16:14:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-06 16:34:58 +0000"
     },
     "done": true
   },
@@ -10885,6 +10988,18 @@
     },
     "done": true
   },
+  "another_furniture:recipes/mangrove_table": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-02-06 16:14:57 +0000"
@@ -10897,9 +11012,33 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/mangrove/mangrove_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_chair": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-02-06 16:14:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
     },
     "done": true
   },
@@ -10927,6 +11066,42 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/mangrove/mangrove_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-02-06 16:25:11 +0000"
@@ -10939,15 +11114,57 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_table_classic": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_remnant": {
     "criteria": {
       "ignis": "2025-02-06 16:27:06 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_mangrove_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/mangrove_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_yellow_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
     },
     "done": true
   },
@@ -10963,15 +11180,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/crimson_yellow_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-06 15:50:52 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2025-02-06 16:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-02-06 16:34:58 +0000"
     },
     "done": true
   },
@@ -10984,6 +11225,12 @@
   "pfm:recipes/furniture/sandstone_cataclysm_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-02-06 16:14:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:34:58 +0000"
     },
     "done": true
   },
@@ -11005,6 +11252,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_mangrove_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_yellow_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-06 15:50:52 +0000"
@@ -11014,6 +11273,18 @@
   "another_furniture:recipes/bamboo_flower_box": {
     "criteria": {
       "has_slab": "2025-02-06 16:25:08 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-02-06 16:37:59 +0000"
     },
     "done": true
   },
@@ -11041,9 +11312,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/mangrove_yellow_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_mangrove": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
     },
     "done": true
   },
@@ -11059,9 +11354,45 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_chair": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-02-06 15:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
     },
     "done": true
   },
@@ -11071,15 +11402,111 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_chest": {
+    "criteria": {
+      "has_mangrove_plank": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_swamp": {
+    "criteria": {
+      "has_logs": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-02-06 16:25:11 +0000"
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/mangrove_barrel": {
+    "criteria": {
+      "has_mangrove_plank": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_mangrove": {
+    "criteria": {
+      "has_the_recipe": "2025-02-06 16:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-02-06 16:34:50 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/building_blocks/bamboo_herringbone_planks": {
     "criteria": {
       "has_wood_slabs": "2025-02-06 16:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-02-06 16:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:37:59 +0000"
     },
     "done": true
   },
