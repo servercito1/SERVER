@@ -2957,10 +2957,14 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "huntingpost": "2025-02-06 15:42:46 +0000",
+      "fletchingtable": "2025-02-06 15:42:21 +0000",
       "brewingstand": "2025-02-03 19:20:12 +0000",
       "grindstone": "2025-02-05 20:55:42 +0000",
       "smoker": "2025-02-04 03:08:34 +0000",
       "smithingtable": "2025-02-05 02:57:29 +0000",
+      "blastfurnace": "2025-02-06 15:42:56 +0000",
+      "lectern": "2025-02-06 15:42:23 +0000",
       "stonecutter": "2025-02-04 01:17:43 +0000",
       "cauldron": "2025-02-03 18:22:17 +0000"
     },
@@ -10776,6 +10780,162 @@
   "morevillagers:kill_villager": {
     "criteria": {
       "killedvillager": "2025-02-05 22:16:08 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-02-06 15:46:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-02-06 15:46:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-06 15:50:52 +0000"
     },
     "done": true
   },

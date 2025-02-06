@@ -4103,3 +4103,14 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [06Feb2025 15:30:22.501] [Server thread/INFO] [Jade/]: Syncing config to elrisas741 (77fcb98c-7faf-3dc8-8095-81ba0a63f778)
 [06Feb2025 15:30:22.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4146ms or 82 ticks behind
 [06Feb2025 15:31:39.767] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/977, l='ServerLevel[world]', x=-2250.94, y=63.00, z=-1719.85] died, message: 'Weaponsmith was slain by Zombie'
+[06Feb2025 15:44:12.091] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Feb2025 15:44:12.092] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Feb2025 15:44:12.095] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Feb2025 15:44:14.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved too quickly! 0.5763523881887522,0.5,10.180776582163162
+[06Feb2025 15:44:14.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7153ms or 143 ticks behind
+[06Feb2025 15:46:31.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [The Basics]
+[06Feb2025 15:46:31.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Enchanter]
+[06Feb2025 15:48:56.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2876ms or 57 ticks behind
+[06Feb2025 15:52:19.201] [Worker-Main-1/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-386, 2, -223)
+[06Feb2025 15:56:32.253] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-480, y=-6, z=-374}
+[06Feb2025 15:56:32.253] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-480, y=-6, z=-376}
