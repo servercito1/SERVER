@@ -2833,6 +2833,7 @@
       "minecraft:pillager": "2025-02-03 20:10:32 +0000",
       "minecraft:skeleton": "2025-02-03 18:25:01 +0000",
       "minecraft:hoglin": "2025-02-03 19:01:00 +0000",
+      "minecraft:vindicator": "2025-02-06 21:41:13 +0000",
       "minecraft:magma_cube": "2025-02-03 20:34:34 +0000",
       "minecraft:spider": "2025-02-03 18:46:12 +0000",
       "minecraft:piglin_brute": "2025-02-05 21:06:58 +0000",
@@ -2842,6 +2843,7 @@
       "minecraft:zombified_piglin": "2025-02-05 19:52:25 +0000",
       "minecraft:witch": "2025-02-04 01:51:04 +0000",
       "minecraft:wither_skeleton": "2025-02-03 18:54:53 +0000",
+      "minecraft:husk": "2025-02-06 21:31:17 +0000",
       "minecraft:cave_spider": "2025-02-03 18:31:05 +0000",
       "minecraft:piglin": "2025-02-05 21:06:52 +0000",
       "minecraft:enderman": "2025-02-03 20:01:50 +0000",
@@ -12902,6 +12904,42 @@
   "sophisticatedstorage:recipes/misc/iron_to_diamond_tier_upgrade": {
     "criteria": {
       "has_iron_to_gold_tier_upgrade": "2025-02-05 23:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-06 21:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-06 21:31:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-02-06 21:28:19 +0000"
+    },
+    "done": true
+  },
+  "largemeals:recipes/cooking/pufferfish_broth": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-06 21:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-06 21:31:43 +0000"
+    },
+    "done": true
+  },
+  "largemeals:recipes/cooking/potato_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-06 21:31:43 +0000"
     },
     "done": true
   },

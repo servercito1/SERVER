@@ -21421,3 +21421,437 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [06Feb2025 21:31:34.198] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [06Feb2025 21:31:34.202] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [06Feb2025 21:31:35.049] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:31:46.205] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:31:51.311] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:31:53.198] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:31:53.200] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:31:53.202] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:31:54.149] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:31:54.153] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:31:54.156] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:32:23.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 21:32:23.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 21:32:42.499] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:32:43.347] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:32:43.349] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Feb2025 21:32:44.105] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:32:45.150] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:32:46.296] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:32:46.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Feb2025 21:32:46.942] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:32:46.944] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Feb2025 21:32:47.648] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:32:47.650] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Feb2025 21:32:48.894] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:32:48.897] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Feb2025 21:34:05.195] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:06.096] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:07.996] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:09.245] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:09.247] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:09.248] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:09.250] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:10.397] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:12.344] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:13.345] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:13.347] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:13.349] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:13.351] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:14.346] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:16.100] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:16.102] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:16.107] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:16.949] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:21.347] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:22.244] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:26.245] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:27.155] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:29.895] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:29.897] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:29.899] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:30.749] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:31.596] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:32.345] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:54.697] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:55.658] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:34:57.147] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:36:15.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/13079, l='ServerLevel[world]', x=-12276.94, y=108.13, z=-10032.41] died: Restless Spirit starved to death
+[06Feb2025 21:36:54.198] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:37:07.475] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[06Feb2025 21:37:07.483] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:pumpkin_ruin_two
+[06Feb2025 21:37:07.873] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=31, y=5, z=-1359}
+[06Feb2025 21:37:11.524] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[06Feb2025 21:37:11.556] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[06Feb2025 21:37:11.568] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[06Feb2025 21:37:11.579] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[06Feb2025 21:37:11.592] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[06Feb2025 21:37:14.311] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_ring_1
+[06Feb2025 21:37:14.319] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_starting_room
+[06Feb2025 21:37:14.322] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_straight_1
+[06Feb2025 21:37:14.325] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_crossroad_1
+[06Feb2025 21:37:14.340] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_curve_small
+[06Feb2025 21:37:14.345] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_crossroad_big
+[06Feb2025 21:37:14.352] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_straight_big
+[06Feb2025 21:37:14.356] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_t_curve_big
+[06Feb2025 21:37:14.357] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_crossroad_small
+[06Feb2025 21:37:14.360] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_curve_big
+[06Feb2025 21:37:14.362] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_t_curve_small
+[06Feb2025 21:37:14.363] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/fallback/conduit_ruin_room_fail
+[06Feb2025 21:37:14.365] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_1
+[06Feb2025 21:37:14.366] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_2
+[06Feb2025 21:37:14.367] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_straight_2
+[06Feb2025 21:37:14.368] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_3
+[06Feb2025 21:37:14.368] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/fallback/conduit_ruin_road_fail
+[06Feb2025 21:37:23.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 21:37:23.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 21:37:26.428] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_ruin5
+[06Feb2025 21:37:31.182] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[06Feb2025 21:37:31.198] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[06Feb2025 21:37:33.719] [Worker-Main-24/DEBUG] [ModernFix/]: Structure philipsruins:desert_ruin2 is being run through DFU (hash f58efb7ff6cd1b355994fcab4246ecbcee7fca580ea8886d20fa48ddb2d2aceb), this will cause launch time delays
+[06Feb2025 21:37:33.732] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_pyramid1
+[06Feb2025 21:37:33.742] [Worker-Main-1/DEBUG] [ModernFix/]: Structure philipsruins:ancient_ruin_33 is being run through DFU (hash 637571e43ad5f1a24ccd3b2ca2073e63dcdae364a84fbfb0a9a6aa3f6647329d), this will cause launch time delays
+[06Feb2025 21:38:31.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> oe nuc
+[06Feb2025 21:40:22.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> q
+[06Feb2025 21:40:35.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> toy q hago a los aldeanos
+[06Feb2025 21:40:42.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> donde
+[06Feb2025 21:40:43.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> para traer mas
+[06Feb2025 21:41:00.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved wrongly!
+[06Feb2025 21:41:03.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> pera ahora te llevo
+[06Feb2025 21:41:03.699] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:41:04.504] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:41:05.198] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:41:06.049] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:41:06.997] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:41:06.999] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:41:07.698] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:41:08.444] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:41:09.449] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:41:11.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:41:13.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:41:13.048] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Carl the Shimmering'/16924, l='ServerLevel[world]', x=51.31, y=65.00, z=-1089.39] died: Carl the Shimmering was slain by 22PieroRR
+[06Feb2025 21:41:21.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17281, l='ServerLevel[world]', x=-12246.27, y=107.73, z=-10027.61] died: Restless Spirit withered away
+[06Feb2025 21:42:18.976] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation COUNTERCLOCKWISE_90 at (513 | 36 | -1041)
+[06Feb2025 21:42:18.976] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation COUNTERCLOCKWISE_90 at (513 | 36 | -1041)
+[06Feb2025 21:42:20.996] [Worker-Main-17/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (540 | 36 | -1059)
+[06Feb2025 21:42:20.996] [Worker-Main-17/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (540 | 36 | -1059)
+[06Feb2025 21:42:21.000] [Worker-Main-17/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (540 | 36 | -1059)
+[06Feb2025 21:42:21.001] [Worker-Main-17/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (540 | 36 | -1059)
+[06Feb2025 21:42:21.001] [Worker-Main-17/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (541 | 36 | -1047)
+[06Feb2025 21:42:21.001] [Worker-Main-17/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (541 | 36 | -1047)
+[06Feb2025 21:42:21.001] [Worker-Main-17/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (541 | 36 | -1050)
+[06Feb2025 21:42:21.001] [Worker-Main-17/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (541 | 36 | -1050)
+[06Feb2025 21:42:21.001] [Worker-Main-17/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (541 | 36 | -1041)
+[06Feb2025 21:42:21.001] [Worker-Main-17/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (541 | 36 | -1041)
+[06Feb2025 21:42:23.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 21:42:23.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 21:42:24.352] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (540 | 36 | -1059)
+[06Feb2025 21:42:24.352] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (540 | 36 | -1059)
+[06Feb2025 21:42:24.352] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (546 | 36 | -1047)
+[06Feb2025 21:42:24.353] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (546 | 36 | -1047)
+[06Feb2025 21:42:24.353] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (541 | 36 | -1050)
+[06Feb2025 21:42:24.353] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (541 | 36 | -1050)
+[06Feb2025 21:42:24.353] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (541 | 36 | -1041)
+[06Feb2025 21:42:24.353] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (541 | 36 | -1041)
+[06Feb2025 21:42:24.356] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (541 | 36 | -1041)
+[06Feb2025 21:42:24.357] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (541 | 36 | -1041)
+[06Feb2025 21:42:24.357] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (542 | 36 | -1027)
+[06Feb2025 21:42:24.357] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (542 | 36 | -1027)
+[06Feb2025 21:42:24.357] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (541 | 36 | -1032)
+[06Feb2025 21:42:24.357] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (541 | 36 | -1032)
+[06Feb2025 21:42:24.357] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (538 | 36 | -1025)
+[06Feb2025 21:42:24.357] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (538 | 36 | -1025)
+[06Feb2025 21:42:24.357] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (547 | 27 | -1025)
+[06Feb2025 21:42:24.357] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (547 | 27 | -1025)
+[06Feb2025 21:42:24.357] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (554 | 0 | -1036)
+[06Feb2025 21:42:24.357] [Worker-Main-23/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (554 | 0 | -1036)
+[06Feb2025 21:42:28.958] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[06Feb2025 21:42:28.959] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[06Feb2025 21:42:28.960] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[06Feb2025 21:42:28.960] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_snowy
+[06Feb2025 21:42:28.961] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[06Feb2025 21:42:28.961] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[06Feb2025 21:42:28.963] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_dark_oak
+[06Feb2025 21:42:28.963] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[06Feb2025 21:42:28.964] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[06Feb2025 21:42:28.964] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_dark_oak
+[06Feb2025 21:42:28.965] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_acacia
+[06Feb2025 21:42:28.966] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_cherry
+[06Feb2025 21:42:28.967] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[06Feb2025 21:42:28.968] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_armorer
+[06Feb2025 21:42:28.969] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_trader
+[06Feb2025 21:42:28.969] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[06Feb2025 21:42:28.970] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[06Feb2025 21:42:28.971] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[06Feb2025 21:42:28.971] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[06Feb2025 21:42:28.971] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[06Feb2025 21:42:28.972] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[06Feb2025 21:42:28.973] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_spruce
+[06Feb2025 21:42:28.974] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[06Feb2025 21:42:28.974] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[06Feb2025 21:42:28.975] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[06Feb2025 21:42:28.976] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[06Feb2025 21:42:28.976] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[06Feb2025 21:42:28.976] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_birch
+[06Feb2025 21:42:28.977] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_birch
+[06Feb2025 21:42:28.977] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[06Feb2025 21:42:28.978] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_birch
+[06Feb2025 21:42:28.978] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_birch
+[06Feb2025 21:42:28.979] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[06Feb2025 21:42:28.979] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[06Feb2025 21:42:28.980] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[06Feb2025 21:42:28.981] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[06Feb2025 21:42:28.981] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[06Feb2025 21:42:28.982] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_desert
+[06Feb2025 21:42:28.982] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[06Feb2025 21:42:28.983] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[06Feb2025 21:42:28.984] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_desert
+[06Feb2025 21:42:28.984] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[06Feb2025 21:42:28.985] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[06Feb2025 21:42:28.985] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[06Feb2025 21:42:28.986] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[06Feb2025 21:42:28.986] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[06Feb2025 21:42:28.986] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[06Feb2025 21:42:28.987] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[06Feb2025 21:42:28.988] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[06Feb2025 21:42:28.988] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_dark_oak
+[06Feb2025 21:42:28.989] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_dark_oak
+[06Feb2025 21:42:28.989] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[06Feb2025 21:42:28.990] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_dark_oak
+[06Feb2025 21:42:28.991] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_dark_oak
+[06Feb2025 21:42:28.991] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_dark_oak
+[06Feb2025 21:42:28.991] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[06Feb2025 21:42:28.992] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[06Feb2025 21:42:28.992] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[06Feb2025 21:42:28.993] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_cherry
+[06Feb2025 21:42:28.993] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_cherry
+[06Feb2025 21:42:28.993] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_cherry
+[06Feb2025 21:42:28.994] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_cherry
+[06Feb2025 21:42:28.995] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_cherry
+[06Feb2025 21:42:28.995] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_cherry
+[06Feb2025 21:42:28.996] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_cherry
+[06Feb2025 21:42:28.996] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_cherry
+[06Feb2025 21:42:28.997] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_swamp
+[06Feb2025 21:42:28.998] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_swamp
+[06Feb2025 21:42:28.998] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_swamp
+[06Feb2025 21:42:28.998] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_swamp
+[06Feb2025 21:42:28.999] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_swamp
+[06Feb2025 21:42:29.000] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_swamp
+[06Feb2025 21:42:29.000] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_swamp
+[06Feb2025 21:42:29.001] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[06Feb2025 21:42:29.002] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[06Feb2025 21:42:29.002] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[06Feb2025 21:42:29.003] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[06Feb2025 21:42:29.004] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[06Feb2025 21:42:29.004] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_jungle
+[06Feb2025 21:42:29.004] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[06Feb2025 21:42:29.005] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[06Feb2025 21:42:29.005] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_snowy
+[06Feb2025 21:42:29.005] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_snowy
+[06Feb2025 21:42:29.005] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_snowy
+[06Feb2025 21:42:29.006] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_snowy
+[06Feb2025 21:42:29.006] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_snowy
+[06Feb2025 21:42:29.006] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_snowy
+[06Feb2025 21:42:29.007] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[06Feb2025 21:42:29.007] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_snowy
+[06Feb2025 21:42:29.008] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cartographer
+[06Feb2025 21:42:29.008] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cleric
+[06Feb2025 21:42:29.009] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_farmer
+[06Feb2025 21:42:29.009] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fisher
+[06Feb2025 21:42:29.009] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fletcher
+[06Feb2025 21:42:29.010] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_grindstone
+[06Feb2025 21:42:29.010] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_leather_worker
+[06Feb2025 21:42:29.010] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_librarian
+[06Feb2025 21:42:29.011] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_loom
+[06Feb2025 21:42:29.011] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_smithing_table
+[06Feb2025 21:42:29.011] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_stonecutter
+[06Feb2025 21:42:29.012] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_butcher
+[06Feb2025 21:42:29.012] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_villager
+[06Feb2025 21:42:29.208] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (563 | 36 | -1021)
+[06Feb2025 21:42:29.208] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (563 | 36 | -1021)
+[06Feb2025 21:42:29.208] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (558 | 36 | -1022)
+[06Feb2025 21:42:29.208] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (558 | 36 | -1022)
+[06Feb2025 21:42:29.208] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation NONE at (565 | 36 | -1025)
+[06Feb2025 21:42:29.209] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation NONE at (565 | 36 | -1025)
+[06Feb2025 21:42:29.209] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (572 | 27 | -1009)
+[06Feb2025 21:42:29.209] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (572 | 27 | -1009)
+[06Feb2025 21:42:29.209] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (568 | 18 | -1019)
+[06Feb2025 21:42:29.210] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (568 | 18 | -1019)
+[06Feb2025 21:42:29.210] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (563 | 18 | -1036)
+[06Feb2025 21:42:29.210] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (563 | 18 | -1036)
+[06Feb2025 21:42:29.211] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (569 | 18 | -1014)
+[06Feb2025 21:42:29.211] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (569 | 18 | -1014)
+[06Feb2025 21:42:29.211] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (563 | 18 | -1009)
+[06Feb2025 21:42:29.211] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (563 | 18 | -1009)
+[06Feb2025 21:42:29.211] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_180 at (572 | 8 | -1036)
+[06Feb2025 21:42:29.211] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_180 at (572 | 8 | -1036)
+[06Feb2025 21:42:29.211] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (572 | 8 | -1036)
+[06Feb2025 21:42:29.212] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (572 | 8 | -1036)
+[06Feb2025 21:42:29.212] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (559 | 0 | -1019)
+[06Feb2025 21:42:29.212] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (559 | 0 | -1019)
+[06Feb2025 21:42:29.212] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (554 | 0 | -1036)
+[06Feb2025 21:42:29.212] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (554 | 0 | -1036)
+[06Feb2025 21:42:29.212] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (560 | 0 | -1009)
+[06Feb2025 21:42:29.212] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (560 | 0 | -1009)
+[06Feb2025 21:42:29.212] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (559 | 0 | -1014)
+[06Feb2025 21:42:29.212] [Worker-Main-24/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (559 | 0 | -1014)
+[06Feb2025 21:43:03.366] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[06Feb2025 21:43:05.042] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[06Feb2025 21:43:05.093] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[06Feb2025 21:43:15.620] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:pumpkin_ruin_seven
+[06Feb2025 21:43:19.452] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:43:28.616] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[06Feb2025 21:43:28.620] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[06Feb2025 21:43:28.621] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_2
+[06Feb2025 21:43:28.622] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_extend
+[06Feb2025 21:43:28.623] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[06Feb2025 21:43:28.624] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_1
+[06Feb2025 21:43:28.624] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_2
+[06Feb2025 21:43:28.625] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_3
+[06Feb2025 21:43:28.625] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[06Feb2025 21:43:28.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[06Feb2025 21:43:28.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[06Feb2025 21:43:28.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[06Feb2025 21:43:28.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[06Feb2025 21:43:28.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[06Feb2025 21:43:38.409] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=726, y=-40, z=-858}
+[06Feb2025 21:43:39.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[06Feb2025 21:43:39.941] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[06Feb2025 21:43:58.302] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[06Feb2025 21:43:58.320] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[06Feb2025 21:43:58.330] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[06Feb2025 21:43:58.337] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[06Feb2025 21:43:58.348] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_2
+[06Feb2025 21:43:58.354] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[06Feb2025 21:43:58.375] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[06Feb2025 21:43:58.386] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[06Feb2025 21:43:58.396] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[06Feb2025 21:43:58.400] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_3
+[06Feb2025 21:43:58.404] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[06Feb2025 21:43:58.407] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[06Feb2025 21:43:58.414] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[06Feb2025 21:43:58.418] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_3
+[06Feb2025 21:43:58.435] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[06Feb2025 21:43:58.456] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[06Feb2025 21:43:58.465] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[06Feb2025 21:43:58.470] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[06Feb2025 21:43:58.475] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[06Feb2025 21:43:58.977] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[06Feb2025 21:43:58.980] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[06Feb2025 21:43:58.984] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[06Feb2025 21:43:58.992] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[06Feb2025 21:43:59.000] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[06Feb2025 21:43:59.018] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[06Feb2025 21:44:03.035] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[06Feb2025 21:44:03.756] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[06Feb2025 21:44:04.643] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[06Feb2025 21:44:05.112] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=812, y=-17, z=-468}
+[06Feb2025 21:44:07.451] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:09.058] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:10.405] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:12.549] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:12.751] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:13.404] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:14.650] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:19.797] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:19.800] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:21.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:22.653] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:23.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:25.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:27.106] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:29.447] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[06Feb2025 21:44:29.497] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[06Feb2025 21:44:29.502] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:29.545] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[06Feb2025 21:44:29.597] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[06Feb2025 21:44:29.743] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[06Feb2025 21:44:29.795] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[06Feb2025 21:44:29.847] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[06Feb2025 21:44:29.893] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[06Feb2025 21:44:30.302] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:31.310] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:32.056] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:32.801] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:44:32.802] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Bella the Burger Chef'/19971, l='ServerLevel[world]', x=621.82, y=67.00, z=-674.85] died: Bella the Burger Chef was slain by 22PieroRR
+[06Feb2025 21:44:41.358] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_main_start
+[06Feb2025 21:44:41.566] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_3
+[06Feb2025 21:44:41.571] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[06Feb2025 21:44:41.576] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[06Feb2025 21:44:41.634] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[06Feb2025 21:44:41.665] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[06Feb2025 21:44:41.701] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3 is being run through DFU (hash 32bd1ae2d23fa71616e0c378b422d1e9e13fbf31551051d3f771e728a4fb5d6c), this will cause launch time delays
+[06Feb2025 21:44:41.922] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[06Feb2025 21:44:41.952] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[06Feb2025 21:44:42.001] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[06Feb2025 21:44:42.012] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[06Feb2025 21:44:42.017] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[06Feb2025 21:44:42.066] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[06Feb2025 21:44:42.085] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[06Feb2025 21:44:42.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> o nuc regresa al overworld pa llevarte
+[06Feb2025 21:44:44.164] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[06Feb2025 21:44:44.499] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[06Feb2025 21:44:44.511] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_3
+[06Feb2025 21:44:44.519] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[06Feb2025 21:44:44.530] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[06Feb2025 21:44:44.536] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[06Feb2025 21:44:44.544] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[06Feb2025 21:44:44.551] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[06Feb2025 21:44:44.555] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[06Feb2025 21:44:44.563] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[06Feb2025 21:44:44.744] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[06Feb2025 21:44:44.771] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[06Feb2025 21:44:44.789] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[06Feb2025 21:44:44.834] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[06Feb2025 21:44:44.876] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[06Feb2025 21:44:44.913] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_turn_0
+[06Feb2025 21:44:45.724] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=836, y=-39, z=-787}
+[06Feb2025 21:44:46.753] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_ruin_18
+[06Feb2025 21:44:46.824] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:gallows
+[06Feb2025 21:44:47.696] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=862, y=-39, z=-629}
+[06Feb2025 21:44:48.063] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=852, y=0, z=-663}
+[06Feb2025 21:45:15.200] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation NONE at (601 | 31 | -322)
+[06Feb2025 21:45:15.201] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation NONE at (601 | 31 | -322)
+[06Feb2025 21:45:22.276] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=757, y=-25, z=-246}
+[06Feb2025 21:45:22.276] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=757, y=-25, z=-245}
+[06Feb2025 21:46:16.606] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:46:19.142] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:46:25.116] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:46:47.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:46:48.611] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:46:49.353] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:47:23.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 21:47:23.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 21:47:42.260] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:47:58.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> donde esta
+[06Feb2025 21:48:06.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Mine? Mine? Mine?]
+[06Feb2025 21:48:06.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> en el nether
+[06Feb2025 21:48:13.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> tienes waystone
+[06Feb2025 21:48:13.489] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[06Feb2025 21:48:13.537] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[06Feb2025 21:48:13.586] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[06Feb2025 21:48:13.644] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[06Feb2025 21:48:13.689] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[06Feb2025 21:48:13.738] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[06Feb2025 21:48:15.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> XDDDDD
+[06Feb2025 21:48:56.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> aca
+[06Feb2025 21:49:05.408] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:49:10.454] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:49:11.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> no te veo nuc
+[06Feb2025 21:49:13.754] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:49:15.010] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:49:16.008] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:49:26.657] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from 22PieroRR_s_Party#35aabb58 to elrisas741#77fcb98c
+[06Feb2025 21:49:26.657] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 35aabb58-78ee-4e7b-8aa8-9bf7dd504b2f (22PieroRR_s_Party#35aabb58) to 77fcb98c-7faf-3dc8-8095-81ba0a63f778 (elrisas741#77fcb98c)
+[06Feb2025 21:49:26.657] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 35aabb58-78ee-4e7b-8aa8-9bf7dd504b2f (22PieroRR_s_Party#35aabb58) due to claim limits
+[06Feb2025 21:49:26.657] [Server thread/INFO] [FTB Chunks/]: Team elrisas741#77fcb98c had 0 claimed chunks, now has 0
+[06Feb2025 21:49:31.309] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:49:32.291] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from elrisas741#77fcb98c to 22PieroRR_s_Party#35aabb58
+[06Feb2025 21:49:32.291] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 77fcb98c-7faf-3dc8-8095-81ba0a63f778 (elrisas741#77fcb98c) to 35aabb58-78ee-4e7b-8aa8-9bf7dd504b2f (22PieroRR_s_Party#35aabb58)
+[06Feb2025 21:49:32.291] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 77fcb98c-7faf-3dc8-8095-81ba0a63f778 (elrisas741#77fcb98c) due to claim limits
+[06Feb2025 21:49:32.291] [Server thread/INFO] [FTB Chunks/]: Team 22PieroRR_s_Party#35aabb58 had 0 claimed chunks, now has 0
+[06Feb2025 21:49:59.456] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Feb2025 21:50:10.575] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Feb2025 21:50:10.576] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Feb2025 21:50:10.576] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Feb2025 21:50:11.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Ancient Battlefield]
+[06Feb2025 21:50:11.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has completed the challenge [Soul Searcher]

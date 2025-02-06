@@ -4150,3 +4150,44 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [06Feb2025 21:29:55.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved wrongly!
 [06Feb2025 21:30:32.421] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-101, y=15, z=-1198}
 [06Feb2025 21:30:32.421] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-101, y=15, z=-1199}
+[06Feb2025 21:36:15.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/13079, l='ServerLevel[world]', x=-12276.94, y=108.13, z=-10032.41] died: Restless Spirit starved to death
+[06Feb2025 21:37:07.873] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=31, y=5, z=-1359}
+[06Feb2025 21:37:31.182] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[06Feb2025 21:38:31.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> oe nuc
+[06Feb2025 21:40:22.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> q
+[06Feb2025 21:40:35.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> toy q hago a los aldeanos
+[06Feb2025 21:40:42.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> donde
+[06Feb2025 21:40:43.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> para traer mas
+[06Feb2025 21:41:00.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved wrongly!
+[06Feb2025 21:41:03.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> pera ahora te llevo
+[06Feb2025 21:41:13.048] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Carl the Shimmering'/16924, l='ServerLevel[world]', x=51.31, y=65.00, z=-1089.39] died: Carl the Shimmering was slain by 22PieroRR
+[06Feb2025 21:41:21.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17281, l='ServerLevel[world]', x=-12246.27, y=107.73, z=-10027.61] died: Restless Spirit withered away
+[06Feb2025 21:43:38.409] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=726, y=-40, z=-858}
+[06Feb2025 21:44:05.112] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=812, y=-17, z=-468}
+[06Feb2025 21:44:32.802] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Bella the Burger Chef'/19971, l='ServerLevel[world]', x=621.82, y=67.00, z=-674.85] died: Bella the Burger Chef was slain by 22PieroRR
+[06Feb2025 21:44:42.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> o nuc regresa al overworld pa llevarte
+[06Feb2025 21:44:45.724] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=836, y=-39, z=-787}
+[06Feb2025 21:44:47.696] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=862, y=-39, z=-629}
+[06Feb2025 21:44:48.063] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=852, y=0, z=-663}
+[06Feb2025 21:45:22.276] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=757, y=-25, z=-246}
+[06Feb2025 21:45:22.276] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=757, y=-25, z=-245}
+[06Feb2025 21:47:58.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> donde esta
+[06Feb2025 21:48:06.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Mine? Mine? Mine?]
+[06Feb2025 21:48:06.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> en el nether
+[06Feb2025 21:48:13.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> tienes waystone
+[06Feb2025 21:48:15.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> XDDDDD
+[06Feb2025 21:48:56.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> aca
+[06Feb2025 21:49:11.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> no te veo nuc
+[06Feb2025 21:49:26.657] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from 22PieroRR_s_Party#35aabb58 to elrisas741#77fcb98c
+[06Feb2025 21:49:26.657] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 35aabb58-78ee-4e7b-8aa8-9bf7dd504b2f (22PieroRR_s_Party#35aabb58) to 77fcb98c-7faf-3dc8-8095-81ba0a63f778 (elrisas741#77fcb98c)
+[06Feb2025 21:49:26.657] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 35aabb58-78ee-4e7b-8aa8-9bf7dd504b2f (22PieroRR_s_Party#35aabb58) due to claim limits
+[06Feb2025 21:49:26.657] [Server thread/INFO] [FTB Chunks/]: Team elrisas741#77fcb98c had 0 claimed chunks, now has 0
+[06Feb2025 21:49:32.291] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from elrisas741#77fcb98c to 22PieroRR_s_Party#35aabb58
+[06Feb2025 21:49:32.291] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 77fcb98c-7faf-3dc8-8095-81ba0a63f778 (elrisas741#77fcb98c) to 35aabb58-78ee-4e7b-8aa8-9bf7dd504b2f (22PieroRR_s_Party#35aabb58)
+[06Feb2025 21:49:32.291] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 77fcb98c-7faf-3dc8-8095-81ba0a63f778 (elrisas741#77fcb98c) due to claim limits
+[06Feb2025 21:49:32.291] [Server thread/INFO] [FTB Chunks/]: Team 22PieroRR_s_Party#35aabb58 had 0 claimed chunks, now has 0
+[06Feb2025 21:50:10.575] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Feb2025 21:50:10.576] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Feb2025 21:50:10.576] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Feb2025 21:50:11.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Ancient Battlefield]
+[06Feb2025 21:50:11.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has completed the challenge [Soul Searcher]
