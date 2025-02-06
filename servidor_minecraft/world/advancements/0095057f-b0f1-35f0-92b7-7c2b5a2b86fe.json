@@ -2717,6 +2717,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "huntingpost": "2025-02-03 20:52:03 +0000",
+      "blueprinttable": "2025-02-06 22:53:31 +0000",
       "oceanographytable": "2025-02-04 02:26:11 +0000",
       "fletchingtable": "2025-02-03 20:50:08 +0000",
       "brewingstand": "2025-02-03 22:01:12 +0000",
@@ -12991,6 +12992,12 @@
       "has_any_ingredient": "2025-02-06 21:31:43 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "beehive": "2025-02-06 22:44:32 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

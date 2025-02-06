@@ -4232,3 +4232,30 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [06Feb2025 22:26:31.304] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97633, y=58, z=-82762} BlockPos{x=-97633, y=59, z=-82762}
 [06Feb2025 22:30:15.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [The Bender of the 15th Century]
 [06Feb2025 22:31:34.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has completed the challenge [Just a Flesh Wound]
+[06Feb2025 22:35:26.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2172ms or 43 ticks behind
+[06Feb2025 22:43:32.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! -10.10394226826429,1.2774360464858319,-1.4084464021913163
+[06Feb2025 22:44:05.001] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/74192, l='ServerLevel[world]', x=-2457.70, y=72.00, z=-877.51] died, message: 'Unemployed was slain by Zombie'
+[06Feb2025 22:50:44.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 2 of a max of 20 players online: 22PieroRR, elrisas741
+[06Feb2025 22:54:28.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! -9.635840541919606,1.9145357923611073,-2.202644276925639
+[06Feb2025 22:56:12.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! 8.70911777204492,2.277436046485832,4.514063822446474
+[06Feb2025 22:56:30.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved too quickly! -5.5167375828500615,-4.288906606460884,8.189005313377606
+[06Feb2025 22:56:42.667] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-271, y=-3, z=-111}
+[06Feb2025 22:56:46.295] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-243, y=1, z=-75}
+[06Feb2025 22:56:46.295] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-244, y=1, z=-75}
+[06Feb2025 22:56:53.944] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-264, y=-43, z=-35}
+[06Feb2025 22:56:53.944] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-265, y=-43, z=-35}
+[06Feb2025 22:56:53.949] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-261, y=-34, z=-60}
+[06Feb2025 22:57:28.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=24, y=67, z=-58} BlockPos{x=23, y=65, z=-58}
+[06Feb2025 22:57:29.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=67, z=-55} BlockPos{x=26, y=65, z=-55}
+[06Feb2025 22:57:29.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=67, z=-55} BlockPos{x=26, y=65, z=-55}
+[06Feb2025 22:57:30.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=66, z=-58} BlockPos{x=32, y=65, z=-58}
+[06Feb2025 22:57:31.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=28, y=67, z=-59} BlockPos{x=28, y=65, z=-59}
+[06Feb2025 22:57:35.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=28, y=66, z=-62} BlockPos{x=29, y=66, z=-61}
+[06Feb2025 22:57:35.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=28, y=66, z=-62} BlockPos{x=29, y=66, z=-61}
+[06Feb2025 22:58:52.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=65, z=-162} BlockPos{x=76, y=63, z=-162}
+[06Feb2025 22:58:54.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=65, z=-163} BlockPos{x=75, y=63, z=-164}
+[06Feb2025 22:58:54.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=74, y=65, z=-163} BlockPos{x=75, y=63, z=-164}
+[06Feb2025 22:58:56.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=70, y=65, z=-164} BlockPos{x=69, y=63, z=-165}
+[06Feb2025 23:01:19.398] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oceanographer'/91980, l='ServerLevel[world]', x=-2541.50, y=68.25, z=-855.74] died, message: 'Oceanographer was slain by Mutant Zombie'
+[06Feb2025 23:01:34.242] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/91982, l='ServerLevel[world]', x=-2534.97, y=70.00, z=-846.28] died, message: 'Unemployed hit the ground too hard whilst trying to escape Zombie Villager'
+[06Feb2025 23:02:34.031] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/90442, l='ServerLevel[world]', x=-97497.43, y=100.25, z=-82828.24] died: Honeyed Archer suffocated in a wall
