@@ -4259,3 +4259,11 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [06Feb2025 23:01:19.398] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oceanographer'/91980, l='ServerLevel[world]', x=-2541.50, y=68.25, z=-855.74] died, message: 'Oceanographer was slain by Mutant Zombie'
 [06Feb2025 23:01:34.242] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/91982, l='ServerLevel[world]', x=-2534.97, y=70.00, z=-846.28] died, message: 'Unemployed hit the ground too hard whilst trying to escape Zombie Villager'
 [06Feb2025 23:02:34.031] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/90442, l='ServerLevel[world]', x=-97497.43, y=100.25, z=-82828.24] died: Honeyed Archer suffocated in a wall
+[06Feb2025 23:10:01.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved wrongly!
+[06Feb2025 23:11:36.602] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/99139, l='ServerLevel[world]', x=-12321.30, y=192.00, z=-9979.30] died, message: 'Fletcher was slain by elrisas741'
+[06Feb2025 23:12:31.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ayuda a buscar proteccion o fortuna
+[06Feb2025 23:12:40.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> aver
+[06Feb2025 23:13:09.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> encontre union del alma
+[06Feb2025 23:13:16.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ya hay
+[06Feb2025 23:13:22.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> en la anitgua aldea
+[06Feb2025 23:13:25.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> quedo vivo ese
