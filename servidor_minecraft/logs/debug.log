@@ -20574,3 +20574,55 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [06Feb2025 15:56:16.432] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [06Feb2025 15:56:32.253] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-480, y=-6, z=-374}
 [06Feb2025 15:56:32.253] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-480, y=-6, z=-376}
+[06Feb2025 15:58:56.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 15:58:56.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 16:00:54.570] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter1
+[06Feb2025 16:00:54.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter2
+[06Feb2025 16:00:54.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_vh
+[06Feb2025 16:00:54.582] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_vh
+[06Feb2025 16:00:54.584] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_hv
+[06Feb2025 16:00:54.586] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_hv
+[06Feb2025 16:00:54.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_t
+[06Feb2025 16:00:54.591] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_4way
+[06Feb2025 16:00:54.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_vh
+[06Feb2025 16:00:54.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_long
+[06Feb2025 16:00:54.595] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_elbow
+[06Feb2025 16:00:54.596] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v
+[06Feb2025 16:00:54.598] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_h
+[06Feb2025 16:00:54.600] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_hv
+[06Feb2025 16:00:54.602] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_end
+[06Feb2025 16:00:54.603] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_end
+[06Feb2025 16:00:54.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_3_soul
+[06Feb2025 16:00:54.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_witherskeleton
+[06Feb2025 16:00:54.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_empty
+[06Feb2025 16:00:54.703] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_plate_1_soul
+[06Feb2025 16:00:54.704] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_7_soul
+[06Feb2025 16:00:54.706] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_11_soul
+[06Feb2025 16:00:54.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_3_soul
+[06Feb2025 16:02:31.220] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14470, l='ServerLevel[world]', x=-12207.26, y=156.13, z=-10049.45] died: Restless Spirit starved to death
+[06Feb2025 16:02:31.221] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14472, l='ServerLevel[world]', x=-12224.78, y=147.64, z=-10049.98] died: Restless Spirit starved to death
+[06Feb2025 16:03:02.467] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14530, l='ServerLevel[world]', x=-12241.47, y=108.94, z=-10025.46] died: Restless Spirit starved to death
+[06Feb2025 16:03:56.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 16:03:56.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 16:05:43.436] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/statues/statue_2x2
+[06Feb2025 16:05:43.448] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand3
+[06Feb2025 16:05:43.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/farm1
+[06Feb2025 16:05:43.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand6
+[06Feb2025 16:05:43.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/table1
+[06Feb2025 16:05:43.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/saplings_small
+[06Feb2025 16:05:43.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/saplings_big
+[06Feb2025 16:05:43.455] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/saplings_b
+[06Feb2025 16:05:44.455] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/nether_devil
+[06Feb2025 16:05:44.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/library
+[06Feb2025 16:05:44.585] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/blacksmith
+[06Feb2025 16:05:44.591] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/lumber/barrel_small2
+[06Feb2025 16:05:44.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_guard
+[06Feb2025 16:05:44.596] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/blacksmith
+[06Feb2025 16:05:44.597] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/farm3
+[06Feb2025 16:05:44.599] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/farm2
+[06Feb2025 16:05:44.600] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/table2
+[06Feb2025 16:05:44.603] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/table1_w
+[06Feb2025 16:05:46.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/road2
+[06Feb2025 16:05:47.284] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_2
+[06Feb2025 16:05:47.561] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/15096, l='ServerLevel[world]', x=-11634.00, y=31.00, z=-10025.00] as it would cause deadlock
+[06Feb2025 16:06:02.640] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/1

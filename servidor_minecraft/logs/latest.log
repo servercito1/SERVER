@@ -4114,3 +4114,7 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [06Feb2025 15:52:19.201] [Worker-Main-1/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-386, 2, -223)
 [06Feb2025 15:56:32.253] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-480, y=-6, z=-374}
 [06Feb2025 15:56:32.253] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-480, y=-6, z=-376}
+[06Feb2025 16:02:31.220] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14470, l='ServerLevel[world]', x=-12207.26, y=156.13, z=-10049.45] died: Restless Spirit starved to death
+[06Feb2025 16:02:31.221] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14472, l='ServerLevel[world]', x=-12224.78, y=147.64, z=-10049.98] died: Restless Spirit starved to death
+[06Feb2025 16:03:02.467] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14530, l='ServerLevel[world]', x=-12241.47, y=108.94, z=-10025.46] died: Restless Spirit starved to death
+[06Feb2025 16:05:47.561] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/15096, l='ServerLevel[world]', x=-11634.00, y=31.00, z=-10025.00] as it would cause deadlock
