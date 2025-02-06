@@ -12938,9 +12938,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-02-06 22:30:15 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-02-06 22:30:15 +0000"
+    },
+    "done": true
+  },
   "largemeals:recipes/cooking/pufferfish_broth": {
     "criteria": {
       "has_any_ingredient": "2025-02-06 21:31:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:heavy_crossbow": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-02-06 22:30:15 +0000"
     },
     "done": true
   },
@@ -12950,9 +12968,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-02-06 22:30:15 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-02-06 21:48:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_bolt_quiver": {
+    "criteria": {
+      "has_bolt": "2025-02-06 22:30:22 +0000"
     },
     "done": true
   },
