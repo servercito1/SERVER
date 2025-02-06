@@ -4191,3 +4191,5 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [06Feb2025 21:50:10.576] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [06Feb2025 21:50:11.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Ancient Battlefield]
 [06Feb2025 21:50:11.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has completed the challenge [Soul Searcher]
+[06Feb2025 21:56:32.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Wingin' It]
+[06Feb2025 22:01:18.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Rigged from the Start]

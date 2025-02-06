@@ -7739,9 +7739,10 @@
       "incendium:quartz_flats": "2025-02-04 00:12:05 +0000",
       "incendium:inverted_forest": "2025-02-03 22:16:38 +0000",
       "incendium:volcanic_deltas": "2025-02-04 00:01:33 +0000",
-      "incendium:toxic_heap": "2025-02-03 22:15:57 +0000"
+      "incendium:toxic_heap": "2025-02-03 22:15:57 +0000",
+      "incendium:withered_forest": "2025-02-06 21:50:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:infernal_dunes/root": {
     "criteria": {
@@ -12907,6 +12908,12 @@
     },
     "done": true
   },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-02-06 21:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-02-06 21:31:43 +0000"
@@ -12925,6 +12932,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-02-06 21:56:32 +0000"
+    },
+    "done": true
+  },
   "largemeals:recipes/cooking/pufferfish_broth": {
     "criteria": {
       "has_any_ingredient": "2025-02-06 21:31:43 +0000"
@@ -12934,6 +12947,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-02-06 21:31:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-06 21:48:06 +0000"
     },
     "done": true
   },
