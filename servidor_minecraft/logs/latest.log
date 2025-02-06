@@ -4124,3 +4124,29 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [06Feb2025 21:14:02.078] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
 [06Feb2025 21:14:02.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: 22PieroRR
 [06Feb2025 21:14:02.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3562ms or 71 ticks behind
+[06Feb2025 21:24:45.364] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=555, y=-9, z=-869}
+[06Feb2025 21:24:48.602] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=582, y=25, z=-885}
+[06Feb2025 21:24:49.613] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=599, y=29, z=-774}
+[06Feb2025 21:26:31.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elrisas741[/127.194.73.14:43711] logged in with entity id 4918 at (-12314.323780080955, 192.75, -9997.559103513839)
+[06Feb2025 21:26:31.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 joined the game
+[06Feb2025 21:26:31.156] [Server thread/INFO] [Jade/]: Syncing config to elrisas741 (77fcb98c-7faf-3dc8-8095-81ba0a63f778)
+[06Feb2025 21:26:33.440] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=368, y=-8, z=-1057}
+[06Feb2025 21:26:48.100] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/5076, l='ServerLevel[world]', x=-12217.36, y=160.98, z=-10061.70] died: Restless Spirit starved to death
+[06Feb2025 21:27:16.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> hiciste otros aldeanos?
+[06Feb2025 21:27:21.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> si
+[06Feb2025 21:27:25.209] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=156, y=-40, z=-1101}
+[06Feb2025 21:27:27.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> pasa waystone
+[06Feb2025 21:27:29.570] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-11, y=-11, z=-1057}
+[06Feb2025 21:27:29.570] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-11, y=-11, z=-1056}
+[06Feb2025 21:27:29.825] [Worker-Main-17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=248, y=3, z=-1103}
+[06Feb2025 21:27:29.825] [Worker-Main-17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=249, y=3, z=-1103}
+[06Feb2025 21:27:29.826] [Worker-Main-17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=250, y=3, z=-1103}
+[06Feb2025 21:27:33.007] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/5442, l='ServerLevel[world]', x=-12311.88, y=192.00, z=-10003.48] died: Headless Warrior was slain by elrisas741
+[06Feb2025 21:27:33.327] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=150, y=22, z=-1130}
+[06Feb2025 21:27:33.653] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=199, y=64, z=-917} BlockPos{x=198, y=62, z=-915}
+[06Feb2025 21:27:43.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> na mentira el ñeñik se llevo todo
+[06Feb2025 21:27:55.041] [Worker-Main-25/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=217, y=-10, z=-1216}
+[06Feb2025 21:29:08.832] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/4791, l='ServerLevel[world]', x=175.46, y=65.01, z=-1004.19] died: Honeyed Archer burned to death
+[06Feb2025 21:29:55.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved wrongly!
+[06Feb2025 21:30:32.421] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-101, y=15, z=-1198}
+[06Feb2025 21:30:32.421] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-101, y=15, z=-1199}
