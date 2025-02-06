@@ -10783,6 +10783,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-06 16:14:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2025-02-06 16:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-02-06 16:14:57 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_yellow_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-06 15:50:52 +0000"
@@ -10807,9 +10825,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-06 16:14:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-06 16:14:57 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/bamboo_yellow_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-06 16:14:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/sandstone_cataclysm_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:14:57 +0000"
     },
     "done": true
   },
@@ -10825,9 +10867,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-02-06 16:14:57 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_yellow_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-02-06 16:14:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/sandstone_cataclysm_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:14:57 +0000"
     },
     "done": true
   },
@@ -10855,6 +10915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-06 16:14:53 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/warped_yellow_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-06 15:50:52 +0000"
@@ -10867,9 +10933,21 @@
     },
     "done": true
   },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-02-06 16:17:48 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_yellow_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/sandstone_cataclysm_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:14:57 +0000"
     },
     "done": true
   },
@@ -10885,9 +10963,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/sandstone_cataclysm_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-06 16:14:57 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_yellow_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-06 16:14:57 +0000"
     },
     "done": true
   },
@@ -10927,9 +11017,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-06 16:14:57 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/chorus_cataclysm_yellow_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-06 15:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-02-06 16:14:57 +0000"
     },
     "done": true
   },
