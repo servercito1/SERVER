@@ -4146,3 +4146,20 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [06Feb2025 16:58:08.568] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/44413, l='ServerLevel[world]', x=-12229.39, y=138.98, z=-10055.14] died: Restless Spirit starved to death
 [06Feb2025 16:58:14.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Disconnected
 [06Feb2025 16:58:14.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
+[06Feb2025 16:59:03.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Feb2025 16:59:03.368] [Server thread/INFO] [luckperms/]: Starting shutdown process...
+[06Feb2025 16:59:03.497] [Server thread/INFO] [luckperms/]: Closing storage...
+[06Feb2025 16:59:03.693] [Server thread/INFO] [luckperms/]: Goodbye!
+[06Feb2025 16:59:03.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Feb2025 16:59:03.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Feb2025 16:59:03.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Feb2025 16:59:03.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Feb2025 16:59:04.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Feb2025 16:59:04.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Feb2025 16:59:04.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Feb2025 16:59:04.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Feb2025 16:59:04.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Feb2025 16:59:04.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Feb2025 16:59:05.301] [Server thread/INFO] [Framework/]: Unloading server configs...
+[06Feb2025 16:59:05.307] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[06Feb2025 16:59:05.310] [Server thread/INFO] [Framework/]: Finished unloading server configs
