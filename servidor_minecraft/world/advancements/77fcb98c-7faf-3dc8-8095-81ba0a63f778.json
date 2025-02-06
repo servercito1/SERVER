@@ -2958,16 +2958,19 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "huntingpost": "2025-02-06 15:42:46 +0000",
+      "cartographytable": "2025-02-06 16:46:09 +0000",
       "fletchingtable": "2025-02-06 15:42:21 +0000",
       "brewingstand": "2025-02-03 19:20:12 +0000",
       "grindstone": "2025-02-05 20:55:42 +0000",
+      "gardeningtable": "2025-02-06 16:44:48 +0000",
       "smoker": "2025-02-04 03:08:34 +0000",
       "smithingtable": "2025-02-05 02:57:29 +0000",
       "blastfurnace": "2025-02-06 15:42:56 +0000",
       "lectern": "2025-02-06 15:42:23 +0000",
       "woodworkingtable": "2025-02-06 16:43:30 +0000",
       "stonecutter": "2025-02-04 01:17:43 +0000",
-      "cauldron": "2025-02-03 18:22:17 +0000"
+      "cauldron": "2025-02-03 18:22:17 +0000",
+      "composter": "2025-02-06 16:46:33 +0000"
     },
     "done": false
   },
@@ -3121,7 +3124,8 @@
       "golden_apple": "2025-02-03 20:59:12 +0000",
       "rotten_flesh": "2025-02-04 03:02:47 +0000",
       "golden_carrot": "2025-02-03 19:06:13 +0000",
-      "cooked_chicken": "2025-02-04 03:09:11 +0000"
+      "cooked_chicken": "2025-02-04 03:09:11 +0000",
+      "rabbit_stew": "2025-02-06 16:51:52 +0000"
     },
     "done": false
   },
@@ -10783,6 +10787,78 @@
       "killedvillager": "2025-02-05 22:16:08 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-06 16:58:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-06 16:58:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-06 16:58:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-06 16:58:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-06 16:58:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-06 16:58:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-06 16:58:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-06 16:58:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-06 16:58:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-06 16:58:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-06 16:58:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-06 16:58:01 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/decorations/mangrove_cabinet": {
     "criteria": {

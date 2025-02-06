@@ -21302,3 +21302,12 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [06Feb2025 16:44:19.671] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/34903, l='ServerLevel[world]', x=-3008.70, y=98.00, z=-1100.14] died, message: 'Nitwit was slain by Zombie'
 [06Feb2025 16:45:11.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
 [06Feb2025 16:45:18.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
+[06Feb2025 16:49:01.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 16:49:01.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 16:53:04.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved wrongly!
+[06Feb2025 16:54:01.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Feb2025 16:54:01.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Feb2025 16:57:01.818] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/44304, l='ServerLevel[world]', x=-12243.37, y=131.58, z=-10061.27] died: Restless Spirit starved to death
+[06Feb2025 16:58:08.568] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/44413, l='ServerLevel[world]', x=-12229.39, y=138.98, z=-10055.14] died: Restless Spirit starved to death
+[06Feb2025 16:58:14.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Disconnected
+[06Feb2025 16:58:14.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
