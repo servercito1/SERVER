@@ -4146,3 +4146,29 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [07Feb2025 20:16:58.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.189.214.24:36569] logged in with entity id 7045 at (2259.5398101929936, 69.0, 7977.300000011921)
 [07Feb2025 20:16:58.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
 [07Feb2025 20:16:59.043] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[07Feb2025 20:17:32.632] [Worker-Main-33/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[07Feb2025 20:17:32.632] [Worker-Main-33/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[07Feb2025 20:17:32.633] [Worker-Main-33/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[07Feb2025 20:17:51.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2252, y=101, z=7972} BlockPos{x=2252, y=101, z=7973}
+[07Feb2025 20:18:00.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> mano
+[07Feb2025 20:18:05.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> q nuc
+[07Feb2025 20:18:11.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> tas campeando como enfermito en el lugar donde se desconecto derikc?
+[07Feb2025 20:18:16.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> ci
+[07Feb2025 20:18:25.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> eso ya no es normal
+[07Feb2025 20:18:36.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> mano tiene q rogar
+[07Feb2025 20:18:37.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> enfermo
+[07Feb2025 20:18:39.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> XDDD
+[07Feb2025 20:18:39.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> x
+[07Feb2025 20:19:38.846] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dr. Michael Greg the Angry'/7886, l='ServerLevel[world]', x=2298.65, y=152.00, z=7966.65] died: Dr. Michael Greg the Angry was executed.
+[07Feb2025 20:21:27.886] [Worker-Main-33/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.9758217f,range:8,source:{pos:[I;-50,-59,-59],type:"minecraft:block"}}]
+[07Feb2025 20:23:01.817] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[07Feb2025 20:23:01.819] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[07Feb2025 20:23:38.689] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[07Feb2025 20:23:39.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[07Feb2025 20:25:33.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4007ms or 80 ticks behind
+[07Feb2025 20:25:34.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Eye Spy]
+[07Feb2025 20:25:39.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> QUE MIERDAAAAAAAAAA
+[07Feb2025 20:25:53.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> O SALI DE UN PORTAL Y ME LLEVO A LA STRONGHOLD XD
+[07Feb2025 20:25:53.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> oe
+[07Feb2025 20:26:00.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ESTABA LLENDO POR LA MONSTRUOSIDAD DE NETHERITE XD
+[07Feb2025 20:26:21.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> ta tenemos pa matar dragon tons

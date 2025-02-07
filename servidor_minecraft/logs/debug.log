@@ -20304,3 +20304,356 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [07Feb2025 20:17:00.046] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large4
 [07Feb2025 20:17:00.048] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden1
 [07Feb2025 20:17:02.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory_towers:warped_outpost_part1
+[07Feb2025 20:17:31.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:start_nether_dungeon
+[07Feb2025 20:17:31.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_dungeon_room2
+[07Feb2025 20:17:31.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_dungeon_room4
+[07Feb2025 20:17:31.555] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_dungeon_room6
+[07Feb2025 20:17:31.558] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_dungeon_room1
+[07Feb2025 20:17:31.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_dungeon_room3
+[07Feb2025 20:17:31.570] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_dungeon_ruin1
+[07Feb2025 20:17:32.632] [Worker-Main-33/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[07Feb2025 20:17:32.632] [Worker-Main-33/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[07Feb2025 20:17:32.633] [Worker-Main-33/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[07Feb2025 20:17:51.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2252, y=101, z=7972} BlockPos{x=2252, y=101, z=7973}
+[07Feb2025 20:17:56.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 20:17:56.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 20:18:00.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> mano
+[07Feb2025 20:18:05.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> q nuc
+[07Feb2025 20:18:11.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> tas campeando como enfermito en el lugar donde se desconecto derikc?
+[07Feb2025 20:18:16.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> ci
+[07Feb2025 20:18:20.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_structures/lava_ruin1
+[07Feb2025 20:18:25.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> eso ya no es normal
+[07Feb2025 20:18:36.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> mano tiene q rogar
+[07Feb2025 20:18:37.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> enfermo
+[07Feb2025 20:18:39.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> XDDD
+[07Feb2025 20:18:39.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> x
+[07Feb2025 20:19:23.099] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Feb2025 20:19:24.635] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:25.149] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:25.190] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:25.235] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:25.285] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:25.347] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:25.388] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:25.837] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:25.887] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:25.940] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:25.986] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:26.037] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:26.087] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:26.134] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:26.187] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:26.243] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:26.286] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:26.341] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:26.386] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:26.536] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:26.587] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:26.638] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:26.689] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:26.757] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:26.791] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:26.837] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:26.884] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:26.935] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:27.540] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:27.584] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:27.642] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:27.696] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:27.736] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:27.784] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:27.832] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:27.885] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:27.934] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:27.983] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:28.033] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:28.084] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:28.133] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:28.182] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:28.237] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:28.283] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:28.338] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:28.388] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:28.433] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:28.482] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:28.601] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Feb2025 20:19:29.340] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:29.388] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:29.438] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:29.487] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:29.537] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:29.539] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Feb2025 20:19:29.591] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:29.646] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:30.594] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Feb2025 20:19:30.638] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:30.685] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:30.744] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:30.796] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:30.839] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:30.887] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:30.938] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:30.989] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:31.036] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:31.087] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:31.141] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:31.188] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:31.237] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:31.289] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:31.346] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:31.384] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:31.438] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:31.483] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:31.536] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:31.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Feb2025 20:19:32.842] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Feb2025 20:19:33.937] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Feb2025 20:19:35.539] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Feb2025 20:19:36.733] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Feb2025 20:19:37.791] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Feb2025 20:19:38.840] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Feb2025 20:19:38.846] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Dr. Michael Greg the Angry'/7886, l='ServerLevel[world]', x=2298.65, y=152.00, z=7966.65] died: Dr. Michael Greg the Angry was executed.
+[07Feb2025 20:19:40.037] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:40.084] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:40.137] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:40.181] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:40.234] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:40.283] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:40.340] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:40.387] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:54.435] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:54.488] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:54.538] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:54.585] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:54.642] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:54.685] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:54.736] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:54.784] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:19:54.835] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Feb2025 20:20:53.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mobs/piglin_crossbow
+[07Feb2025 20:20:53.119] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/3
+[07Feb2025 20:20:53.122] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mobs/piglin_sword
+[07Feb2025 20:20:53.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_fire
+[07Feb2025 20:20:53.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_5
+[07Feb2025 20:20:53.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_brute
+[07Feb2025 20:20:53.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_4
+[07Feb2025 20:20:53.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_1
+[07Feb2025 20:20:53.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_crossbow
+[07Feb2025 20:20:53.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_sword
+[07Feb2025 20:20:53.194] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton_empty
+[07Feb2025 20:20:53.252] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:sealedruinedghaststatue1
+[07Feb2025 20:21:17.770] [Worker-Main-13/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[07Feb2025 20:21:19.298] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_2_crimson
+[07Feb2025 20:21:19.299] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_2_basalt
+[07Feb2025 20:21:19.301] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_witherskeleton
+[07Feb2025 20:21:19.303] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_9_basalt
+[07Feb2025 20:21:19.303] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_empty
+[07Feb2025 20:21:19.304] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_skeleton
+[07Feb2025 20:21:19.305] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_plate_1_basalt
+[07Feb2025 20:21:19.306] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_5_basalt
+[07Feb2025 20:21:19.307] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_10_basalt
+[07Feb2025 20:21:19.309] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_4_basalt
+[07Feb2025 20:21:19.309] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_3_basalt
+[07Feb2025 20:21:19.317] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_12_basalt
+[07Feb2025 20:21:19.320] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_8_basalt
+[07Feb2025 20:21:19.322] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_6_basalt
+[07Feb2025 20:21:19.324] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_2_basalt
+[07Feb2025 20:21:19.326] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_crossbow
+[07Feb2025 20:21:27.886] [Worker-Main-33/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.9758217f,range:8,source:{pos:[I;-50,-59,-59],type:"minecraft:block"}}]
+[07Feb2025 20:21:27.975] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_fire
+[07Feb2025 20:21:27.975] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_fire
+[07Feb2025 20:21:27.976] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_fire
+[07Feb2025 20:21:28.829] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[07Feb2025 20:21:28.876] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[07Feb2025 20:21:28.907] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[07Feb2025 20:21:28.971] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[07Feb2025 20:21:28.992] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[07Feb2025 20:21:32.509] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/1
+[07Feb2025 20:21:38.383] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/2
+[07Feb2025 20:21:40.771] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_structures/lava_ruin2
+[07Feb2025 20:21:40.784] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:sealedruinedghaststatue2
+[07Feb2025 20:21:41.608] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_7
+[07Feb2025 20:21:41.608] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_3
+[07Feb2025 20:21:41.608] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_event_5
+[07Feb2025 20:21:41.610] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_7
+[07Feb2025 20:21:41.610] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_1
+[07Feb2025 20:21:41.610] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_6
+[07Feb2025 20:21:41.611] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_2
+[07Feb2025 20:21:41.613] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_2
+[07Feb2025 20:21:41.614] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_event_2
+[07Feb2025 20:21:41.615] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_4
+[07Feb2025 20:21:41.615] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_event_1
+[07Feb2025 20:21:41.616] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_6
+[07Feb2025 20:21:41.617] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_3
+[07Feb2025 20:21:41.617] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_6
+[07Feb2025 20:21:41.618] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_brute
+[07Feb2025 20:21:41.619] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_sword
+[07Feb2025 20:21:42.789] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[07Feb2025 20:21:49.463] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower2
+[07Feb2025 20:22:01.284] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large8
+[07Feb2025 20:22:01.286] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road2
+[07Feb2025 20:22:01.288] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden2
+[07Feb2025 20:22:01.289] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter5
+[07Feb2025 20:22:01.292] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large1
+[07Feb2025 20:22:01.295] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road6
+[07Feb2025 20:22:23.824] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_6
+[07Feb2025 20:22:23.825] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_2
+[07Feb2025 20:22:23.825] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_7
+[07Feb2025 20:22:26.694] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/inside/nether_fortress_blaze_room2
+[07Feb2025 20:22:26.696] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/inside/nether_fortress_inside_room_tall1
+[07Feb2025 20:22:26.703] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/wall/nether_fortress_exit
+[07Feb2025 20:22:26.705] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/wall/nether_fortress_no_exit
+[07Feb2025 20:22:26.716] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/inside/nether_fortress_blaze_room4
+[07Feb2025 20:22:26.736] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/inside/nether_fortress_blaze_room1
+[07Feb2025 20:22:26.744] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/inside/nether_fortress_blaze_room3
+[07Feb2025 20:22:26.797] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/chest/nether_fortress_inside_chest_fail
+[07Feb2025 20:22:26.801] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/chest/nether_fortress_outside_chest
+[07Feb2025 20:22:26.802] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/chest/nether_fortress_outside_chest_fail
+[07Feb2025 20:22:26.805] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_upward_right
+[07Feb2025 20:22:26.806] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/chest/nether_fortress_inside_chest_fail2
+[07Feb2025 20:22:26.809] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_straight
+[07Feb2025 20:22:26.829] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/stage/nether_fortress_ceeling
+[07Feb2025 20:22:26.855] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/stage/nether_fortress_foundation
+[07Feb2025 20:22:26.883] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_cross
+[07Feb2025 20:22:26.885] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_upward_left
+[07Feb2025 20:22:26.887] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_curve
+[07Feb2025 20:22:26.889] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_cross_lantern
+[07Feb2025 20:22:26.890] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_curve_lantern
+[07Feb2025 20:22:26.892] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_t_lantern
+[07Feb2025 20:22:26.894] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_t
+[07Feb2025 20:22:26.895] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_lock
+[07Feb2025 20:22:27.126] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/chest/nether_fortress_outside_chest_fail2
+[07Feb2025 20:22:37.296] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower3
+[07Feb2025 20:22:44.186] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_5
+[07Feb2025 20:22:44.187] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_4
+[07Feb2025 20:22:56.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Feb2025 20:22:56.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Feb2025 20:23:01.817] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[07Feb2025 20:23:01.819] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[07Feb2025 20:23:12.548] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_1_basalt
+[07Feb2025 20:23:12.551] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_1_crimson
+[07Feb2025 20:23:12.555] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_1_soul
+[07Feb2025 20:23:12.557] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_1_warped
+[07Feb2025 20:23:21.482] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_hooglin_fail
+[07Feb2025 20:23:21.482] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_empty
+[07Feb2025 20:23:21.483] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_piglin_brute
+[07Feb2025 20:23:21.484] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton_wither
+[07Feb2025 20:23:37.262] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:gallows
+[07Feb2025 20:23:37.324] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_0
+[07Feb2025 20:23:37.332] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_spawner_1
+[07Feb2025 20:23:37.333] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_spawner_2
+[07Feb2025 20:23:37.333] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_spawner_5
+[07Feb2025 20:23:37.334] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_spawner_0
+[07Feb2025 20:23:37.334] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_spawner_4
+[07Feb2025 20:23:37.335] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_spawner_3
+[07Feb2025 20:23:37.526] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[07Feb2025 20:23:37.529] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[07Feb2025 20:23:37.546] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:sculk_dungeon_start
+[07Feb2025 20:23:37.551] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:deep_ruin5
+[07Feb2025 20:23:37.557] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:lost_soul_start_pool
+[07Feb2025 20:23:37.569] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[07Feb2025 20:23:37.581] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_evoker_0
+[07Feb2025 20:23:37.581] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0
+[07Feb2025 20:23:37.582] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_pillager_0
+[07Feb2025 20:23:37.584] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[07Feb2025 20:23:37.592] [Worker-Main-12/DEBUG] [ModernFix/]: Structure philipsruins:ancient_ruin_7 is being run through DFU (hash ef85a0818a38c06b2b5b11115fed5f2ae098a2a488fa5c2e3ad284507429759d), this will cause launch time delays
+[07Feb2025 20:23:37.979] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[07Feb2025 20:23:37.982] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[07Feb2025 20:23:38.113] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/desert_pump
+[07Feb2025 20:23:38.139] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/boulder
+[07Feb2025 20:23:38.149] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_4
+[07Feb2025 20:23:38.169] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/wooded_badlands/base_plate
+[07Feb2025 20:23:38.178] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/mediterranean/base_plate
+[07Feb2025 20:23:38.194] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/mushroom_fields/base_plate
+[07Feb2025 20:23:38.214] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/taiga/base_plate
+[07Feb2025 20:23:38.221] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/vindicator
+[07Feb2025 20:23:38.222] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/outpost_captain
+[07Feb2025 20:23:38.222] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/pillager
+[07Feb2025 20:23:38.666] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[07Feb2025 20:23:38.681] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[07Feb2025 20:23:38.689] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[07Feb2025 20:23:39.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[07Feb2025 20:25:29.224] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[07Feb2025 20:25:29.291] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[07Feb2025 20:25:29.294] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[07Feb2025 20:25:29.481] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[07Feb2025 20:25:29.505] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[07Feb2025 20:25:29.511] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[07Feb2025 20:25:29.525] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[07Feb2025 20:25:29.534] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[07Feb2025 20:25:29.549] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[07Feb2025 20:25:29.562] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[07Feb2025 20:25:29.702] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/fire_camp
+[07Feb2025 20:25:29.769] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[07Feb2025 20:25:29.825] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[07Feb2025 20:25:30.289] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[07Feb2025 20:25:31.924] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/snowy_well
+[07Feb2025 20:25:31.930] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/dark_oak_well
+[07Feb2025 20:25:31.935] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[07Feb2025 20:25:31.939] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/oak_well
+[07Feb2025 20:25:31.944] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[07Feb2025 20:25:31.949] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/jungle_well
+[07Feb2025 20:25:31.958] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[07Feb2025 20:25:31.962] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[07Feb2025 20:25:31.966] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[07Feb2025 20:25:33.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4007ms or 80 ticks behind
+[07Feb2025 20:25:33.592] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/stone_bee
+[07Feb2025 20:25:33.951] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[07Feb2025 20:25:33.982] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[07Feb2025 20:25:33.992] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[07Feb2025 20:25:33.997] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[07Feb2025 20:25:34.002] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[07Feb2025 20:25:34.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Eye Spy]
+[07Feb2025 20:25:34.463] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:level_ruin_three6
+[07Feb2025 20:25:38.336] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:field_stone_ruins_rock3
+[07Feb2025 20:25:39.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> QUE MIERDAAAAAAAAAA
+[07Feb2025 20:25:39.959] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
+[07Feb2025 20:25:41.817] [Worker-Main-33/DEBUG] [ModernFix/]: Structure philipsruins:field_stone_ruins9 is being run through DFU (hash 6c54333532b16ae0ca8cc7ecc369ea09406dbe0b8763853454a3e0b222599592), this will cause launch time delays
+[07Feb2025 20:25:41.872] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:portal13
+[07Feb2025 20:25:43.758] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_main_start
+[07Feb2025 20:25:45.600] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_5b
+[07Feb2025 20:25:45.633] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:mod_structures/desert_ruin5
+[07Feb2025 20:25:45.639] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:badlands_ruin2
+[07Feb2025 20:25:45.643] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:badlands_start_dungeon
+[07Feb2025 20:25:45.650] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_ruin4
+[07Feb2025 20:25:46.418] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[07Feb2025 20:25:46.501] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_start
+[07Feb2025 20:25:47.729] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_ruin_14
+[07Feb2025 20:25:50.261] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_12
+[07Feb2025 20:25:51.302] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_2b
+[07Feb2025 20:25:53.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> O SALI DE UN PORTAL Y ME LLEVO A LA STRONGHOLD XD
+[07Feb2025 20:25:53.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> oe
+[07Feb2025 20:26:00.509] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_3
+[07Feb2025 20:26:00.517] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[07Feb2025 20:26:00.528] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[07Feb2025 20:26:00.534] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[07Feb2025 20:26:00.546] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[07Feb2025 20:26:00.556] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1
+[07Feb2025 20:26:00.561] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[07Feb2025 20:26:00.588] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[07Feb2025 20:26:00.600] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[07Feb2025 20:26:00.609] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[07Feb2025 20:26:00.635] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[07Feb2025 20:26:00.653] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[07Feb2025 20:26:00.657] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[07Feb2025 20:26:00.667] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[07Feb2025 20:26:00.685] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[07Feb2025 20:26:00.689] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[07Feb2025 20:26:00.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ESTABA LLENDO POR LA MONSTRUOSIDAD DE NETHERITE XD
+[07Feb2025 20:26:00.703] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[07Feb2025 20:26:00.711] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[07Feb2025 20:26:00.717] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1
+[07Feb2025 20:26:00.720] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[07Feb2025 20:26:00.724] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[07Feb2025 20:26:09.658] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[07Feb2025 20:26:09.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_1
+[07Feb2025 20:26:09.660] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_1
+[07Feb2025 20:26:09.660] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_0
+[07Feb2025 20:26:09.661] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_2
+[07Feb2025 20:26:09.661] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0
+[07Feb2025 20:26:09.661] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_3
+[07Feb2025 20:26:09.662] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_3
+[07Feb2025 20:26:09.662] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0
+[07Feb2025 20:26:09.662] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_0
+[07Feb2025 20:26:09.663] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_2
+[07Feb2025 20:26:21.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> ta tenemos pa matar dragon tons
