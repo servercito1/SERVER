@@ -335,6 +335,7 @@
       "minecraft:forest": "2025-02-03 19:48:44 +0000",
       "minecraft:lush_caves": "2025-02-07 20:25:34 +0000",
       "minecraft:deep_cold_ocean": "2025-02-07 20:44:27 +0000",
+      "minecraft:ice_spikes": "2025-02-07 21:26:38 +0000",
       "minecraft:frozen_ocean": "2025-02-03 19:49:27 +0000",
       "minecraft:deep_frozen_ocean": "2025-02-03 19:49:48 +0000",
       "minecraft:ocean": "2025-02-04 00:24:37 +0000",
@@ -13262,6 +13263,12 @@
   "tombstone:adventure/use_knowledge": {
     "criteria": {
       "coded_trigger": "2025-02-07 20:41:08 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-02-07 21:27:14 +0000"
     },
     "done": true
   },
