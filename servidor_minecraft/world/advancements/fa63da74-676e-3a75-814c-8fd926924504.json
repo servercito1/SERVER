@@ -10373,6 +10373,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-02-07 21:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-07 21:56:16 +0000"
+    },
+    "done": true
+  },
   "astikorcarts:recipes/supply_cart": {
     "criteria": {
       "has_wheel": "2025-02-07 20:42:40 +0000"
@@ -10403,9 +10415,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-02-07 21:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-07 21:56:16 +0000"
+    },
+    "done": true
+  },
   "astikorcarts:recipes/animal_cart": {
     "criteria": {
       "has_wheel": "2025-02-07 20:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-07 21:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-02-07 21:56:16 +0000"
     },
     "done": true
   },

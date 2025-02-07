@@ -4321,3 +4321,29 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [07Feb2025 21:49:16.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [A Rogue's Best Friend]
 [07Feb2025 21:50:41.693] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [07Feb2025 21:50:42.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[07Feb2025 21:50:55.267] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4366, y=-53, z=-278}
+[07Feb2025 21:50:59.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[07Feb2025 21:53:31.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97642, y=31, z=-82763} BlockPos{x=-97648, y=31, z=-82759}
+[07Feb2025 21:53:59.004] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/104578, l='ServerLevel[world]', x=-12266.19, y=106.75, z=-10035.38] died: Restless Spirit starved to death
+[07Feb2025 21:56:29.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3041ms or 60 ticks behind
+[07Feb2025 21:57:27.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> xd
+[07Feb2025 21:57:28.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> o mikol tienes waystone
+[07Feb2025 21:57:39.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> no tengo mano
+[07Feb2025 21:58:06.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> oe mati donde mrd no dejaste mano
+[07Feb2025 21:58:12.671] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/108199, l='ServerLevel[world]', x=-12226.37, y=156.24, z=-10061.77] died: Restless Spirit starved to death
+[07Feb2025 21:58:12.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> XDDDDDDDDDDDDDDDDDDDDDDDDD
+[07Feb2025 21:58:13.322] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/108219, l='ServerLevel[world]', x=-12275.58, y=104.93, z=-10005.19] died: Restless Spirit starved to death
+[07Feb2025 21:58:14.652] [Worker-Main-11/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:6.261377f,range:8,source:{pos:[I;-50,-59,-59],type:"minecraft:block"}}]
+[07Feb2025 21:58:25.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/108366, l='ServerLevel[world]', x=-12222.50, y=139.20, z=-10052.97] died: Restless Spirit starved to death
+[07Feb2025 21:58:27.288] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 3 in "main" inventory handler
+[07Feb2025 21:58:59.799] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/109234, l='ServerLevel[world]', x=7799.00, y=31.00, z=-10039.00] as it would cause deadlock
+[07Feb2025 21:58:59.799] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/109236, l='ServerLevel[world]', x=7802.00, y=31.00, z=-10038.00] as it would cause deadlock
+[07Feb2025 21:59:25.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> O MIKOL
+[07Feb2025 21:59:27.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> VEN
+[07Feb2025 21:59:42.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> dame
+[07Feb2025 21:59:50.017] [Worker-Main-33/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/109952, l='ServerLevel[world]', x=7447.00, y=31.00, z=-9781.00] as it would cause deadlock
+[07Feb2025 21:59:50.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> el amuleto
+[07Feb2025 22:00:00.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> mano pon la carreta para llevarte ams rapido
+[07Feb2025 22:00:08.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> yo tengo mas velocidad
+[07Feb2025 22:00:11.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> con esa wbada
+[07Feb2025 22:00:23.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> YA NO QUIEREN IR EN CARRITO AL END?
