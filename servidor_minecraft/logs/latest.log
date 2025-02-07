@@ -5286,3 +5286,138 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [07Feb2025 23:14:13.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4251ms or 85 ticks behind
 [07Feb2025 23:14:23.114] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
 [07Feb2025 23:14:24.821] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargingPlayer (#8) on the server
+[07Feb2025 23:14:31.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3579ms or 71 ticks behind
+[07Feb2025 23:14:32.232] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_boots/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:14:32.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved wrongly!
+[07Feb2025 23:14:43.800] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[07Feb2025 23:14:43.800] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Landing (#3) on the server
+[07Feb2025 23:14:50.774] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase LandingApproach (#2) on the server
+[07Feb2025 23:14:50.835] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[07Feb2025 23:14:52.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6210ms or 124 ticks behind
+[07Feb2025 23:14:56.935] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[07Feb2025 23:14:58.924] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[07Feb2025 23:15:11.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3776ms or 75 ticks behind
+[07Feb2025 23:15:17.352] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[07Feb2025 23:15:17.406] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[07Feb2025 23:15:23.770] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[07Feb2025 23:15:24.771] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:15:27.137] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase DiveBombPlayer (#15) on the server
+[07Feb2025 23:15:28.215] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[07Feb2025 23:15:30.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3421ms or 68 ticks behind
+[07Feb2025 23:15:36.245] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[07Feb2025 23:15:36.348] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[07Feb2025 23:15:37.011] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[07Feb2025 23:15:37.390] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_helmet/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:15:42.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 was killed by magic
+[07Feb2025 23:15:44.799] [Netty Epoll Server IO #1/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[07Feb2025 23:15:49.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4536ms or 90 ticks behind
+[07Feb2025 23:15:50.238] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:15:50.836] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_boots/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:15:54.857] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[07Feb2025 23:16:00.883] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[07Feb2025 23:16:02.254] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_boots/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:16:04.260] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SnatchPlayer (#12) on the server
+[07Feb2025 23:16:07.412] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase LandingApproach (#2) on the server
+[07Feb2025 23:16:07.471] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[07Feb2025 23:16:09.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4723ms or 94 ticks behind
+[07Feb2025 23:16:10.857] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[07Feb2025 23:16:13.496] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_boots/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:16:15.888] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[07Feb2025 23:16:16.315] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[07Feb2025 23:16:17.431] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[07Feb2025 23:16:17.501] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[07Feb2025 23:16:18.897] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase DiveBombPlayer (#15) on the server
+[07Feb2025 23:16:26.756] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[07Feb2025 23:16:27.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2738ms or 54 ticks behind
+[07Feb2025 23:16:27.940] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_boots/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:16:27.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 moved wrongly!
+[07Feb2025 23:16:31.768] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[07Feb2025 23:16:32.447] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[07Feb2025 23:16:35.895] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_boots/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:16:36.132] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SnatchPlayer (#12) on the server
+[07Feb2025 23:16:39.818] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase CarryPlayer (#13) on the server
+[07Feb2025 23:16:45.511] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[07Feb2025 23:16:45.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3503ms or 70 ticks behind
+[07Feb2025 23:16:47.978] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[07Feb2025 23:16:48.031] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[07Feb2025 23:16:50.594] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_boots/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:16:50.923] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[07Feb2025 23:16:50.925] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[07Feb2025 23:16:50.983] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[07Feb2025 23:16:50.983] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[07Feb2025 23:16:53.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 was doomed to fall by Ender Dragon
+[07Feb2025 23:16:56.688] [Netty Epoll Server IO #1/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[07Feb2025 23:17:03.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2956ms or 59 ticks behind
+[07Feb2025 23:17:10.179] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[07Feb2025 23:17:10.235] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[07Feb2025 23:17:18.412] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase LandingApproach (#2) on the server
+[07Feb2025 23:17:18.461] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[07Feb2025 23:17:22.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[07Feb2025 23:17:25.568] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[07Feb2025 23:17:25.629] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[07Feb2025 23:17:40.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[07Feb2025 23:17:42.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has completed the challenge [Almost Unkillable]
+[07Feb2025 23:17:42.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was killed by magic whilst trying to escape Ender Dragon
+[07Feb2025 23:17:42.926] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[07Feb2025 23:17:59.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4611ms or 92 ticks behind
+[07Feb2025 23:18:03.303] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[07Feb2025 23:18:03.305] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[07Feb2025 23:18:03.379] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[07Feb2025 23:18:03.379] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[07Feb2025 23:18:09.333] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[07Feb2025 23:18:21.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6553ms or 131 ticks behind
+[07Feb2025 23:18:24.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has completed the challenge [Almost Unkillable]
+[07Feb2025 23:18:24.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was killed by magic whilst trying to escape Ender Dragon
+[07Feb2025 23:18:24.739] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[07Feb2025 23:18:24.739] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[07Feb2025 23:18:24.821] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[07Feb2025 23:18:30.246] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:18:31.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 was killed by magic
+[07Feb2025 23:18:33.018] [Netty Epoll Server IO #1/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[07Feb2025 23:18:41.813] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase LandingApproach (#2) on the server
+[07Feb2025 23:18:41.867] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[07Feb2025 23:18:43.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6685ms or 133 ticks behind
+[07Feb2025 23:19:03.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5895ms or 117 ticks behind
+[07Feb2025 23:19:15.217] [Netty Epoll Server IO #1/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[07Feb2025 23:19:26.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7946ms or 158 ticks behind
+[07Feb2025 23:19:48.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6391ms or 127 ticks behind
+[07Feb2025 23:20:09.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6633ms or 132 ticks behind
+[07Feb2025 23:20:30.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6199ms or 123 ticks behind
+[07Feb2025 23:20:48.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved too quickly! -8395.871682417646,79.31648481577528,-69712.73626722148
+[07Feb2025 23:20:50.112] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
+[07Feb2025 23:20:50.112] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[07Feb2025 23:20:54.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8115ms or 162 ticks behind
+[07Feb2025 23:20:54.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! -8395.515707019375,79.46415937495544,-69711.39791543184
+[07Feb2025 23:21:03.415] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_helmet/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:21:08.046] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:21:17.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8492ms or 169 ticks behind
+[07Feb2025 23:21:39.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6677ms or 133 ticks behind
+[07Feb2025 23:21:52.299] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[07Feb2025 23:21:53.883] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Dragon Hunter'/986923, l='ServerLevel[world]', x=72.85, y=46.08, z=-2.05] died: Dragon Hunter was slain by elrisas741
+[07Feb2025 23:21:55.343] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_boots/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:22:01.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6948ms or 138 ticks behind
+[07Feb2025 23:22:01.231] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Dragon Hunter'/986927, l='ServerLevel[world]', x=46.84, y=51.00, z=28.31] died: Dragon Hunter was executed.
+[07Feb2025 23:22:06.124] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[07Feb2025 23:22:09.501] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase DiveBombPlayer (#15) on the server
+[07Feb2025 23:22:19.127] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[07Feb2025 23:22:21.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5705ms or 114 ticks behind
+[07Feb2025 23:22:23.686] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[07Feb2025 23:22:24.798] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:22:27.750] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_boots/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:22:44.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7619ms or 152 ticks behind
+[07Feb2025 23:22:45.966] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Dragon Hunter'/988795, l='ServerLevel[world]', x=-51.70, y=42.00, z=-68.02] died: Dragon Hunter was slain by 22PieroRR
+[07Feb2025 23:23:04.749] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[07Feb2025 23:23:05.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6195ms or 123 ticks behind
+[07Feb2025 23:23:08.120] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SnatchPlayer (#12) on the server
+[07Feb2025 23:23:11.754] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase CarryPlayer (#13) on the server
+[07Feb2025 23:23:20.615] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:23:22.930] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:chainmail_boots/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:23:24.214] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[07Feb2025 23:23:26.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5770ms or 115 ticks behind
+[07Feb2025 23:23:44.219] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_boots/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:23:46.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5409ms or 108 ticks behind
+[07Feb2025 23:24:08.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6946ms or 138 ticks behind
+[07Feb2025 23:24:24.049] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:chainmail_helmet/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:24:27.009] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/apotheosis:mythic/ABILITY/0.3!
+[07Feb2025 23:24:29.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5884ms or 117 ticks behind
+[07Feb2025 23:24:50.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5823ms or 116 ticks behind

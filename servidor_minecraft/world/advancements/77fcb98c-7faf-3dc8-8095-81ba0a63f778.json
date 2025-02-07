@@ -344,6 +344,7 @@
       "minecraft:cold_ocean": "2025-02-03 19:43:11 +0000",
       "minecraft:forest": "2025-02-03 18:20:00 +0000",
       "minecraft:lush_caves": "2025-02-03 20:36:55 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-07 23:18:45 +0000",
       "minecraft:frozen_ocean": "2025-02-03 19:38:05 +0000",
       "minecraft:desert": "2025-02-05 14:26:10 +0000",
       "minecraft:deep_frozen_ocean": "2025-02-03 19:42:40 +0000",
@@ -12384,6 +12385,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2025-02-07 20:08:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-02-07 23:18:24 +0000"
     },
     "done": true
   },
