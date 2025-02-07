@@ -4141,3 +4141,8 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [07Feb2025 19:57:59.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 joined the game
 [07Feb2025 19:58:02.301] [Server thread/INFO] [Jade/]: Syncing config to elrisas741 (77fcb98c-7faf-3dc8-8095-81ba0a63f778)
 [07Feb2025 19:58:02.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3134ms or 62 ticks behind
+[07Feb2025 20:11:10.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[07Feb2025 20:16:11.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: elrisas741
+[07Feb2025 20:16:58.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.189.214.24:36569] logged in with entity id 7045 at (2259.5398101929936, 69.0, 7977.300000011921)
+[07Feb2025 20:16:58.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[07Feb2025 20:16:59.043] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
