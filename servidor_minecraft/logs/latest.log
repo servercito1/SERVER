@@ -4181,3 +4181,17 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [07Feb2025 20:37:41.109] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.189.214.24:40771] logged in with entity id 20190 at (8419.694144196106, -31.0, 69666.73768935988)
 [07Feb2025 20:37:41.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
 [07Feb2025 20:37:41.165] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[07Feb2025 20:41:08.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has reached the goal [Great minds think alike]
+[07Feb2025 20:41:32.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has reached the goal [Flawless Crystals]
+[07Feb2025 20:42:40.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maikol_4988[/127.244.236.233:45897] logged in with entity id 22255 at (-12439.025340189968, 192.55022255973807, -9653.426988887619)
+[07Feb2025 20:42:40.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 joined the game
+[07Feb2025 20:42:40.622] [Server thread/INFO] [Jade/]: Syncing config to Maikol_4988 (fa63da74-676e-3a75-814c-8fd926924504)
+[07Feb2025 20:43:20.099] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/22731, l='ServerLevel[world]', x=-12357.30, y=30.76, z=-9514.22] died: Sanctum Cultist tried to swim in lava
+[07Feb2025 20:45:25.181] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Feb2025 20:46:01.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 moved too quickly! -5.402213849763939,0.8889516122690395,8.462658136324535
+[07Feb2025 20:46:01.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3112ms or 62 ticks behind
+[07Feb2025 20:46:13.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved too quickly! 9.899935177714724,2.1686338637470897,-0.9460475684081757
+[07Feb2025 20:49:09.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved too quickly! -7.728989260300295,-4.261493312127598,-5.539981287976843
+[07Feb2025 20:49:19.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [The Soul Forge]
+[07Feb2025 20:51:49.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has completed the challenge [The broken Nether's warmachine]
+[07Feb2025 20:53:24.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Nina the Burger Chef'/33183, l='ServerLevel[world]', x=1044.58, y=37.57, z=8745.39] died: Nina the Burger Chef was executed.

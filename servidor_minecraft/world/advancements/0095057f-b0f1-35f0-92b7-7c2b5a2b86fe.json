@@ -334,6 +334,7 @@
       "minecraft:cold_ocean": "2025-02-03 19:49:14 +0000",
       "minecraft:forest": "2025-02-03 19:48:44 +0000",
       "minecraft:lush_caves": "2025-02-07 20:25:34 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-07 20:44:27 +0000",
       "minecraft:frozen_ocean": "2025-02-03 19:49:27 +0000",
       "minecraft:deep_frozen_ocean": "2025-02-03 19:49:48 +0000",
       "minecraft:ocean": "2025-02-04 00:24:37 +0000",
@@ -13222,78 +13223,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-07 20:37:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-07 20:37:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-07 20:37:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-07 20:37:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-07 20:37:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-07 20:37:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-07 20:37:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-07 20:37:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-07 20:37:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-07 20:37:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-07 20:37:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-07 20:37:02 +0000"
-    },
-    "done": false
-  },
   "astikorcarts:recipes/supply_cart": {
     "criteria": {
       "has_wheel": "2025-02-07 20:16:58 +0000"
@@ -13301,6 +13230,12 @@
     "done": true
   },
   "astikorcarts:recipes/plow": {
+    "criteria": {
+      "has_wheel": "2025-02-07 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/animal_cart": {
     "criteria": {
       "has_wheel": "2025-02-07 20:16:58 +0000"
     },
@@ -13318,9 +13253,33 @@
     },
     "done": true
   },
-  "astikorcarts:recipes/animal_cart": {
+  "apotheosis:affix/mythic_gem": {
     "criteria": {
-      "has_wheel": "2025-02-07 20:16:58 +0000"
+      "gem": "2025-02-07 20:41:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-07 20:41:08 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-02-07 20:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-02-07 20:51:39 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-02-07 20:51:49 +0000"
     },
     "done": true
   },
