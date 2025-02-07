@@ -3127,6 +3127,7 @@
       "rotten_flesh": "2025-02-04 03:02:47 +0000",
       "golden_carrot": "2025-02-03 19:06:13 +0000",
       "cooked_chicken": "2025-02-04 03:09:11 +0000",
+      "enchanted_golden_apple": "2025-02-07 22:50:11 +0000",
       "rabbit_stew": "2025-02-06 16:51:52 +0000"
     },
     "done": false
@@ -12296,6 +12297,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/end_stone_cataclysm_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-02-07 22:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-07 22:53:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2025-02-07 20:13:15 +0000"
@@ -12374,9 +12387,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-07 22:53:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-07 20:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-02-07 22:39:32 +0000"
     },
     "done": true
   },
@@ -12401,6 +12426,12 @@
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-07 20:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-07 22:40:40 +0000"
     },
     "done": true
   },
@@ -12437,6 +12468,24 @@
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-02-07 20:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-02-07 22:53:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/end_stone_cataclysm_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-07 22:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-02-07 22:45:02 +0000"
     },
     "done": true
   },
@@ -12518,6 +12567,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/end_stone_cataclysm_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-07 22:53:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-07 20:15:19 +0000"
@@ -12533,6 +12588,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-02-07 20:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-07 22:53:06 +0000"
     },
     "done": true
   },
@@ -12581,6 +12642,12 @@
   "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-07 21:11:52 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/purpur_altar": {
+    "criteria": {
+      "has_end_stone": "2025-02-07 22:53:06 +0000"
     },
     "done": true
   },
@@ -12734,6 +12801,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-07 22:40:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-02-07 20:08:25 +0000"
@@ -12749,6 +12822,18 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-02-07 20:15:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/end_stone_cataclysm_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-07 22:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-07 22:53:06 +0000"
     },
     "done": true
   },
