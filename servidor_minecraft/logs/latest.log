@@ -4172,3 +4172,12 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [07Feb2025 20:25:53.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> oe
 [07Feb2025 20:26:00.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ESTABA LLENDO POR LA MONSTRUOSIDAD DE NETHERITE XD
 [07Feb2025 20:26:21.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> ta tenemos pa matar dragon tons
+[07Feb2025 20:28:52.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> si no hubieses estado lo hubiese matado solo Xd
+[07Feb2025 20:29:04.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> entra a call nuc
+[07Feb2025 20:30:27.822] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[07Feb2025 20:37:07.236] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=8434, y=-32, z=69664} BlockPos{x=8429, y=-31, z=69668}
+[07Feb2025 20:37:20.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[07Feb2025 20:37:20.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
+[07Feb2025 20:37:41.109] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.189.214.24:40771] logged in with entity id 20190 at (8419.694144196106, -31.0, 69666.73768935988)
+[07Feb2025 20:37:41.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[07Feb2025 20:37:41.165] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
