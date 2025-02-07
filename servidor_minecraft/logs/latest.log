@@ -4284,3 +4284,18 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [07Feb2025 21:27:15.502] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
 [07Feb2025 21:27:31.839] [Worker-Main-11/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:4.1231055f,range:8,source:{pos:[I;-50,-59,-59],type:"minecraft:block"}}]
 [07Feb2025 21:28:04.625] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/70544, l='ServerLevel[world]', x=-12012.00, y=31.00, z=-9269.00] as it would cause deadlock
+[07Feb2025 21:29:24.681] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/72491, l='ServerLevel[world]', x=-11526.00, y=31.00, z=-8671.00] as it would cause deadlock
+[07Feb2025 21:29:27.921] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/72612, l='ServerLevel[world]', x=-11591.00, y=31.00, z=-8629.00] as it would cause deadlock
+[07Feb2025 21:29:38.670] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/72869, l='ServerLevel[world]', x=-11441.00, y=31.00, z=-8549.00] as it would cause deadlock
+[07Feb2025 21:30:26.902] [Worker-Main-13/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/74071, l='ServerLevel[world]', x=-10931.00, y=31.00, z=-8157.00] as it would cause deadlock
+[07Feb2025 21:32:05.266] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/76783, l='ServerLevel[world]', x=-9967.30, y=30.74, z=-7580.70] died: Sanctum Cultist tried to swim in lava
+[07Feb2025 21:32:47.359] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/77408, l='ServerLevel[world]', x=-9720.03, y=137.95, z=-7458.62] died: Restless Spirit starved to death
+[07Feb2025 21:33:06.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has reached the goal [Strong Undead]
+[07Feb2025 21:33:06.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has completed the challenge [Crusade Against Curse]
+[07Feb2025 21:33:54.362] [Worker-Main-12/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:6.261377f,range:8,source:{pos:[I;-50,-59,-59],type:"minecraft:block"}}]
+[07Feb2025 21:35:06.657] [Worker-Main-33/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/80921, l='ServerLevel[world]', x=-8418.00, y=31.00, z=-6164.00] as it would cause deadlock
+[07Feb2025 21:37:35.140] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/84003, l='ServerLevel[world]', x=-7052.00, y=31.00, z=-6093.00] as it would cause deadlock
+[07Feb2025 21:38:05.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 moved too quickly! 10.12889457248275,0.0,-1.6307491893203405
+[07Feb2025 21:38:58.297] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=870, y=-35, z=-7786}
+[07Feb2025 21:39:01.952] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=873, y=-32, z=-7804}
+[07Feb2025 21:39:01.952] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=875, y=-32, z=-7804}
