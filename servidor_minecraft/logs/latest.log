@@ -4195,3 +4195,17 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [07Feb2025 20:49:19.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [The Soul Forge]
 [07Feb2025 20:51:49.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has completed the challenge [The broken Nether's warmachine]
 [07Feb2025 20:53:24.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Nina the Burger Chef'/33183, l='ServerLevel[world]', x=1044.58, y=37.57, z=8745.39] died: Nina the Burger Chef was executed.
+[07Feb2025 20:59:17.143] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Nick'/37430, l='ServerLevel[world]', x=-6003.57, y=29.88, z=-6044.68] died: Nick was slain by elrisas741
+[07Feb2025 21:00:36.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Best Friends Forever]
+[07Feb2025 21:03:35.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Local Librarian]
+[07Feb2025 21:04:48.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! -9.989086039804533,1.3902839036142325,0.4473641643235169
+[07Feb2025 21:04:48.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[07Feb2025 21:06:39.521] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/26540, l='ServerLevel[world]', x=-97673.38, y=95.16, z=-82686.26] died: Honeyed Archer burned to death
+[07Feb2025 21:07:04.532] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[07Feb2025 21:11:53.121] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/47918, l='ServerLevel[world]', x=8376.50, y=41.00, z=70091.50]
+[07Feb2025 21:12:04.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97648, y=35, z=-82762} BlockPos{x=-97647, y=35, z=-82763}
+[07Feb2025 21:16:01.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97651, y=33, z=-82763} BlockPos{x=-97647, y=32, z=-82768}
+[07Feb2025 21:17:10.265] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[07Feb2025 21:17:14.275] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/52905, l='ServerLevel[world]', x=8720.50, y=55.00, z=70707.50]
+[07Feb2025 21:18:34.466] [Netty Epoll Server IO #7/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[07Feb2025 21:18:35.595] [Netty Epoll Server IO #7/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
