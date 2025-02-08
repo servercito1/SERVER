@@ -4213,3 +4213,4 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [08Feb2025 04:33:06.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! 9.423236536742479,-3.5,1.5655747239652555
 [08Feb2025 04:36:11.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! -9.67501703345988,-2.231523797587016,-1.9812097321409965
 [08Feb2025 04:37:52.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! 9.818356199904883,-2.1095525467400194,0.1065826555568492
+[08Feb2025 04:47:57.052] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 3 in "main" inventory handler
