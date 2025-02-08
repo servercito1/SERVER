@@ -4148,3 +4148,6 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [08Feb2025 03:42:33.102] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4743, y=-30, z=-488}
 [08Feb2025 03:42:33.103] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4744, y=-30, z=-488}
 [08Feb2025 03:43:07.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [We Want You, as a New Recruit!]
+[08Feb2025 03:48:15.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4898, y=92, z=-437} BlockPos{x=-4898, y=94, z=-440}
+[08Feb2025 03:48:16.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4898, y=92, z=-437} BlockPos{x=-4898, y=94, z=-440}
+[08Feb2025 03:52:50.087] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-5201, y=-40, z=-652}

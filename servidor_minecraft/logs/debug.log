@@ -22381,3 +22381,43 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [08Feb2025 03:46:09.201] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (-5120 | 20 | -526)
 [08Feb2025 03:46:09.201] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-5120 | 20 | -526)
 [08Feb2025 03:46:09.202] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (-5120 | 20 | -526)
+[08Feb2025 03:47:55.529] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:48:08.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Feb2025 03:48:08.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Feb2025 03:48:15.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4898, y=92, z=-437} BlockPos{x=-4898, y=94, z=-440}
+[08Feb2025 03:48:16.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4898, y=92, z=-437} BlockPos{x=-4898, y=94, z=-440}
+[08Feb2025 03:50:06.124] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:50:15.027] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:50:51.777] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:50:52.629] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:50:53.773] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:50:55.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:50:57.177] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:51:08.724] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:51:09.630] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:51:10.558] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:51:11.376] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:51:12.224] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:51:13.074] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:51:14.026] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:51:14.925] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:51:15.926] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:51:16.712] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:51:17.526] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:52:49.205] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/spruce_log_pile
+[08Feb2025 03:52:50.087] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-5201, y=-40, z=-652}
+[08Feb2025 03:52:54.629] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[08Feb2025 03:52:57.694] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[08Feb2025 03:52:59.764] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:mod_structures/desert_ruin4
+[08Feb2025 03:52:59.771] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:badlands_ruin2
+[08Feb2025 03:52:59.984] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[08Feb2025 03:53:06.892] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[08Feb2025 03:53:08.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Feb2025 03:53:08.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Feb2025 03:54:55.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:55:46.783] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[08Feb2025 03:55:46.783] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[08Feb2025 03:58:08.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Feb2025 03:58:08.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Feb2025 03:58:39.674] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 03:59:06.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
