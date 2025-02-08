@@ -1819,6 +1819,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-07 20:51:46 +0000",
       "cooked_beef": "2025-02-03 22:16:24 +0000",
+      "apple": "2025-02-08 00:06:32 +0000",
       "potato": "2025-02-03 18:27:55 +0000",
       "bread": "2025-02-03 18:35:59 +0000",
       "golden_apple": "2025-02-03 20:56:34 +0000",
@@ -10679,6 +10680,12 @@
       "has_bed": "2025-02-07 23:02:50 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "brown_mushroom": "2025-02-08 00:13:03 +0000"
+    },
+    "done": false
   },
   "pfm:recipes/furniture/mangrove_blue_classic_bed": {
     "criteria": {
