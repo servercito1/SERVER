@@ -4151,3 +4151,10 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [08Feb2025 03:48:15.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4898, y=92, z=-437} BlockPos{x=-4898, y=94, z=-440}
 [08Feb2025 03:48:16.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4898, y=92, z=-437} BlockPos{x=-4898, y=94, z=-440}
 [08Feb2025 03:52:50.087] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-5201, y=-40, z=-652}
+[08Feb2025 03:59:18.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! 0.00787519009864468,0.0,-10.606605006124838
+[08Feb2025 03:59:48.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Iron Maiden]
+[08Feb2025 04:00:32.418] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/13395, l='ServerLevel[world]', x=79.23, y=26.00, z=85.51] died: Debris Miner was slain by Guard
+[08Feb2025 04:00:33.423] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/13394, l='ServerLevel[world]', x=77.47, y=26.00, z=79.54] died: Debris Miner was slain by Guard
+[08Feb2025 04:02:58.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved wrongly!
+[08Feb2025 04:06:38.786] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-81, y=-54, z=397}
+[08Feb2025 04:09:10.757] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=132, y=0, z=430}
