@@ -22501,3 +22501,329 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [08Feb2025 04:08:28.444] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [08Feb2025 04:08:31.161] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [08Feb2025 04:09:10.757] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=132, y=0, z=430}
+[08Feb2025 04:09:29.498] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:10:02.855] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:10:03.999] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:10:04.001] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/16637, l='ServerLevel[world]', x=75.61, y=-8.00, z=96.71] died: Foundry Guardian was slain by 22PieroRR
+[08Feb2025 04:10:04.854] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:10:05.678] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:10:05.681] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/16634, l='ServerLevel[world]', x=77.27, y=-5.85, z=98.97] died: Foundry Guardian was slain by 22PieroRR
+[08Feb2025 04:10:06.572] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16639, l='ServerLevel[world]', x=71.86, y=-8.00, z=87.52] died: Forge Sentry was slain by Guard
+[08Feb2025 04:10:08.226] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:10:14.069] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/16635, l='ServerLevel[world]', x=75.24, y=-6.92, z=92.01] died: Foundry Guardian was slain by Guard
+[08Feb2025 04:10:15.221] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:10:15.223] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/16636, l='ServerLevel[world]', x=73.19, y=-4.55, z=92.08] died: Foundry Guardian was slain by 22PieroRR
+[08Feb2025 04:10:27.820] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/16760, l='ServerLevel[world]', x=71.97, y=-8.00, z=101.41] died: Forge Sentry was slain by Guard
+[08Feb2025 04:10:32.173] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:10:34.069] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/16802, l='ServerLevel[world]', x=72.30, y=-7.76, z=94.65] died: Foundry Guardian was slain by Guard
+[08Feb2025 04:10:35.083] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/16804, l='ServerLevel[world]', x=72.82, y=-6.53, z=90.74] died: Foundry Guardian was slain by Guard
+[08Feb2025 04:10:35.352] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:10:37.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/16803, l='ServerLevel[world]', x=75.37, y=-8.00, z=93.88] died: Foundry Guardian was scorched to death
+[08Feb2025 04:10:39.404] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:10:39.406] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/16805, l='ServerLevel[world]', x=80.43, y=-6.07, z=94.13] died: Foundry Guardian was slain by 22PieroRR
+[08Feb2025 04:11:16.097] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:11:20.409] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:11:22.193] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:11:51.208] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:11:51.940] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:12:08.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:12:13.453] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:12:14.311] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:12:14.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/17379, l='ServerLevel[world]', x=110.91, y=-8.00, z=52.46] died: Foundry Guardian was slain by 22PieroRR
+[08Feb2025 04:12:16.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/17378, l='ServerLevel[world]', x=113.22, y=-8.00, z=71.99] died: Foundry Guardian was slain by Guard
+[08Feb2025 04:12:18.569] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/17380, l='ServerLevel[world]', x=106.85, y=-7.11, z=70.35] died: Foundry Guardian was slain by Guard
+[08Feb2025 04:12:27.719] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/17398, l='ServerLevel[world]', x=102.37, y=-8.00, z=88.15] died: Foundry Guardian was slain by Guard
+[08Feb2025 04:12:29.704] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:12:30.552] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:12:30.554] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/17400, l='ServerLevel[world]', x=100.45, y=-8.00, z=86.66] died: Foundry Guardian was slain by 22PieroRR
+[08Feb2025 04:12:32.757] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:12:32.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/17399, l='ServerLevel[world]', x=101.30, y=-8.00, z=88.20] died: Foundry Guardian was slain by 22PieroRR
+[08Feb2025 04:12:36.042] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:12:36.826] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:12:36.827] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/17462, l='ServerLevel[world]', x=112.59, y=-8.00, z=76.17] died: Foundry Guardian was slain by 22PieroRR
+[08Feb2025 04:12:37.435] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/17461, l='ServerLevel[world]', x=106.34, y=-8.00, z=76.69] died: Foundry Guardian was slain by Guard
+[08Feb2025 04:12:37.659] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:12:38.501] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:12:39.947] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:12:42.373] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:12:42.377] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:12:46.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/17460, l='ServerLevel[world]', x=110.25, y=-8.00, z=72.57] died: Foundry Guardian was slain by Guard
+[08Feb2025 04:12:51.450] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:12:58.201] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:12:59.353] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:13:08.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Feb2025 04:13:08.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Feb2025 04:13:08.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/17744, l='ServerLevel[world]', x=140.77, y=-7.35, z=69.67] died: Forge Sentry was slain by Guard
+[08Feb2025 04:13:09.203] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:13:09.470] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/17746, l='ServerLevel[world]', x=139.70, y=-7.35, z=69.77] died: Forge Sentry was slain by Guard
+[08Feb2025 04:13:17.203] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:13:18.156] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:13:18.993] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:13:20.747] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:13:21.498] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:13:22.403] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:13:24.423] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:24.474] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:24.523] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:24.574] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:24.625] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:24.673] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:24.722] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:24.772] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:51.672] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:51.721] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:51.770] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:51.820] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:51.871] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:51.921] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:51.974] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:52.028] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:52.073] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:52.121] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:52.171] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:13:52.221] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Feb2025 04:14:07.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/18013, l='ServerLevel[world]', x=115.67, y=-6.36, z=77.49] died: Foundry Guardian was slain by Guard
+[08Feb2025 04:14:07.912] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:14:08.811] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:14:10.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/18014, l='ServerLevel[world]', x=109.44, y=-7.31, z=71.55] died: Foundry Guardian was scorched to death
+[08Feb2025 04:14:10.554] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:14:10.556] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/18015, l='ServerLevel[world]', x=107.82, y=-8.00, z=70.05] died: Foundry Guardian was slain by 22PieroRR
+[08Feb2025 04:14:19.820] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/17381, l='ServerLevel[world]', x=89.71, y=-6.12, z=57.77] died: Foundry Guardian was slain by Guard
+[08Feb2025 04:14:21.948] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:14:23.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:14:23.923] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/18075, l='ServerLevel[world]', x=112.23, y=-8.00, z=76.10] died: Foundry Guardian was slain by 22PieroRR
+[08Feb2025 04:14:25.901] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:14:25.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/18074, l='ServerLevel[world]', x=114.57, y=-6.01, z=71.84] died: Foundry Guardian was slain by 22PieroRR
+[08Feb2025 04:14:28.520] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/18076, l='ServerLevel[world]', x=113.00, y=-8.00, z=75.23] died: Foundry Guardian was scorched to death
+[08Feb2025 04:14:51.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/18252, l='ServerLevel[world]', x=140.05, y=-4.99, z=46.07] died: Foundry Guardian was slain by Guard
+[08Feb2025 04:14:51.906] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:14:52.853] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:14:52.854] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/18254, l='ServerLevel[world]', x=137.32, y=-2.04, z=43.66] died: Foundry Guardian was slain by 22PieroRR
+[08Feb2025 04:14:56.008] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:14:57.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/18251, l='ServerLevel[world]', x=143.86, y=-4.21, z=45.29] died: Foundry Guardian was slain by Guard
+[08Feb2025 04:14:58.419] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/18253, l='ServerLevel[world]', x=145.70, y=-4.74, z=44.37] died: Foundry Guardian was scorched to death
+[08Feb2025 04:14:58.755] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:15:13.975] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:15:19.172] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/18436, l='ServerLevel[world]', x=148.95, y=-8.00, z=101.02] died: Forge Sentry was scorched to death
+[08Feb2025 04:15:23.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:15:23.827] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:15:23.829] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/18437, l='ServerLevel[world]', x=150.90, y=-8.00, z=97.34] died: Foundry Guardian was executed.
+[08Feb2025 04:15:26.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/18439, l='ServerLevel[world]', x=152.70, y=-9.00, z=88.30] died: Foundry Guardian was slain by Guard
+[08Feb2025 04:16:45.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena1
+[08Feb2025 04:16:46.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena2
+[08Feb2025 04:16:46.122] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena3
+[08Feb2025 04:16:46.179] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena4
+[08Feb2025 04:16:46.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena5
+[08Feb2025 04:16:46.329] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena6
+[08Feb2025 04:16:46.357] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena7
+[08Feb2025 04:16:46.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena8
+[08Feb2025 04:16:46.442] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_fire
+[08Feb2025 04:16:46.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_1
+[08Feb2025 04:16:46.445] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_brute
+[08Feb2025 04:16:46.446] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_7
+[08Feb2025 04:16:46.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_3
+[08Feb2025 04:16:46.448] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_5
+[08Feb2025 04:16:46.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton_wither
+[08Feb2025 04:16:46.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_sword
+[08Feb2025 04:16:46.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_crossbow
+[08Feb2025 04:16:46.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:sealedruinedghaststatue2
+[08Feb2025 04:16:46.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/1
+[08Feb2025 04:16:46.756] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mobs/piglin_crossbow
+[08Feb2025 04:16:46.758] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mobs/piglin_sword
+[08Feb2025 04:16:46.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:start_nether_dungeon
+[08Feb2025 04:16:46.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_dungeon_room4
+[08Feb2025 04:16:46.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_dungeon_room6
+[08Feb2025 04:16:46.866] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_dungeon_room2
+[08Feb2025 04:16:46.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_dungeon_ruin1
+[08Feb2025 04:16:46.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_dungeon_room1
+[08Feb2025 04:16:46.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_dungeon_room3
+[08Feb2025 04:16:47.794] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[08Feb2025 04:16:47.795] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[08Feb2025 04:16:47.795] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[08Feb2025 04:16:48.988] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_fire
+[08Feb2025 04:16:48.988] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_7
+[08Feb2025 04:16:48.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_2
+[08Feb2025 04:16:49.063] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower2
+[08Feb2025 04:16:49.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/road3
+[08Feb2025 04:16:49.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/road1
+[08Feb2025 04:16:49.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone3
+[08Feb2025 04:16:49.074] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone1
+[08Feb2025 04:16:49.075] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/small_tower
+[08Feb2025 04:16:49.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/well
+[08Feb2025 04:16:49.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone2
+[08Feb2025 04:16:49.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/dungeon1
+[08Feb2025 04:16:49.229] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_6
+[08Feb2025 04:16:49.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3469ms or 69 ticks behind
+[08Feb2025 04:18:11.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Feb2025 04:18:11.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Feb2025 04:19:04.270] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming com/mrcrayfish/goblintraders/Hooks
+[08Feb2025 04:19:04.270] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[08Feb2025 04:23:11.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Feb2025 04:23:11.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Feb2025 04:26:33.322] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:33.323] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:34.072] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:34.073] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:35.021] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:35.022] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:35.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:35.724] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:35.724] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:37.271] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:37.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:37.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:38.769] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:38.770] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:38.770] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:39.620] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:39.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:41.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:41.273] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:41.970] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:41.973] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:43.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:43.628] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:43.628] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:44.625] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:44.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:44.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:44.627] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:45.960] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:45.961] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:45.961] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:47.270] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:47.271] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:47.271] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:47.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:48.122] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:48.125] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:48.125] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:48.126] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:49.723] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:49.724] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:49.724] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:50.571] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:50.572] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:50.572] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:51.371] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:51.374] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:51.374] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:58.020] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:58.021] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:58.022] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:58.022] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:58.023] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:58.774] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:58.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:26:58.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:26:58.776] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:05.620] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:05.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:27:05.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:05.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:05.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:06.920] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:06.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:27:06.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:06.923] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:08.075] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:08.076] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:27:08.076] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:08.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:09.734] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:09.736] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:27:09.736] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:09.737] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:10.575] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:10.576] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:27:10.576] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:11.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:11.523] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:27:11.523] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:11.524] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:13.525] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:13.527] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:27:13.527] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:14.381] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:14.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:27:15.221] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:15.225] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:27:15.225] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:17.320] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:17.321] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:27:18.072] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:27:18.075] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Feb2025 04:28:11.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Feb2025 04:28:11.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Feb2025 04:29:06.881] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[08Feb2025 04:29:06.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_hoglin_rider_0
+[08Feb2025 04:29:06.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_2
+[08Feb2025 04:29:06.894] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_0
+[08Feb2025 04:29:06.966] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_1
+[08Feb2025 04:29:06.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_1
+[08Feb2025 04:29:06.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_1
+[08Feb2025 04:29:06.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_0
+[08Feb2025 04:29:06.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_3_main
+[08Feb2025 04:29:07.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_5
+[08Feb2025 04:29:07.104] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[08Feb2025 04:29:07.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_0
+[08Feb2025 04:29:07.172] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_0
+[08Feb2025 04:29:07.250] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_4
+[08Feb2025 04:29:09.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:pumpkin_ruin_five
+[08Feb2025 04:29:09.510] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_1
+[08Feb2025 04:29:09.695] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_snowy
+[08Feb2025 04:29:09.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_snowy
+[08Feb2025 04:29:09.698] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[08Feb2025 04:29:09.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_snowy
+[08Feb2025 04:29:09.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_snowy
+[08Feb2025 04:29:10.448] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_tower_0
+[08Feb2025 04:29:12.778] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Feb2025 04:29:34.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[08Feb2025 04:29:34.366] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[08Feb2025 04:29:34.947] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation NONE at (8480 | -6 | 71891)
+[08Feb2025 04:29:34.948] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation NONE at (8480 | -6 | 71891)
+[08Feb2025 04:29:35.471] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_5
+[08Feb2025 04:29:35.544] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[08Feb2025 04:29:35.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:field_stone_ruins_rock5
+[08Feb2025 04:29:36.284] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (8475 | 30 | 71877)
+[08Feb2025 04:29:36.285] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (8475 | 30 | 71877)
+[08Feb2025 04:29:36.285] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (8486 | 19 | 71888)
+[08Feb2025 04:29:36.285] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (8486 | 19 | 71888)
+[08Feb2025 04:29:36.285] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation NONE at (8480 | 12 | 71882)
+[08Feb2025 04:29:36.286] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation NONE at (8480 | 12 | 71882)
+[08Feb2025 04:29:36.286] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation NONE at (8486 | 1 | 71897)
+[08Feb2025 04:29:36.287] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation NONE at (8486 | 1 | 71897)
+[08Feb2025 04:29:36.287] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation NONE at (8480 | -6 | 71891)
+[08Feb2025 04:29:36.288] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation NONE at (8480 | -6 | 71891)
+[08Feb2025 04:29:36.403] [Worker-Main-41/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (8478 | 30 | 71874)
+[08Feb2025 04:29:36.403] [Worker-Main-41/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (8478 | 30 | 71874)
+[08Feb2025 04:29:36.403] [Worker-Main-41/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (8475 | 30 | 71869)
+[08Feb2025 04:29:36.403] [Worker-Main-41/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (8475 | 30 | 71869)
+[08Feb2025 04:29:36.403] [Worker-Main-41/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (8475 | 30 | 71877)
+[08Feb2025 04:29:36.404] [Worker-Main-41/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (8475 | 30 | 71877)
+[08Feb2025 04:29:36.404] [Worker-Main-41/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (8484 | 30 | 71868)
+[08Feb2025 04:29:36.405] [Worker-Main-41/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (8484 | 30 | 71868)
+[08Feb2025 04:29:36.405] [Worker-Main-41/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation NONE at (8480 | 12 | 71882)
+[08Feb2025 04:29:36.405] [Worker-Main-41/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation NONE at (8480 | 12 | 71882)
+[08Feb2025 04:29:36.406] [Worker-Main-41/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (8471 | -7 | 71864)
+[08Feb2025 04:29:36.407] [Worker-Main-41/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (8471 | -7 | 71864)
+[08Feb2025 04:29:36.448] [Worker-Main-33/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (8486 | 21 | 71852)
+[08Feb2025 04:29:36.448] [Worker-Main-33/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (8486 | 21 | 71852)
+[08Feb2025 04:29:36.448] [Worker-Main-33/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (8480 | 21 | 71843)
+[08Feb2025 04:29:36.448] [Worker-Main-33/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (8480 | 21 | 71843)
+[08Feb2025 04:29:36.448] [Worker-Main-33/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (8485 | 21 | 71854)
+[08Feb2025 04:29:36.448] [Worker-Main-33/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (8485 | 21 | 71854)
+[08Feb2025 04:29:36.448] [Worker-Main-33/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (8482 | 21 | 71839)
+[08Feb2025 04:29:36.449] [Worker-Main-33/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (8482 | 21 | 71839)
+[08Feb2025 04:29:36.458] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/crops with rotation NONE at (8478 | 30 | 71869)
+[08Feb2025 04:29:36.459] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/crops with rotation NONE at (8478 | 30 | 71869)
+[08Feb2025 04:29:36.460] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (8475 | 30 | 71869)
+[08Feb2025 04:29:36.460] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (8475 | 30 | 71869)
+[08Feb2025 04:29:36.460] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (8484 | 30 | 71868)
+[08Feb2025 04:29:36.460] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (8484 | 30 | 71868)
+[08Feb2025 04:29:36.461] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (8485 | 21 | 71854)
+[08Feb2025 04:29:36.461] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (8485 | 21 | 71854)
+[08Feb2025 04:29:36.461] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (8484 | 21 | 71859)
+[08Feb2025 04:29:36.461] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (8484 | 21 | 71859)
+[08Feb2025 04:29:36.462] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (8471 | -7 | 71864)
+[08Feb2025 04:29:36.462] [Worker-Main-40/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (8471 | -7 | 71864)
