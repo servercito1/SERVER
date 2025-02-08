@@ -13925,5 +13925,11 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem_cut": {
+    "criteria": {
+      "cut": "2025-02-08 18:53:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
