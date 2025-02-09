@@ -4305,3 +4305,11 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [09Feb2025 23:13:00.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=53, z=-42} BlockPos{x=35, y=53, z=-43}
 [09Feb2025 23:13:25.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [A Cut Above the Rest]
 [09Feb2025 23:13:36.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Apothic Spawners]
+[09Feb2025 23:24:41.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has completed the challenge [Infinity Stones]
+[09Feb2025 23:24:43.947] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=471, y=-47, z=-8250}
+[09Feb2025 23:25:02.503] [Worker-Main-38/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[09Feb2025 23:25:03.817] [Worker-Main-26/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[09Feb2025 23:25:19.963] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=585, y=-9, z=-8400}
+[09Feb2025 23:25:19.964] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=587, y=-9, z=-8400}
+[09Feb2025 23:28:26.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Disconnected
+[09Feb2025 23:28:26.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
