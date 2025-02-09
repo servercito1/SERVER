@@ -4146,3 +4146,21 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [09Feb2025 21:00:18.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-99220, y=45, z=-80390} BlockPos{x=-99221, y=45, z=-80390}
 [09Feb2025 21:14:42.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Disconnected
 [09Feb2025 21:14:42.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
+[09Feb2025 21:20:14.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
+[09Feb2025 21:29:28.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elrisas741[/127.194.73.14:60649] logged in with entity id 8533 at (-97638.18349238053, 37.0, -82761.41026496832)
+[09Feb2025 21:29:28.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 joined the game
+[09Feb2025 21:29:28.317] [Server thread/INFO] [Jade/]: Syncing config to elrisas741 (77fcb98c-7faf-3dc8-8095-81ba0a63f778)
+[09Feb2025 21:32:55.530] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
+[09Feb2025 21:32:55.532] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[09Feb2025 21:33:12.827] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_helmet/apotheosis:mythic/ABILITY/0.3!
+[09Feb2025 21:33:50.552] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=626, y=5, z=-8324}
+[09Feb2025 21:34:28.057] [Worker-Main-26/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[09Feb2025 21:34:28.503] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1160, y=-3, z=-10155}
+[09Feb2025 21:34:28.504] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1160, y=-3, z=-10157}
+[09Feb2025 21:34:29.921] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1290, y=-34, z=-10089}
+[09Feb2025 21:36:26.107] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[09Feb2025 21:39:43.217] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[09Feb2025 21:39:43.218] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[09Feb2025 21:39:43.219] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[09Feb2025 21:39:44.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
+[09Feb2025 21:41:50.933] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
