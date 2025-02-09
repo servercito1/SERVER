@@ -2841,6 +2841,7 @@
       "minecraft:skeleton": "2025-02-03 18:25:01 +0000",
       "savage_and_ravage:creepie": "2025-02-07 22:20:10 +0000",
       "minecraft:ravager": "2025-02-07 22:22:12 +0000",
+      "minecraft:ghast": "2025-02-09 22:28:33 +0000",
       "minecraft:hoglin": "2025-02-03 19:01:00 +0000",
       "savage_and_ravage:executioner": "2025-02-07 22:21:35 +0000",
       "minecraft:vindicator": "2025-02-06 21:41:13 +0000",
@@ -13935,6 +13936,12 @@
   "incendium:quartz_flats/sanctum/root": {
     "criteria": {
       "requirement": "2025-02-09 22:16:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-02-09 22:34:10 +0000"
     },
     "done": true
   },
