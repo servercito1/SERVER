@@ -4144,3 +4144,5 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [09Feb2025 21:00:18.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-99220, y=45, z=-80390} BlockPos{x=-99221, y=45, z=-80390}
 [09Feb2025 21:00:18.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-99220, y=45, z=-80390} BlockPos{x=-99221, y=45, z=-80390}
 [09Feb2025 21:00:18.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-99220, y=45, z=-80390} BlockPos{x=-99221, y=45, z=-80390}
+[09Feb2025 21:14:42.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Disconnected
+[09Feb2025 21:14:42.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
