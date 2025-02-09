@@ -4249,3 +4249,55 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [09Feb2025 22:36:56.376] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [09Feb2025 22:36:56.479] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [09Feb2025 22:37:20.590] [Worker-Main-26/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:4.1231055f,range:8,source:{pos:[I;-50,-59,-59],type:"minecraft:block"}}]
+[09Feb2025 22:38:16.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved too quickly! 11.832905255027981,4.158411466263502,4.17531042738301
+[09Feb2025 22:38:16.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8956ms or 179 ticks behind
+[09Feb2025 22:38:50.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[09Feb2025 22:39:11.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6570ms or 131 ticks behind
+[09Feb2025 22:40:06.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[09Feb2025 22:40:29.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7747ms or 154 ticks behind
+[09Feb2025 22:40:49.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5303ms or 106 ticks behind
+[09Feb2025 22:41:12.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7624ms or 152 ticks behind
+[09Feb2025 22:41:15.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Feb2025 22:41:31.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4022ms or 80 ticks behind
+[09Feb2025 22:41:50.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved too quickly! 5.786129393771262,0.0,-8.394318365852087
+[09Feb2025 22:41:51.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[09Feb2025 22:42:07.769] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[09Feb2025 22:42:07.774] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[09Feb2025 22:42:07.984] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[09Feb2025 22:42:08.251] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[09Feb2025 22:42:08.252] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[09Feb2025 22:42:08.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2283ms or 45 ticks behind
+[09Feb2025 22:42:08.632] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[09Feb2025 22:42:08.633] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[09Feb2025 22:42:08.695] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[09Feb2025 22:42:26.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3370ms or 67 ticks behind
+[09Feb2025 22:43:05.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[09Feb2025 22:43:25.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5116ms or 102 ticks behind
+[09Feb2025 22:45:02.350] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/69720, l='ServerLevel[world]', x=4991.27, y=61.00, z=-8565.70] died, message: 'Weaponsmith was slain by Draugr'
+[09Feb2025 22:46:26.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Back to childhood]
+[09Feb2025 22:46:26.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Not even afraid of death]
+[09Feb2025 22:49:23.071] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Lila the Jerk'/74794, l='ServerLevel[world]', x=-13453.57, y=41.00, z=-10395.39] died: Lila the Jerk was executed.
+[09Feb2025 22:53:32.290] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Ernonbor'/76734, l='ServerLevel[world]', x=-5941.02, y=52.00, z=-6097.01] died: Ernonbor was slain by elrisas741
+[09Feb2025 22:56:03.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13307, y=108, z=-10191} BlockPos{x=-13307, y=109, z=-10191}
+[09Feb2025 22:56:13.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Eliza the Rough'/78278, l='ServerLevel[world]', x=-13306.08, y=108.00, z=-10190.92] died: Eliza the Rough was executed.
+[09Feb2025 23:01:01.891] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/80853, l='ServerLevel[world]', x=-13277.61, y=59.70, z=-12433.59] died: Restless Spirit starved to death
+[09Feb2025 23:01:03.197] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/80899, l='ServerLevel[world]', x=-13284.80, y=58.97, z=-12444.94] died: Restless Spirit starved to death
+[09Feb2025 23:01:13.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13244, y=89, z=-10197} BlockPos{x=-13244, y=90, z=-10197}
+[09Feb2025 23:01:13.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13244, y=89, z=-10197} BlockPos{x=-13244, y=90, z=-10197}
+[09Feb2025 23:01:13.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13244, y=89, z=-10197} BlockPos{x=-13244, y=90, z=-10197}
+[09Feb2025 23:01:13.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13244, y=89, z=-10197} BlockPos{x=-13244, y=90, z=-10197}
+[09Feb2025 23:01:13.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13244, y=89, z=-10197} BlockPos{x=-13244, y=90, z=-10197}
+[09Feb2025 23:01:13.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13244, y=89, z=-10197} BlockPos{x=-13244, y=90, z=-10197}
+[09Feb2025 23:01:16.191] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/81120, l='ServerLevel[world]', x=-13269.29, y=59.72, z=-12517.59] died: Restless Spirit starved to death
+[09Feb2025 23:01:33.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13229, y=106, z=-10197} BlockPos{x=-13227, y=108, z=-10197}
+[09Feb2025 23:03:33.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Disconnected
+[09Feb2025 23:03:33.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
+[09Feb2025 23:05:48.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13075, y=34, z=-10226} BlockPos{x=-13060, y=32, z=-10228}
+[09Feb2025 23:06:42.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elrisas741[/127.194.73.14:38151] logged in with entity id 84713 at (-97651.34674190322, 63.0, -82769.47806984208)
+[09Feb2025 23:06:42.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 joined the game
+[09Feb2025 23:06:43.009] [Server thread/INFO] [Jade/]: Syncing config to elrisas741 (77fcb98c-7faf-3dc8-8095-81ba0a63f778)
+[09Feb2025 23:08:14.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13097, y=41, z=-10182} BlockPos{x=-13098, y=40, z=-10182}
+[09Feb2025 23:08:14.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13097, y=41, z=-10182} BlockPos{x=-13098, y=40, z=-10182}
+[09Feb2025 23:08:14.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13097, y=41, z=-10182} BlockPos{x=-13098, y=40, z=-10182}
+[09Feb2025 23:08:15.047] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13097, y=41, z=-10182} BlockPos{x=-13098, y=40, z=-10182}
+[09Feb2025 23:08:15.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13097, y=41, z=-10182} BlockPos{x=-13098, y=40, z=-10182}
