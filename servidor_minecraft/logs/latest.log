@@ -4313,3 +4313,11 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [09Feb2025 23:25:19.964] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=587, y=-9, z=-8400}
 [09Feb2025 23:28:26.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Disconnected
 [09Feb2025 23:28:26.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
+[09Feb2025 23:42:23.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[09Feb2025 23:42:23.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
+[09Feb2025 23:43:22.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
+[09Feb2025 23:47:26.662] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.225.186.49:55797] logged in with entity id 100315 at (41.50262265561961, 54.0, -35.168529328383386)
+[09Feb2025 23:47:26.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[09Feb2025 23:47:26.745] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[09Feb2025 23:49:37.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[09Feb2025 23:49:37.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
