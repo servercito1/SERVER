@@ -21896,3 +21896,559 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [09Feb2025 21:44:38.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_4
 [09Feb2025 21:44:38.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_1
 [09Feb2025 21:44:38.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_0
+[09Feb2025 21:45:26.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: elrisas741
+[09Feb2025 21:45:39.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/18556, l='ServerLevel[world]', x=78.40, y=91.00, z=-622.46] died: Honeyed Archer burned to death
+[09Feb2025 21:45:53.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 21:45:53.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 21:48:37.795] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 35 messages to dispatch.
+[09Feb2025 21:48:37.834] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[09Feb2025 21:48:37.880] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[09Feb2025 21:48:37.938] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[09Feb2025 21:48:37.983] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[09Feb2025 21:48:38.032] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [treechop, betterdungeons, kuma_api, betterwitchhuts, incendium, sophisticatedcore, placebo, modernfix, citadel, alexsmobs, lootintegrations, yungsapi, bagus_lib, mixinextras, sophisticatedbackpacks, guardvillagers, uteamcore, apotheosis, mcwdoors, balm, fpsreducer, carryon, melody, betterfortresses, dragonfight, cloth_config, pfm, structure_gel, farmersdelight, supplementaries, morevillagers, chefsdelight, dungeons_plus, chunky, mcwtrpdoors, yungsbridges, simplefarming, lionfishapi, highlighter, philipsruins, spartantoolkit, cataclysm, curios, patchouli, rightclickharvest, mynethersdelight, collective, yungsextras, mr_dungeons_andtaverns, attributeslib, villagertools, bettervillage, noisium, betterstrongholds, tombstone, gottschcore, atlaslib, spartanweaponry, architectury, mr_limesplatus_ending, mcwfurnitures, cupboard, flib, betterendisland, framework, puffish_attributes, t_and_t, bettermineshafts, playerrevive, tradingpost, betterjungletemples, radium, rhino, puffish_skills, mowziesmobs, geckolib, ftblibrary, ftbteams, ftbranks, mutantmonsters, endertrigon, culturaldelights, amendments, sophisticatedstorage, easymagic, mowzies_cataclysm, jei, kubejs, configlibtxf, libraryferret, goblintraders, structorytowers, reap, waystones, clumps, integrated_api, comforts, artifacts, configured, default_skill_trees, cpm, crackerslib, dungeoncrawl, betterdeserttemples, walljump, blueprint, savage_and_ravage, luckperms, puzzlesaccessapi, ftbchunks, ftbxmodcompat, dungeons_arise_seven_seas, forge, mr_hero_proof, midashunger, friendsandfoes, dungeons_arise, minecraft, trade_cycling, loot_and_danger_dungeons, moonlight, mousetweaks, lootintegration_wda, mixinsquared, jade, animal_feeding_trough, another_furniture, hoporp, displaydelight, creativecore, spectrelib, weaponmaster, astikorcarts, personality, betterfpsdist, iceberg, flywheel, create, spartanshields, justenoughprofessions, storagedrawers, nullscape, earthmobsmod, oceansdelight, mvs, appleskin, alexsdelight, lootr, ferritecore, largemeals, puzzleslib, enhancedcelestials, corgilib, delightful, cosmeticarmorreworked, expandability, cristellib]
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supplementaries:channel' : Version test of '0' from client : ACCEPTED
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bagus_lib:channel' : Version test of '2' from client : ACCEPTED
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'structure_gel:main' : Version test of '7' from client : ACCEPTED
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pfm:main_channel' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'guardvillagers:main' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corgilib:network' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'earthmobsmod:channel' : Version test of '2' from client : ACCEPTED
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:treechop-channel' : Version test of '7' from client : ACCEPTED
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedcelestials:network' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'attributeslib:attributeslib' : Version test of '1.0.0' from client : ACCEPTED
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.068] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'astikorcarts:main' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'weaponmaster:yearscnetworking' : Version test of '1.0' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lootr:main_network_channel' : Version test of '2' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedstorage:channel' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'blueprint:net' : Version test of 'BP1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mutantmonsters:1' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of '3' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tradingpost:1' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:play' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'flib:main_channel' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'apotheosis:apotheosis' : Version test of '1.0.0' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'walljump:network' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'storagedrawers:main_channel' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easymagic:1' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'personality:net' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'friendsandfoes:networking' : Version test of '3.0.6' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trade_cycling:cycle_trades' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[09Feb2025 21:48:38.069] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network_forge' : Version test of '1.20.1-1' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'amendments:channel' : Version test of '0' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.8.6' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puffish_skills:skill_click' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network' : Version test of '1.20.1-1' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'loot_and_danger_dungeons:loot_and_danger_dungeons' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'delightful:main' : Version test of '1' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[09Feb2025 21:48:38.070] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[09Feb2025 21:48:38.082] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[09Feb2025 21:48:38.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[09Feb2025 21:48:38.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:38.120] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:38.132] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[09Feb2025 21:48:38.132] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[09Feb2025 21:48:38.132] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:38.132] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:38.182] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[09Feb2025 21:48:38.231] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[09Feb2025 21:48:38.278] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[09Feb2025 21:48:38.329] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[09Feb2025 21:48:38.369] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[09Feb2025 21:48:38.369] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:38.369] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:38.370] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[09Feb2025 21:48:38.370] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:38.370] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:38.371] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[09Feb2025 21:48:38.371] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:38.371] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:38.379] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[09Feb2025 21:48:38.431] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[09Feb2025 21:48:38.482] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[09Feb2025 21:48:38.530] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:oil_effects' to 'fml:handshake' sequence 14
+[09Feb2025 21:48:38.586] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 15
+[09Feb2025 21:48:38.631] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:weapon_traits' to 'fml:handshake' sequence 16
+[09Feb2025 21:48:38.681] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 17
+[09Feb2025 21:48:38.730] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 18
+[09Feb2025 21:48:38.782] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 19
+[09Feb2025 21:48:38.831] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 20
+[09Feb2025 21:48:38.881] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 21
+[09Feb2025 21:48:38.934] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 22
+[09Feb2025 21:48:38.939] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[09Feb2025 21:48:38.939] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:38.939] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:38.939] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[09Feb2025 21:48:38.939] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:38.939] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:38.939] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[09Feb2025 21:48:38.939] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:38.939] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:38.940] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[09Feb2025 21:48:38.940] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:38.940] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:38.941] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[09Feb2025 21:48:38.941] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:38.941] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:38.941] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[09Feb2025 21:48:38.941] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:38.941] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:38.985] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 23
+[09Feb2025 21:48:39.033] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 24
+[09Feb2025 21:48:39.082] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 25
+[09Feb2025 21:48:39.129] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 26
+[09Feb2025 21:48:39.182] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config reap-server.toml' to 'fml:handshake' sequence 27
+[09Feb2025 21:48:39.238] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 28
+[09Feb2025 21:48:39.279] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[09Feb2025 21:48:39.279] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.279] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.279] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[09Feb2025 21:48:39.279] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.279] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.280] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[09Feb2025 21:48:39.280] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.280] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.281] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[09Feb2025 21:48:39.281] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.281] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.282] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedstorage-server.toml' to 'fml:handshake' sequence 29
+[09Feb2025 21:48:39.282] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[09Feb2025 21:48:39.282] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.282] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.323] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[09Feb2025 21:48:39.323] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.323] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.323] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[09Feb2025 21:48:39.323] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.323] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.323] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[09Feb2025 21:48:39.324] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.324] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.324] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[09Feb2025 21:48:39.324] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.324] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.324] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[09Feb2025 21:48:39.324] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.324] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.333] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tradingpost-server.toml' to 'fml:handshake' sequence 30
+[09Feb2025 21:48:39.381] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config mutantmonsters-server.toml' to 'fml:handshake' sequence 31
+[09Feb2025 21:48:39.430] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easymagic-server.toml' to 'fml:handshake' sequence 32
+[09Feb2025 21:48:39.481] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 33
+[09Feb2025 21:48:39.529] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 34
+[09Feb2025 21:48:39.642] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[09Feb2025 21:48:39.642] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.643] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.683] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[09Feb2025 21:48:39.683] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.683] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.683] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[09Feb2025 21:48:39.683] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.683] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.683] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[09Feb2025 21:48:39.684] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.684] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.687] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[09Feb2025 21:48:39.687] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.687] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.695] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[09Feb2025 21:48:39.695] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.695] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.700] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[09Feb2025 21:48:39.700] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.700] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.716] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[09Feb2025 21:48:39.716] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.716] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.735] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[09Feb2025 21:48:39.735] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.735] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.740] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[09Feb2025 21:48:39.740] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.740] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.740] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[09Feb2025 21:48:39.740] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.740] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.751] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[09Feb2025 21:48:39.751] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Feb2025 21:48:39.751] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Feb2025 21:48:39.779] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[09Feb2025 21:48:39.856] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.225.186.49:52153] logged in with entity id 20120 at (39.65302410802976, 54.0, -38.93171843646532)
+[09Feb2025 21:48:39.856] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@43d291fe into net.minecraft.network.Connection@3417e4c3
+[09Feb2025 21:48:39.856] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 344 classes
+[09Feb2025 21:48:39.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[09Feb2025 21:48:39.948] [Server thread/DEBUG] [FTB Teams/]: player 0095057f-b0f1-35f0-92b7-7c2b5a2b86fe logged in, player team = 22PieroRR#0095057f
+[09Feb2025 21:48:39.948] [Server thread/DEBUG] [FTB Teams/]: syncing player team data, all = false
+[09Feb2025 21:48:39.951] [Server thread/DEBUG] [FTB Teams/]: updating team presence
+[09Feb2025 21:48:39.951] [Server thread/DEBUG] [FTB Teams/]: sending team login event for 0095057f-b0f1-35f0-92b7-7c2b5a2b86fe...
+[09Feb2025 21:48:39.951] [Server thread/DEBUG] [FTB Chunks/]: handling player team login: player = 0095057f-b0f1-35f0-92b7-7c2b5a2b86fe, team = 35aabb58-78ee-4e7b-8aa8-9bf7dd504b2f
+[09Feb2025 21:48:39.951] [Server thread/DEBUG] [FTB Chunks/]: server config and team data sent to 0095057f-b0f1-35f0-92b7-7c2b5a2b86fe
+[09Feb2025 21:48:39.951] [Server thread/DEBUG] [FTB Chunks/]: claimed chunk data sent to 0095057f-b0f1-35f0-92b7-7c2b5a2b86fe
+[09Feb2025 21:48:39.951] [Server thread/DEBUG] [FTB Chunks/]: visible player list sent to 0095057f-b0f1-35f0-92b7-7c2b5a2b86fe
+[09Feb2025 21:48:39.951] [Server thread/DEBUG] [FTB Teams/]: team login event for 0095057f-b0f1-35f0-92b7-7c2b5a2b86fe sent
+[09Feb2025 21:48:39.958] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[09Feb2025 21:50:53.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 21:50:53.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 21:55:03.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton_wither
+[09Feb2025 21:55:05.011] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_2_basalt
+[09Feb2025 21:55:05.012] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_plate_1_basalt
+[09Feb2025 21:55:05.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_skeleton
+[09Feb2025 21:55:05.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_witherskeleton
+[09Feb2025 21:55:05.014] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_empty
+[09Feb2025 21:55:05.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_7_basalt
+[09Feb2025 21:55:05.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_6_basalt
+[09Feb2025 21:55:05.016] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_10_basalt
+[09Feb2025 21:55:05.017] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_4_basalt
+[09Feb2025 21:55:05.018] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_9_basalt
+[09Feb2025 21:55:05.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_5_basalt
+[09Feb2025 21:55:05.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_2_basalt
+[09Feb2025 21:55:05.021] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_crossbow
+[09Feb2025 21:55:21.804] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:sealedruinedghaststatue3
+[09Feb2025 21:55:21.808] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_structures/lava_ruin3
+[09Feb2025 21:55:26.145] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:nether_structures/lava_ruin2
+[09Feb2025 21:55:53.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 21:55:53.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 21:57:45.227] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/25618, l='ServerLevel[world]', x=-13112.00, y=31.00, z=-10020.00] as it would cause deadlock
+[09Feb2025 21:57:46.373] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_event_4
+[09Feb2025 21:57:46.374] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_event_2
+[09Feb2025 21:57:49.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton
+[09Feb2025 21:58:25.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/inside/nether_fortress_inside_room_tall1
+[09Feb2025 21:58:25.952] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/inside/nether_fortress_blaze_room4
+[09Feb2025 21:58:25.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/chest/nether_fortress_inside_chest_fail2
+[09Feb2025 21:58:25.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/stage/nether_fortress_ceeling
+[09Feb2025 21:58:25.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/inside/nether_fortress_blaze_room2
+[09Feb2025 21:58:25.969] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/chest/nether_fortress_inside_chest_fail
+[09Feb2025 21:58:25.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/stage/nether_fortress_foundation
+[09Feb2025 21:58:25.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/inside/nether_fortress_blaze_room3
+[09Feb2025 21:58:25.990] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_cross
+[09Feb2025 21:58:25.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_t_lantern
+[09Feb2025 21:58:25.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_upward_left
+[09Feb2025 21:58:26.006] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/chest/nether_fortress_outside_chest
+[09Feb2025 21:58:26.008] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_curve_lantern
+[09Feb2025 21:58:26.010] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_upward_right
+[09Feb2025 21:58:26.012] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_straight
+[09Feb2025 21:58:26.012] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/chest/nether_fortress_outside_chest_fail
+[09Feb2025 21:58:26.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/chest/nether_fortress_outside_chest_fail2
+[09Feb2025 21:58:26.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_lock
+[09Feb2025 21:58:26.016] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_curve
+[09Feb2025 21:58:26.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_cross_lantern
+[09Feb2025 21:58:26.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:nether_fortress/bridge/nether_fortress_bridge_t
+[09Feb2025 21:58:34.470] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_2_soul
+[09Feb2025 21:58:34.471] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_plate_1_soul
+[09Feb2025 21:58:34.472] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_8_soul
+[09Feb2025 21:58:34.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_12_soul
+[09Feb2025 21:58:34.474] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_11_soul
+[09Feb2025 21:58:34.474] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_10_soul
+[09Feb2025 21:58:39.257] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/cultist
+[09Feb2025 21:58:39.257] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/illusionist
+[09Feb2025 21:58:39.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/inquisitor
+[09Feb2025 21:58:39.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/apostle
+[09Feb2025 21:58:39.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/ravager
+[09Feb2025 21:58:39.259] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/protector
+[09Feb2025 21:58:39.259] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/ritualist
+[09Feb2025 21:58:39.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/guardian
+[09Feb2025 21:58:39.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! -10.520474461918639,0.0,-0.06510049565804366
+[09Feb2025 21:59:04.689] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 6 in "main" inventory handler
+[09Feb2025 21:59:14.690] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 21:59:26.335] [Server thread/DEBUG] [mixin/]: Mixing alloc.enum_values.piston_handler.PistonHandlerMixin from lithium.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[09Feb2025 21:59:26.336] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[09Feb2025 21:59:39.264] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_10
+[09Feb2025 21:59:40.014] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[09Feb2025 21:59:40.052] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[09Feb2025 21:59:40.054] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[09Feb2025 21:59:40.055] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[09Feb2025 21:59:40.055] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[09Feb2025 21:59:40.057] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_dark_oak
+[09Feb2025 21:59:40.057] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[09Feb2025 21:59:40.058] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_cherry
+[09Feb2025 21:59:40.059] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[09Feb2025 21:59:40.060] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[09Feb2025 21:59:40.061] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_snowy
+[09Feb2025 21:59:40.062] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_swamp
+[09Feb2025 21:59:40.062] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[09Feb2025 21:59:40.063] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[09Feb2025 21:59:40.064] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_dark_oak
+[09Feb2025 21:59:40.065] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[09Feb2025 21:59:40.065] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[09Feb2025 21:59:40.066] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[09Feb2025 21:59:40.066] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_swamp
+[09Feb2025 21:59:40.068] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_cherry
+[09Feb2025 21:59:40.068] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[09Feb2025 21:59:40.069] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[09Feb2025 21:59:40.070] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[09Feb2025 21:59:40.070] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_dark_oak
+[09Feb2025 21:59:40.071] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[09Feb2025 21:59:40.072] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_snowy
+[09Feb2025 21:59:40.072] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[09Feb2025 21:59:40.073] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_snowy
+[09Feb2025 21:59:40.073] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[09Feb2025 21:59:40.074] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_snowy
+[09Feb2025 21:59:40.075] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_librarian
+[09Feb2025 21:59:40.076] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_trader
+[09Feb2025 21:59:40.076] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[09Feb2025 21:59:40.077] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[09Feb2025 21:59:40.078] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[09Feb2025 21:59:40.078] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[09Feb2025 21:59:40.079] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_spruce
+[09Feb2025 21:59:40.080] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[09Feb2025 21:59:40.081] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[09Feb2025 21:59:40.081] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[09Feb2025 21:59:40.081] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_acacia
+[09Feb2025 21:59:40.083] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_birch
+[09Feb2025 21:59:40.084] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_birch
+[09Feb2025 21:59:40.085] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_birch
+[09Feb2025 21:59:40.085] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_birch
+[09Feb2025 21:59:40.086] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[09Feb2025 21:59:40.087] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[09Feb2025 21:59:40.088] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[09Feb2025 21:59:40.088] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_desert
+[09Feb2025 21:59:40.089] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[09Feb2025 21:59:40.089] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[09Feb2025 21:59:40.090] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[09Feb2025 21:59:40.090] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[09Feb2025 21:59:40.091] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[09Feb2025 21:59:40.092] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_desert
+[09Feb2025 21:59:40.093] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[09Feb2025 21:59:40.093] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[09Feb2025 21:59:40.093] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[09Feb2025 21:59:40.094] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[09Feb2025 21:59:40.094] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[09Feb2025 21:59:40.095] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_dark_oak
+[09Feb2025 21:59:40.096] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[09Feb2025 21:59:40.096] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[09Feb2025 21:59:40.097] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_dark_oak
+[09Feb2025 21:59:40.097] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_dark_oak
+[09Feb2025 21:59:40.098] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_dark_oak
+[09Feb2025 21:59:40.098] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[09Feb2025 21:59:40.099] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[09Feb2025 21:59:40.099] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[09Feb2025 21:59:40.099] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[09Feb2025 21:59:40.100] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_oak
+[09Feb2025 21:59:40.100] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[09Feb2025 21:59:40.101] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_oak
+[09Feb2025 21:59:40.101] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_cherry
+[09Feb2025 21:59:40.101] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_cherry
+[09Feb2025 21:59:40.102] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_cherry
+[09Feb2025 21:59:40.102] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_cherry
+[09Feb2025 21:59:40.103] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_cherry
+[09Feb2025 21:59:40.103] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_cherry
+[09Feb2025 21:59:40.103] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_cherry
+[09Feb2025 21:59:40.104] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_swamp
+[09Feb2025 21:59:40.105] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_swamp
+[09Feb2025 21:59:40.105] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_swamp
+[09Feb2025 21:59:40.105] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_swamp
+[09Feb2025 21:59:40.106] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_swamp
+[09Feb2025 21:59:40.106] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[09Feb2025 21:59:40.107] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[09Feb2025 21:59:40.107] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[09Feb2025 21:59:40.108] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_jungle
+[09Feb2025 21:59:40.108] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[09Feb2025 21:59:40.108] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[09Feb2025 21:59:40.109] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_snowy
+[09Feb2025 21:59:40.109] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_snowy
+[09Feb2025 21:59:40.110] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_snowy
+[09Feb2025 21:59:40.110] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_snowy
+[09Feb2025 21:59:40.110] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[09Feb2025 21:59:40.111] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cartographer
+[09Feb2025 21:59:40.111] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cleric
+[09Feb2025 21:59:40.111] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_farmer
+[09Feb2025 21:59:40.112] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fisher
+[09Feb2025 21:59:40.112] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fletcher
+[09Feb2025 21:59:40.113] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_grindstone
+[09Feb2025 21:59:40.113] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_leather_worker
+[09Feb2025 21:59:40.113] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_loom
+[09Feb2025 21:59:40.114] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_smithing_table
+[09Feb2025 21:59:40.114] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_stonecutter
+[09Feb2025 21:59:40.114] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_armorer
+[09Feb2025 21:59:40.115] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_butcher
+[09Feb2025 21:59:40.115] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_villager
+[09Feb2025 21:59:40.663] [Worker-Main-26/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[09Feb2025 22:00:05.041] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_1
+[09Feb2025 22:00:05.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_1
+[09Feb2025 22:00:05.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_0
+[09Feb2025 22:00:05.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_2
+[09Feb2025 22:00:05.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0
+[09Feb2025 22:00:05.044] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_3
+[09Feb2025 22:00:05.044] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_3
+[09Feb2025 22:00:05.045] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0
+[09Feb2025 22:00:05.045] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_0
+[09Feb2025 22:00:05.046] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_2
+[09Feb2025 22:00:07.095] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_fortress_main
+[09Feb2025 22:00:07.102] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_fortress_part1
+[09Feb2025 22:00:07.105] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_fortress_part2
+[09Feb2025 22:00:07.106] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_fortress_part3
+[09Feb2025 22:00:07.149] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[09Feb2025 22:00:07.153] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[09Feb2025 22:00:07.180] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_start
+[09Feb2025 22:00:07.199] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/mushroom_well
+[09Feb2025 22:00:07.207] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:desert_ruin1
+[09Feb2025 22:00:07.211] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:badlands_ruin1
+[09Feb2025 22:00:07.219] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[09Feb2025 22:00:08.643] [Worker-Main-27/DEBUG] [ModernFix/]: Structure philipsruins:small_ruin5 is being run through DFU (hash f3d98642eb31c0846bd845e8fea0e827aac0e6113e8c4ee7838b22d0e26fcc55), this will cause launch time delays
+[09Feb2025 22:00:08.650] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_ruin12
+[09Feb2025 22:00:10.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved too quickly! 6.72245076893887,-2.0,-7.201510083745234
+[09Feb2025 22:00:10.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3078ms or 61 ticks behind
+[09Feb2025 22:00:10.200] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_tower
+[09Feb2025 22:00:10.260] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:portal12
+[09Feb2025 22:00:11.215] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_7
+[09Feb2025 22:00:12.161] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[09Feb2025 22:00:12.165] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[09Feb2025 22:00:14.794] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_0
+[09Feb2025 22:00:14.799] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_spawner_4
+[09Feb2025 22:00:14.799] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_spawner_0
+[09Feb2025 22:00:14.800] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_spawner_1
+[09Feb2025 22:00:14.800] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_spawner_3
+[09Feb2025 22:00:14.800] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_spawner_2
+[09Feb2025 22:00:18.723] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:pumpkin_ruin_one
+[09Feb2025 22:00:21.487] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:cartographer_tower/base
+[09Feb2025 22:00:31.955] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:field_stone_ruins_rock1
+[09Feb2025 22:00:34.362] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:stray_fort/stray_fort_1
+[09Feb2025 22:00:36.262] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_ruin_4
+[09Feb2025 22:00:39.654] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:field_stone_ruins_rock2
+[09Feb2025 22:00:40.288] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_12
+[09Feb2025 22:00:56.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 22:00:56.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 22:00:58.106] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:00:59.003] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:00.155] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:06.698] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:07.711] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:08.908] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:10.966] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:13.106] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:15.256] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:18.276] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:21.259] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:23.008] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:24.254] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:26.621] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:27.729] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:29.015] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:35.392] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:37.849] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:40.470] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:42.912] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:44.304] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:45.558] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:49.494] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:53.647] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:01:55.943] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:02:18.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_16
+[09Feb2025 22:02:18.778] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_lower_no_chest
+[09Feb2025 22:02:18.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:field_stone_ruins_rock4
+[09Feb2025 22:02:18.863] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_plus:tower/top/decayed
+[09Feb2025 22:03:28.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/snowy/snowy_engineer
+[09Feb2025 22:03:28.992] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/snowy/snowy_woodworker
+[09Feb2025 22:03:29.014] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/snowy/snowy_oceanographer
+[09Feb2025 22:03:29.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/snowy/snowy_hunter
+[09Feb2025 22:03:29.017] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/snowy/snowy_florist
+[09Feb2025 22:04:44.100] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:44.143] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:44.197] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:44.247] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:44.295] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:44.345] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:44.393] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:44.445] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:44.493] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:44.493] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:04:44.548] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:44.607] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:44.660] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:44.698] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:44.745] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:44.797] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:44.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:04:44.846] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:44.898] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:44.946] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:45.003] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:45.044] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:45.093] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:45.146] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:04:46.591] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:04:47.851] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:05:02.441] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:05:02.527] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:05:02.555] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Feb2025 22:05:11.316] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:05:31.971] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_roof_0
+[09Feb2025 22:05:31.977] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_0
+[09Feb2025 22:05:31.978] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_1_small_terminator
+[09Feb2025 22:05:31.981] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_2
+[09Feb2025 22:05:31.985] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_0
+[09Feb2025 22:05:31.989] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_1
+[09Feb2025 22:05:31.992] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_2
+[09Feb2025 22:05:31.998] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_1
+[09Feb2025 22:05:32.001] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_0
+[09Feb2025 22:05:32.004] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_top
+[09Feb2025 22:05:32.007] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_main
+[09Feb2025 22:05:32.009] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_bottom
+[09Feb2025 22:05:32.012] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_tower
+[09Feb2025 22:05:32.015] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_2_tower
+[09Feb2025 22:05:32.019] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_roof_1
+[09Feb2025 22:05:32.025] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_1_support
+[09Feb2025 22:05:32.031] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_1_broken
+[09Feb2025 22:05:32.033] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_2_terminator
+[09Feb2025 22:05:32.033] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_0_small
+[09Feb2025 22:05:32.034] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_0
+[09Feb2025 22:05:32.034] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_phantom_0
+[09Feb2025 22:05:32.035] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_1
+[09Feb2025 22:05:32.035] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_juggernaut_0
+[09Feb2025 22:05:32.038] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_ranged_0
+[09Feb2025 22:05:32.041] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_1
+[09Feb2025 22:05:32.044] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_witch_0
+[09Feb2025 22:05:32.045] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_ranged_0
+[09Feb2025 22:05:32.051] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_0
+[09Feb2025 22:05:32.054] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_3
+[09Feb2025 22:05:32.057] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_5
+[09Feb2025 22:05:32.061] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_2
+[09Feb2025 22:05:32.065] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_4
+[09Feb2025 22:05:36.393] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:05:37.394] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:05:38.150] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:05:38.897] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:05:39.693] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:05:40.496] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:05:41.352] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Feb2025 22:05:41.357] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Victor the Super'/32568, l='ServerLevel[world]', x=-97578.68, y=-8.75, z=-82705.84] died: Victor the Super was slain by elrisas741
+[09Feb2025 22:05:56.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 22:05:56.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

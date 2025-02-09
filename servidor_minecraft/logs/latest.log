@@ -4164,3 +4164,15 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [09Feb2025 21:39:43.219] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [09Feb2025 21:39:44.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
 [09Feb2025 21:41:50.933] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[09Feb2025 21:45:26.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: elrisas741
+[09Feb2025 21:45:39.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/18556, l='ServerLevel[world]', x=78.40, y=91.00, z=-622.46] died: Honeyed Archer burned to death
+[09Feb2025 21:48:39.856] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.225.186.49:52153] logged in with entity id 20120 at (39.65302410802976, 54.0, -38.93171843646532)
+[09Feb2025 21:48:39.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[09Feb2025 21:48:39.958] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[09Feb2025 21:57:45.227] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/25618, l='ServerLevel[world]', x=-13112.00, y=31.00, z=-10020.00] as it would cause deadlock
+[09Feb2025 21:58:39.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! -10.520474461918639,0.0,-0.06510049565804366
+[09Feb2025 21:59:04.689] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 6 in "main" inventory handler
+[09Feb2025 21:59:40.663] [Worker-Main-26/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[09Feb2025 22:00:10.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved too quickly! 6.72245076893887,-2.0,-7.201510083745234
+[09Feb2025 22:00:10.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3078ms or 61 ticks behind
+[09Feb2025 22:05:41.357] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Victor the Super'/32568, l='ServerLevel[world]', x=-97578.68, y=-8.75, z=-82705.84] died: Victor the Super was slain by elrisas741
