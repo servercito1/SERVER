@@ -4308,3 +4308,5 @@ java.lang.IllegalArgumentException: No such argument 'team' exists on this comma
 [10Feb2025 14:36:28.769] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 35aabb58-78ee-4e7b-8aa8-9bf7dd504b2f (22PieroRR_s_Party#35aabb58) due to claim limits
 [10Feb2025 14:36:28.769] [Server thread/INFO] [FTB Chunks/]: Team 22PieroRR#0095057f had 0 claimed chunks, now has 20
 [10Feb2025 14:40:17.037] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/2768, l='ServerLevel[world]', x=136.39, y=62.25, z=-110.51] died: Honeyed Archer suffocated in a wall
+[10Feb2025 15:22:13.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! 10.561223561451698,0.4022403533660679,0.5412811970472831
+[10Feb2025 15:25:36.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! 3.128739125071661,0.0,10.035288476674395
