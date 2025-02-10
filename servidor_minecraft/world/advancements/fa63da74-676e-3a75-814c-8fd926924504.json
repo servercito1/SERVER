@@ -10628,81 +10628,105 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-08 00:46:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-08 00:46:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-08 00:46:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-08 00:46:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-08 00:46:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-08 00:46:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-08 00:46:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-08 00:46:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-08 00:46:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-08 00:46:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-08 00:46:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-08 00:46:22 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
       "has_end_stone_bricks": "2025-02-07 22:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-02-07 22:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-02-07 22:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-02-07 22:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-02-07 22:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-02-07 22:51:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/end_stone_cataclysm_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-02-07 22:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-07 22:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-07 22:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-02-07 22:56:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/end_stone_cataclysm_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-07 22:56:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/end_stone_cataclysm_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-07 22:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-07 22:56:53 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/purpur_altar": {
+    "criteria": {
+      "has_end_stone": "2025-02-07 22:56:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2025-02-07 22:56:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/end_stone_cataclysm_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-07 22:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-07 22:56:53 +0000"
     },
     "done": true
   },
@@ -10730,18 +10754,6 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/end_stone_cataclysm_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2025-02-07 22:56:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-02-07 22:56:53 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/acacia_blue_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-07 23:02:50 +0000"
@@ -10754,27 +10766,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "brown_mushroom": "2025-02-08 00:13:03 +0000"
-    },
-    "done": false
-  },
   "pfm:recipes/furniture/mangrove_blue_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-07 23:02:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-02-07 22:56:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-02-07 22:51:12 +0000"
     },
     "done": true
   },
@@ -10796,12 +10790,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-02-07 22:51:12 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/bamboo_blue_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-07 23:02:50 +0000"
@@ -10814,21 +10802,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-02-07 22:56:53 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/oak_blue_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-07 23:02:50 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/end_stone_cataclysm_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-02-07 22:56:53 +0000"
     },
     "done": true
   },
@@ -10844,18 +10820,6 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/end_stone_cataclysm_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-02-07 22:56:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-02-07 22:56:53 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/chorus_cataclysm_blue_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-07 23:02:50 +0000"
@@ -10865,18 +10829,6 @@
   "pfm:recipes/furniture/dark_oak_blue_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-07 23:02:50 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/purpur_altar": {
-    "criteria": {
-      "has_end_stone": "2025-02-07 22:56:53 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_end_stone": "2025-02-07 22:56:53 +0000"
     },
     "done": true
   },
@@ -10898,27 +10850,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_stone_brick_wall": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-02-07 22:51:12 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/dark_oak_blue_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-07 23:02:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-02-07 22:51:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-02-07 22:51:12 +0000"
     },
     "done": true
   },
@@ -10940,17 +10874,11 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/end_stone_cataclysm_kitchen_cabinet": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "has_planks": "2025-02-07 22:56:53 +0000"
+      "brown_mushroom": "2025-02-08 00:13:03 +0000"
     },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-02-07 22:56:53 +0000"
-    },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }

@@ -359,6 +359,7 @@
       "minecraft:flower_forest": "2025-02-03 18:17:12 +0000",
       "minecraft:frozen_peaks": "2025-02-04 21:35:32 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-03 18:20:55 +0000",
+      "minecraft:deep_dark": "2025-02-10 16:28:08 +0000",
       "minecraft:meadow": "2025-02-03 21:47:04 +0000",
       "minecraft:windswept_gravelly_hills": "2025-02-09 23:24:57 +0000",
       "minecraft:savanna": "2025-02-03 18:28:16 +0000",
@@ -13145,6 +13146,54 @@
   "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
     "criteria": {
       "has_deepslate_redstone_ore": "2025-02-09 23:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-02-10 16:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-02-10 16:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-10 16:28:54 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-02-10 16:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-02-10 16:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-02-10 16:20:10 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-02-10 16:27:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-10 16:31:11 +0000"
     },
     "done": true
   },
