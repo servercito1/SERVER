@@ -3926,6 +3926,7 @@
       "minecraft:zoglin": "2025-02-05 15:24:21 +0000",
       "minecraft:ghast": "2025-02-04 02:16:18 +0000",
       "minecraft:hoglin": "2025-02-03 19:01:40 +0000",
+      "minecraft:guardian": "2025-02-10 22:59:07 +0000",
       "minecraft:vindicator": "2025-02-05 22:10:45 +0000",
       "minecraft:magma_cube": "2025-02-04 03:01:37 +0000",
       "minecraft:spider": "2025-02-03 19:12:41 +0000",
@@ -3939,6 +3940,7 @@
       "minecraft:wither_skeleton": "2025-02-03 18:57:42 +0000",
       "minecraft:husk": "2025-02-05 16:34:32 +0000",
       "minecraft:ender_dragon": "2025-02-10 22:36:55 +0000",
+      "minecraft:shulker": "2025-02-10 23:00:43 +0000",
       "minecraft:cave_spider": "2025-02-03 20:37:03 +0000",
       "minecraft:piglin": "2025-02-03 20:15:24 +0000",
       "minecraft:enderman": "2025-02-03 20:28:43 +0000",
@@ -13417,6 +13419,85 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 23:03:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 23:03:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 23:03:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 23:03:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 23:03:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 23:03:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 23:03:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 23:03:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 23:03:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-02-10 23:03:20 +0000",
+      "log_spam_fixer": "2025-02-10 23:03:04 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 23:03:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 23:03:04 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-02-10 23:00:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2025-02-10 22:47:17 +0000"
@@ -13429,6 +13510,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-02-10 23:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-02-10 22:59:07 +0000"
+    },
+    "done": true
+  },
   "nullscape:root": {
     "criteria": {
       "nullscape:crystal_peaks": "2025-02-10 22:55:33 +0000"
@@ -13438,6 +13531,12 @@
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2025-02-10 22:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-02-10 22:59:07 +0000"
     },
     "done": true
   },
@@ -13456,6 +13555,12 @@
   "apotheosis:affix/mythic": {
     "criteria": {
       "sword": "2025-02-10 22:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-02-10 23:00:31 +0000"
     },
     "done": true
   },

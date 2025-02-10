@@ -7532,3 +7532,31 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [10Feb2025 23:00:31.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [The City at the End of the Game]
 [10Feb2025 23:00:40.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved wrongly!
 [10Feb2025 23:00:45.467] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:chainmail_boots/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 23:02:35.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2144, y=62, z=-838} BlockPos{x=2145, y=61, z=-845}
+[10Feb2025 23:02:49.458] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Sampson the AC Rizzlord'/755903, l='ServerLevel[world]', x=2146.08, y=60.00, z=-847.73] died: Sampson the AC Rizzlord was scorched to death
+[10Feb2025 23:03:38.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Disconnected
+[10Feb2025 23:03:38.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
+[10Feb2025 23:04:56.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [The City at the End of the Game]
+[10Feb2025 23:05:49.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Weird Fishes/Arpeggi]
+[10Feb2025 23:06:38.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Ghost Riders In The Sky]
+[10Feb2025 23:14:01.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Local Brewery]
+[10Feb2025 23:14:22.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has reached the goal [Sky's the Limit]
+[10Feb2025 23:14:22.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has completed the challenge [Titan-Forged]
+[10Feb2025 23:14:39.942] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Feb2025 23:14:39.943] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Feb2025 23:14:45.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! -2.9979119978890694,-0.5,-9.584790151547772
+[10Feb2025 23:14:45.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6166ms or 123 ticks behind
+[10Feb2025 23:15:30.443] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_boots/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 23:15:56.880] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Professor Darko the Wise'/763369, l='ServerLevel[world]', x=2815.60, y=50.00, z=-896.52] died: Professor Darko the Wise was scorched to death
+[10Feb2025 23:17:01.568] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_boots/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 23:17:26.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has reached the goal [A Ruined End]
+[10Feb2025 23:17:56.987] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2817, y=74, z=-1169} BlockPos{x=2816, y=74, z=-1169}
+[10Feb2025 23:17:57.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2817, y=74, z=-1169} BlockPos{x=2816, y=74, z=-1169}
+[10Feb2025 23:17:57.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2817, y=74, z=-1169} BlockPos{x=2816, y=74, z=-1169}
+[10Feb2025 23:17:57.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2817, y=74, z=-1169} BlockPos{x=2816, y=74, z=-1169}
+[10Feb2025 23:17:57.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2817, y=74, z=-1169} BlockPos{x=2816, y=74, z=-1169}
+[10Feb2025 23:17:57.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2817, y=74, z=-1169} BlockPos{x=2816, y=74, z=-1169}
+[10Feb2025 23:19:36.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved wrongly!
+[10Feb2025 23:21:31.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2335, y=111, z=-1597} BlockPos{x=2335, y=111, z=-1598}
+[10Feb2025 23:21:32.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2335, y=111, z=-1597} BlockPos{x=2335, y=111, z=-1598}
+[10Feb2025 23:21:37.766] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/apotheosis:mythic/ABILITY/0.3!
