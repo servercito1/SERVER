@@ -3126,6 +3126,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-03 20:50:57 +0000",
       "cooked_beef": "2025-02-03 20:36:56 +0000",
+      "chorus_fruit": "2025-02-10 22:47:03 +0000",
       "bread": "2025-02-03 18:30:30 +0000",
       "golden_apple": "2025-02-03 20:59:12 +0000",
       "rotten_flesh": "2025-02-04 03:02:47 +0000",
@@ -3937,6 +3938,7 @@
       "minecraft:witch": "2025-02-09 22:16:06 +0000",
       "minecraft:wither_skeleton": "2025-02-03 18:57:42 +0000",
       "minecraft:husk": "2025-02-05 16:34:32 +0000",
+      "minecraft:ender_dragon": "2025-02-10 22:36:55 +0000",
       "minecraft:cave_spider": "2025-02-03 20:37:03 +0000",
       "minecraft:piglin": "2025-02-03 20:15:24 +0000",
       "minecraft:enderman": "2025-02-03 20:28:43 +0000",
@@ -13412,6 +13414,42 @@
   "alexsmobs:alexsmobs/cosmic_cod": {
     "criteria": {
       "capsid": "2025-02-10 21:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-02-10 22:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-02-10 22:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-02-10 22:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-02-10 22:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-02-10 22:30:37 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-02-10 22:37:01 +0000"
     },
     "done": true
   },
