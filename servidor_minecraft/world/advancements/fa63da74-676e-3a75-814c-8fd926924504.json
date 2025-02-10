@@ -1708,6 +1708,7 @@
       "minecraft:ghast": "2025-02-05 22:48:00 +0000",
       "minecraft:hoglin": "2025-02-03 18:57:45 +0000",
       "minecraft:vindicator": "2025-02-05 21:03:32 +0000",
+      "minecraft:magma_cube": "2025-02-10 18:45:43 +0000",
       "minecraft:spider": "2025-02-03 18:27:33 +0000",
       "minecraft:piglin_brute": "2025-02-04 01:25:06 +0000",
       "minecraft:creeper": "2025-02-04 00:30:49 +0000",
@@ -10905,6 +10906,564 @@
       "frostmaw": "2025-02-10 17:09:03 +0000"
     },
     "done": true
+  },
+  "pfm:recipes/furniture/diorite_chair": {
+    "criteria": {
+      "diorite_chair": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_table_natural": {
+    "criteria": {
+      "diorite_table_natural": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_coffee_table_basic": {
+    "criteria": {
+      "diorite_coffee_table_basic": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_table_classic": {
+    "criteria": {
+      "diorite_table_classic": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_table_dinner": {
+    "criteria": {
+      "diorite_table_dinner": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_coffee_table_classic": {
+    "criteria": {
+      "diorite_coffee_table_classic": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_classic_nightstand": {
+    "criteria": {
+      "diorite_classic_nightstand": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_table_modern_dinner": {
+    "criteria": {
+      "diorite_table_modern_dinner": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_table_basic": {
+    "criteria": {
+      "diorite_table_basic": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_chair_dinner": {
+    "criteria": {
+      "diorite_chair_dinner": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_chair_classic": {
+    "criteria": {
+      "diorite_chair_classic": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_coffee_table_modern": {
+    "criteria": {
+      "diorite_coffee_table_modern": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_chair_modern": {
+    "criteria": {
+      "diorite_chair_modern": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-10 17:25:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-02-10 17:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-10 18:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-10 18:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-10 18:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-10 18:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-10 18:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-10 18:03:20 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-02-10 18:14:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_chair": {
+    "criteria": {
+      "basalt_chair": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_table_classic": {
+    "criteria": {
+      "basalt_table_classic": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_coffee_table_basic": {
+    "criteria": {
+      "basalt_coffee_table_basic": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_coffee_table_classic": {
+    "criteria": {
+      "basalt_coffee_table_classic": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_table_dinner": {
+    "criteria": {
+      "basalt_table_dinner": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_coffee_table_modern": {
+    "criteria": {
+      "basalt_coffee_table_modern": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_chair_classic": {
+    "criteria": {
+      "basalt_chair_classic": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_table_natural": {
+    "criteria": {
+      "basalt_table_natural": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_chair_dinner": {
+    "criteria": {
+      "basalt_chair_dinner": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_table_modern_dinner": {
+    "criteria": {
+      "basalt_table_modern_dinner": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_table_basic": {
+    "criteria": {
+      "basalt_table_basic": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_chair_modern": {
+    "criteria": {
+      "basalt_chair_modern": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basalt_classic_nightstand": {
+    "criteria": {
+      "basalt_classic_nightstand": "2025-02-10 18:15:15 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/hoglin_trophy_cure": {
+    "criteria": {
+      "has_zoglin_trophy": "2025-02-10 18:20:43 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2025-02-10 18:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-02-10 18:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-02-10 18:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-02-10 18:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-02-10 18:39:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-10 18:40:21 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2025-02-10 18:50:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 21:03:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 21:03:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 21:03:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 21:03:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 21:03:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 21:03:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 21:03:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 21:03:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 21:03:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 21:03:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 21:03:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 21:03:33 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

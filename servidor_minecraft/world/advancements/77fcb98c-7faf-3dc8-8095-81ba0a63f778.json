@@ -13150,45 +13150,15 @@
     },
     "done": true
   },
-  "cataclysm:kill_harbinger": {
+  "mowziesmobs:kill_umvuthi": {
     "criteria": {
-      "theharbinger": "2025-02-10 17:01:38 +0000"
+      "barako": "2025-02-10 16:13:38 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-02-10 16:20:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-02-10 17:00:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-02-10 17:00:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-02-10 16:24:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-02-10 16:28:54 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthi": {
-    "criteria": {
-      "barako": "2025-02-10 16:13:38 +0000"
     },
     "done": true
   },
@@ -13204,15 +13174,195 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-02-10 16:24:54 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_ancient_factory": {
     "criteria": {
       "factory": "2025-02-10 16:27:08 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-10 16:28:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-02-10 16:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-10 17:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-02-10 17:00:29 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-02-10 17:01:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_chair": {
+    "criteria": {
+      "diorite_chair": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_table_natural": {
+    "criteria": {
+      "diorite_table_natural": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_coffee_table_basic": {
+    "criteria": {
+      "diorite_coffee_table_basic": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_table_classic": {
+    "criteria": {
+      "diorite_table_classic": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_table_dinner": {
+    "criteria": {
+      "diorite_table_dinner": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_coffee_table_classic": {
+    "criteria": {
+      "diorite_coffee_table_classic": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_classic_nightstand": {
+    "criteria": {
+      "diorite_classic_nightstand": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_table_modern_dinner": {
+    "criteria": {
+      "diorite_table_modern_dinner": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_table_basic": {
+    "criteria": {
+      "diorite_table_basic": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_chair_dinner": {
+    "criteria": {
+      "diorite_chair_dinner": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_chair_classic": {
+    "criteria": {
+      "diorite_chair_classic": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_coffee_table_modern": {
+    "criteria": {
+      "diorite_coffee_table_modern": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_chair_modern": {
+    "criteria": {
+      "diorite_chair_modern": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-02-10 17:35:50 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-10 17:50:27 +0000"
     },
     "done": true
   },

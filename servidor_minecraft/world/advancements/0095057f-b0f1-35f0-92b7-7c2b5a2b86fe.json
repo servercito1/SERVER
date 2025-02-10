@@ -2733,6 +2733,7 @@
     "criteria": {
       "huntingpost": "2025-02-03 20:52:03 +0000",
       "blueprinttable": "2025-02-06 22:53:31 +0000",
+      "cartographytable": "2025-02-10 17:49:48 +0000",
       "oceanographytable": "2025-02-04 02:26:11 +0000",
       "fletchingtable": "2025-02-03 20:50:08 +0000",
       "brewingstand": "2025-02-03 22:01:12 +0000",
@@ -5135,12 +5136,13 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
+      "taiga": "2025-02-10 17:09:58 +0000",
       "plains": "2025-02-03 18:50:20 +0000",
       "savanna": "2025-02-03 18:48:48 +0000",
       "desert": "2025-02-10 17:00:31 +0000",
       "snowy": "2025-02-03 21:29:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
@@ -8733,6 +8735,7 @@
   "morevillagers:all_professions_traded": {
     "criteria": {
       "cleric": "2025-02-03 22:01:30 +0000",
+      "cartographer": "2025-02-10 18:03:24 +0000",
       "librarian": "2025-02-03 21:22:42 +0000",
       "hunter": "2025-02-03 21:48:59 +0000"
     },
@@ -14034,12 +14037,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/guster": {
-    "criteria": {
-      "killed_by": "2025-02-10 17:04:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_cut_sandstone": "2025-02-10 17:03:01 +0000"
@@ -14049,6 +14046,91 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2025-02-10 17:03:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-02-10 17:04:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 18:21:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 18:21:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 18:21:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 18:21:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 18:21:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 18:21:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 18:21:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 18:21:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 18:21:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-02-10 18:22:02 +0000",
+      "log_spam_fixer": "2025-02-10 18:21:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 18:21:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-10 18:21:57 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:buy_map": {
+    "criteria": {
+      "trade": "2025-02-10 18:03:24 +0000"
     },
     "done": true
   },

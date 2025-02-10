@@ -1,0 +1,37 @@
+{
+	id: "ff19979c-a5ed-4980-a5da-a3f633320f8a"
+	type: "party"
+	owner: "0095057f-b0f1-35f0-92b7-7c2b5a2b86fe"
+	ranks: {
+		0095057f-b0f1-35f0-92b7-7c2b5a2b86fe: "owner"
+		77fcb98c-7faf-3dc8-8095-81ba0a63f778: "member"
+		fa63da74-676e-3a75-814c-8fd926924504: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "22PieroRR's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9D59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739208788377L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"22PieroRR\"}]}" }
+		{ from: "0095057f-b0f1-35f0-92b7-7c2b5a2b86fe", date: 1739208791825L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"elrisas741\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739208794635L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"elrisas741\"}]}" }
+		{ from: "0095057f-b0f1-35f0-92b7-7c2b5a2b86fe", date: 1739208795220L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Maikol_4988\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739208799221L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Maikol_4988\"}]}" }
+	]
+	extra: { }
+}

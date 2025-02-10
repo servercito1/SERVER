@@ -2,9 +2,7 @@
 	id: "fa63da74-676e-3a75-814c-8fd926924504"
 	type: "player"
 	player_name: "Maikol_4988"
-	ranks: {
-		fa63da74-676e-3a75-814c-8fd926924504: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Maikol_4988"
 		"ftbteams:description": ""
