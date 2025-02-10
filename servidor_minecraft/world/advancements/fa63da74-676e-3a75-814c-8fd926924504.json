@@ -10888,5 +10888,23 @@
     },
     "done": false
   },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-02-10 17:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-02-10 17:08:21 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-02-10 17:09:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

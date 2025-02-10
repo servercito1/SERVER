@@ -3930,6 +3930,7 @@
       "minecraft:spider": "2025-02-03 19:12:41 +0000",
       "minecraft:piglin_brute": "2025-02-03 20:15:20 +0000",
       "minecraft:creeper": "2025-02-03 19:10:55 +0000",
+      "minecraft:wither": "2025-02-10 17:00:27 +0000",
       "minecraft:slime": "2025-02-03 19:16:51 +0000",
       "minecraft:phantom": "2025-02-03 18:55:44 +0000",
       "minecraft:zombified_piglin": "2025-02-03 22:25:26 +0000",
@@ -13149,9 +13150,27 @@
     },
     "done": true
   },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-02-10 17:01:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-02-10 16:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-10 17:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-02-10 17:00:29 +0000"
     },
     "done": true
   },

@@ -325,6 +325,7 @@
       "minecraft:eroded_badlands": "2025-02-10 16:59:07 +0000",
       "minecraft:frozen_river": "2025-02-03 19:50:41 +0000",
       "minecraft:sunflower_plains": "2025-02-04 02:02:18 +0000",
+      "minecraft:birch_forest": "2025-02-10 17:07:22 +0000",
       "minecraft:windswept_hills": "2025-02-03 22:21:02 +0000",
       "minecraft:wooded_badlands": "2025-02-10 16:58:21 +0000",
       "minecraft:badlands": "2025-02-10 16:58:30 +0000",
@@ -348,6 +349,7 @@
       "minecraft:ocean": "2025-02-04 00:24:37 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-08 03:45:45 +0000",
       "minecraft:snowy_beach": "2025-02-03 19:50:42 +0000",
+      "minecraft:warm_ocean": "2025-02-10 17:05:18 +0000",
       "minecraft:flower_forest": "2025-02-03 18:02:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-10 16:33:58 +0000",
       "minecraft:meadow": "2025-02-08 03:36:36 +0000",
@@ -5135,6 +5137,7 @@
     "criteria": {
       "plains": "2025-02-03 18:50:20 +0000",
       "savanna": "2025-02-03 18:48:48 +0000",
+      "desert": "2025-02-10 17:00:31 +0000",
       "snowy": "2025-02-03 21:29:49 +0000"
     },
     "done": false
@@ -14022,6 +14025,30 @@
   "dungeons_arise:find_wishing_well": {
     "criteria": {
       "location0": "2025-02-10 16:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-02-10 17:03:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-02-10 17:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2025-02-10 17:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-02-10 17:03:01 +0000"
     },
     "done": true
   },
