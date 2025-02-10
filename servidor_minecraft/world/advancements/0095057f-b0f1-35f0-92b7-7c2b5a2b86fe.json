@@ -13952,15 +13952,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-02-10 00:40:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:flanged_mace": {
     "criteria": {
       "has_flanged_mace": "2025-02-10 00:09:59 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-02-10 00:40:24 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/socket": {
     "criteria": {
       "socket": "2025-02-10 00:25:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-02-10 00:40:24 +0000"
     },
     "done": true
   },

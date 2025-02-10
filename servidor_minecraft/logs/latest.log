@@ -4,3 +4,26 @@
 [10Feb2025 00:25:25.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [The Jeweler]
 [10Feb2025 00:26:43.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! -9.799361641902578,1.9841106427049908,0.8474424140713381
 [10Feb2025 00:29:44.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! 0.5131129401779617,1.935385623610017,10.186320825034272
+[10Feb2025 00:36:38.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=41, z=48} BlockPos{x=69, y=41, z=48}
+[10Feb2025 00:36:38.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=41, z=48} BlockPos{x=69, y=41, z=48}
+[10Feb2025 00:36:38.731] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=41, z=48} BlockPos{x=69, y=41, z=48}
+[10Feb2025 00:36:38.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=41, z=48} BlockPos{x=69, y=41, z=48}
+[10Feb2025 00:36:38.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=41, z=48} BlockPos{x=69, y=41, z=48}
+[10Feb2025 00:36:49.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=60, y=50, z=48} BlockPos{x=59, y=51, z=48}
+[10Feb2025 00:36:49.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=60, y=50, z=48} BlockPos{x=59, y=51, z=48}
+[10Feb2025 00:36:49.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=57, y=49, z=48} BlockPos{x=56, y=52, z=48}
+[10Feb2025 00:36:49.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=56, y=50, z=48} BlockPos{x=56, y=52, z=48}
+[10Feb2025 00:36:49.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=51, z=48} BlockPos{x=56, y=52, z=48}
+[10Feb2025 00:36:49.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=51, z=48} BlockPos{x=56, y=52, z=48}
+[10Feb2025 00:36:49.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=57, y=49, z=48} BlockPos{x=56, y=52, z=48}
+[10Feb2025 00:36:49.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=57, y=49, z=48} BlockPos{x=56, y=52, z=48}
+[10Feb2025 00:36:49.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=57, y=49, z=48} BlockPos{x=56, y=52, z=48}
+[10Feb2025 00:37:39.015] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-261, y=-34, z=-60}
+[10Feb2025 00:37:39.114] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-259, y=9, z=-97}
+[10Feb2025 00:37:39.115] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-258, y=9, z=-95}
+[10Feb2025 00:37:39.115] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-257, y=9, z=-95}
+[10Feb2025 00:37:39.183] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-270, y=-3, z=-111}
+[10Feb2025 00:37:39.183] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-269, y=-3, z=-111}
+[10Feb2025 00:39:29.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! -10.651408275654319,0.0,-0.034083326291238336
+[10Feb2025 00:40:33.239] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Eric the Supreme'/115623, l='ServerLevel[world]', x=-342.97, y=44.00, z=-997.70] died: Eric the Supreme was executed.
+[10Feb2025 00:42:29.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! -10.130341055627046,0.9451066529679224,1.055674690065068
