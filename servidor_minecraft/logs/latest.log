@@ -4314,3 +4314,18 @@ java.lang.IllegalArgumentException: No such argument 'team' exists on this comma
 [10Feb2025 15:53:47.640] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
 [10Feb2025 15:53:47.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
 [10Feb2025 15:53:51.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
+[10Feb2025 16:00:23.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
+[10Feb2025 16:00:31.531] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.225.186.49:52433] logged in with entity id 26396 at (41.151462488371784, 54.0, -35.68422570465305)
+[10Feb2025 16:00:31.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[10Feb2025 16:00:31.618] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[10Feb2025 16:07:19.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elrisas741[/127.194.73.14:56929] logged in with entity id 27752 at (-97639.78791197995, 37.0, -82769.01981203577)
+[10Feb2025 16:07:19.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 joined the game
+[10Feb2025 16:07:19.126] [Server thread/INFO] [Jade/]: Syncing config to elrisas741 (77fcb98c-7faf-3dc8-8095-81ba0a63f778)
+[10Feb2025 16:09:20.043] [Worker-Main-141/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[10Feb2025 16:09:37.505] [Worker-Main-122/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[10Feb2025 16:09:37.513] [Worker-Main-122/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[10Feb2025 16:09:53.103] [Worker-Main-142/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[10Feb2025 16:09:53.104] [Worker-Main-142/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[10Feb2025 16:09:53.104] [Worker-Main-142/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[10Feb2025 16:09:53.105] [Worker-Main-142/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[10Feb2025 16:09:53.105] [Worker-Main-142/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
