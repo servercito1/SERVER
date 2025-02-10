@@ -28,3 +28,8 @@
 [10Feb2025 00:40:33.239] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Eric the Supreme'/115623, l='ServerLevel[world]', x=-342.97, y=44.00, z=-997.70] died: Eric the Supreme was executed.
 [10Feb2025 00:42:29.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! -10.130341055627046,0.9451066529679224,1.055674690065068
 [10Feb2025 00:56:31.734] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[10Feb2025 01:09:31.690] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
+[10Feb2025 01:09:31.691] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[10Feb2025 01:10:00.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved wrongly!
+[10Feb2025 01:10:00.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved wrongly!
+[10Feb2025 01:10:00.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved wrongly!
