@@ -1,1 +1,3 @@
 [10Feb2025 00:09:59.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Smash And Bash!]
+[10Feb2025 00:14:02.075] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/98986, l='ServerLevel[world]', x=45.02, y=70.11, z=106.17] died: Honeyed Archer suffocated in a wall
+[10Feb2025 00:17:32.086] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/104597, l='ServerLevel[world]', x=-12222.36, y=159.78, z=-10064.62] died: Restless Spirit starved to death
