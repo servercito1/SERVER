@@ -13994,9 +13994,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_jukebox_upgrade": "2025-02-10 14:58:37 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_void_upgrade_from_backpack_void_upgrade": {
     "criteria": {
       "has_backpack_upgrade": "2025-02-10 14:45:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_jukebox_upgrade_from_backpack_jukebox_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-02-10 14:58:37 +0000"
     },
     "done": true
   },
