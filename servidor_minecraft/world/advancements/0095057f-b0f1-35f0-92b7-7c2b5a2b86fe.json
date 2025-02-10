@@ -13982,5 +13982,23 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_void_upgrade": {
+    "criteria": {
+      "has_void_upgrade": "2025-02-10 14:45:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_advanced_void_upgrade_from_backpack_advanced_void_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-02-10 14:48:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_void_upgrade_from_backpack_void_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-02-10 14:45:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

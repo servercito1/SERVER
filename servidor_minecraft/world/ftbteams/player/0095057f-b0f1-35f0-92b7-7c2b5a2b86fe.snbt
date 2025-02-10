@@ -2,7 +2,9 @@
 	id: "0095057f-b0f1-35f0-92b7-7c2b5a2b86fe"
 	type: "player"
 	player_name: "22PieroRR"
-	ranks: { }
+	ranks: {
+		0095057f-b0f1-35f0-92b7-7c2b5a2b86fe: "owner"
+	}
 	properties: {
 		"ftbteams:display_name": "22PieroRR"
 		"ftbteams:description": ""
@@ -15,11 +17,11 @@
 		"ftbchunks:allow_named_fake_players": [ ]
 		"ftbchunks:allow_fake_players_by_id": 1b
 		"ftbchunks:allow_pvp": 1b
-		"ftbchunks:block_edit_mode": "allies"
-		"ftbchunks:block_interact_mode": "allies"
-		"ftbchunks:entity_interact_mode": "allies"
-		"ftbchunks:nonliving_entity_attack_mode": "allies"
-		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:block_edit_mode": "private"
+		"ftbchunks:block_interact_mode": "private"
+		"ftbchunks:entity_interact_mode": "private"
+		"ftbchunks:nonliving_entity_attack_mode": "private"
+		"ftbchunks:claim_visibility": "private"
 		"ftbchunks:location_mode": "public"
 	}
 	message_history: [ ]

@@ -4151,3 +4151,160 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [10Feb2025 14:20:00.751] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
 [10Feb2025 14:21:36.710] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
 [10Feb2025 14:22:55.356] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[10Feb2025 14:30:12.195] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[10Feb2025 14:30:12.196] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[10Feb2025 14:30:12.197] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[10Feb2025 14:31:46.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5279ms or 105 ticks behind
+[10Feb2025 14:31:52.643] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
+[10Feb2025 14:35:28.124] [Server thread/ERROR] [net.minecraft.commands.Commands/]: Command exception: /ftbteams party transfer_ownership Maikol_4988
+java.lang.IllegalArgumentException: No such argument 'team' exists on this command
+	at com.mojang.brigadier.context.CommandContext.getArgument(CommandContext.java:85) ~[brigadier-1.1.8.jar%2376!/:?]
+	at dev.ftb.mods.ftbteams.data.TeamArgument.get(TeamArgument.java:51) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.teamArg(FTBTeamsCommands.java:89) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.teamArg(FTBTeamsCommands.java:93) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.partyTeamArg(FTBTeamsCommands.java:107) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.lambda$register$16(FTBTeamsCommands.java:164) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[10Feb2025 14:35:41.144] [Server thread/ERROR] [net.minecraft.commands.Commands/]: Command exception: /ftbteams party transfer_ownership Aldhair_16
+java.lang.IllegalArgumentException: No such argument 'team' exists on this command
+	at com.mojang.brigadier.context.CommandContext.getArgument(CommandContext.java:85) ~[brigadier-1.1.8.jar%2376!/:?]
+	at dev.ftb.mods.ftbteams.data.TeamArgument.get(TeamArgument.java:51) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.teamArg(FTBTeamsCommands.java:89) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.teamArg(FTBTeamsCommands.java:93) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.partyTeamArg(FTBTeamsCommands.java:107) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.lambda$register$16(FTBTeamsCommands.java:164) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[10Feb2025 14:35:48.651] [Server thread/ERROR] [net.minecraft.commands.Commands/]: Command exception: /ftbteams party transfer_ownership elrisas743
+java.lang.IllegalArgumentException: No such argument 'team' exists on this command
+	at com.mojang.brigadier.context.CommandContext.getArgument(CommandContext.java:85) ~[brigadier-1.1.8.jar%2376!/:?]
+	at dev.ftb.mods.ftbteams.data.TeamArgument.get(TeamArgument.java:51) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.teamArg(FTBTeamsCommands.java:89) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.teamArg(FTBTeamsCommands.java:93) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.partyTeamArg(FTBTeamsCommands.java:107) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.lambda$register$16(FTBTeamsCommands.java:164) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[10Feb2025 14:35:55.290] [Server thread/ERROR] [net.minecraft.commands.Commands/]: Command exception: /ftbteams party transfer_ownership elrisas741
+java.lang.IllegalArgumentException: No such argument 'team' exists on this command
+	at com.mojang.brigadier.context.CommandContext.getArgument(CommandContext.java:85) ~[brigadier-1.1.8.jar%2376!/:?]
+	at dev.ftb.mods.ftbteams.data.TeamArgument.get(TeamArgument.java:51) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.teamArg(FTBTeamsCommands.java:89) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.teamArg(FTBTeamsCommands.java:93) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.partyTeamArg(FTBTeamsCommands.java:107) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.lambda$register$16(FTBTeamsCommands.java:164) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[10Feb2025 14:36:02.555] [Server thread/ERROR] [net.minecraft.commands.Commands/]: Command exception: /ftbteams party transfer_ownership elrisas741
+java.lang.IllegalArgumentException: No such argument 'team' exists on this command
+	at com.mojang.brigadier.context.CommandContext.getArgument(CommandContext.java:85) ~[brigadier-1.1.8.jar%2376!/:?]
+	at dev.ftb.mods.ftbteams.data.TeamArgument.get(TeamArgument.java:51) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.teamArg(FTBTeamsCommands.java:89) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.teamArg(FTBTeamsCommands.java:93) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.partyTeamArg(FTBTeamsCommands.java:107) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at dev.ftb.mods.ftbteams.data.FTBTeamsCommands.lambda$register$16(FTBTeamsCommands.java:164) ~[ftb-teams-forge-2001.3.0.jar%23302!/:2001.3.0]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[10Feb2025 14:36:11.943] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from 22PieroRR_s_Party#35aabb58 to elrisas741#77fcb98c
+[10Feb2025 14:36:11.944] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 35aabb58-78ee-4e7b-8aa8-9bf7dd504b2f (22PieroRR_s_Party#35aabb58) to 77fcb98c-7faf-3dc8-8095-81ba0a63f778 (elrisas741#77fcb98c)
+[10Feb2025 14:36:11.944] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 35aabb58-78ee-4e7b-8aa8-9bf7dd504b2f (22PieroRR_s_Party#35aabb58) due to claim limits
+[10Feb2025 14:36:11.944] [Server thread/INFO] [FTB Chunks/]: Team elrisas741#77fcb98c had 0 claimed chunks, now has 0
+[10Feb2025 14:36:17.599] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from 22PieroRR_s_Party#35aabb58 to Aldhair_16#83c9b1f0
+[10Feb2025 14:36:17.599] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 35aabb58-78ee-4e7b-8aa8-9bf7dd504b2f (22PieroRR_s_Party#35aabb58) to 83c9b1f0-07a3-3d7e-a940-d26aac0e9996 (Aldhair_16#83c9b1f0)
+[10Feb2025 14:36:17.599] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 35aabb58-78ee-4e7b-8aa8-9bf7dd504b2f (22PieroRR_s_Party#35aabb58) due to claim limits
+[10Feb2025 14:36:17.599] [Server thread/INFO] [FTB Chunks/]: Team Aldhair_16#83c9b1f0 had 0 claimed chunks, now has 0
+[10Feb2025 14:36:23.202] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from 22PieroRR_s_Party#35aabb58 to Maikol_4988#fa63da74
+[10Feb2025 14:36:23.202] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 35aabb58-78ee-4e7b-8aa8-9bf7dd504b2f (22PieroRR_s_Party#35aabb58) to fa63da74-676e-3a75-814c-8fd926924504 (Maikol_4988#fa63da74)
+[10Feb2025 14:36:23.202] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 35aabb58-78ee-4e7b-8aa8-9bf7dd504b2f (22PieroRR_s_Party#35aabb58) due to claim limits
+[10Feb2025 14:36:23.202] [Server thread/INFO] [FTB Chunks/]: Team Maikol_4988#fa63da74 had 0 claimed chunks, now has 0
+[10Feb2025 14:36:28.768] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 20 chunks from 22PieroRR_s_Party#35aabb58 to 22PieroRR#0095057f
+[10Feb2025 14:36:28.769] [Server thread/INFO] [FTB Chunks/]: Transferred 20 chunks from 35aabb58-78ee-4e7b-8aa8-9bf7dd504b2f (22PieroRR_s_Party#35aabb58) to 0095057f-b0f1-35f0-92b7-7c2b5a2b86fe (22PieroRR#0095057f)
+[10Feb2025 14:36:28.769] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 35aabb58-78ee-4e7b-8aa8-9bf7dd504b2f (22PieroRR_s_Party#35aabb58) due to claim limits
+[10Feb2025 14:36:28.769] [Server thread/INFO] [FTB Chunks/]: Team 22PieroRR#0095057f had 0 claimed chunks, now has 20
+[10Feb2025 14:40:17.037] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/2768, l='ServerLevel[world]', x=136.39, y=62.25, z=-110.51] died: Honeyed Archer suffocated in a wall
