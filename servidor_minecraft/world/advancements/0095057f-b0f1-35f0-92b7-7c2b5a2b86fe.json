@@ -347,6 +347,7 @@
       "minecraft:desert": "2025-02-10 16:57:48 +0000",
       "minecraft:deep_frozen_ocean": "2025-02-03 19:49:48 +0000",
       "minecraft:ocean": "2025-02-04 00:24:37 +0000",
+      "minecraft:jungle": "2025-02-10 22:55:16 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-08 03:45:45 +0000",
       "minecraft:snowy_beach": "2025-02-03 19:50:42 +0000",
       "minecraft:warm_ocean": "2025-02-10 17:05:18 +0000",
@@ -14116,6 +14117,12 @@
     },
     "done": true
   },
+  "nullscape:root": {
+    "criteria": {
+      "nullscape:void_barrens": "2025-02-10 22:56:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-02-10 22:14:53 +0000"
@@ -14131,6 +14138,12 @@
   "supplementaries:recipes/end_stone_lamp": {
     "criteria": {
       "has_end_stone": "2025-02-10 22:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-02-10 22:54:34 +0000"
     },
     "done": true
   },

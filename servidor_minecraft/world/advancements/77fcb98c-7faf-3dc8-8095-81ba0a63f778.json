@@ -13429,6 +13429,12 @@
     },
     "done": true
   },
+  "nullscape:root": {
+    "criteria": {
+      "nullscape:crystal_peaks": "2025-02-10 22:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2025-02-10 22:37:01 +0000"

@@ -7501,3 +7501,34 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [10Feb2025 22:51:22.717] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_boots/apotheosis:mythic/ABILITY/0.3!
 [10Feb2025 22:51:46.167] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_boots/apotheosis:mythic/ABILITY/0.3!
 [10Feb2025 22:51:50.269] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_boots/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 22:52:17.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved too quickly! 2.277788725347591,2.7768273326508464,-9.795150543189152
+[10Feb2025 22:52:17.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[10Feb2025 22:52:24.105] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Phantom['Tyrael'/743466, l='ServerLevel[world]', x=1552.52, y=59.07, z=-594.15] died: Tyrael withered away
+[10Feb2025 22:52:37.566] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/745029, l='ServerLevel[world]', x=896.50, y=43.00, z=-454.50] as it would cause deadlock
+[10Feb2025 22:52:44.794] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=884, y=13, z=-639}
+[10Feb2025 22:52:44.795] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=884, y=13, z=-641}
+[10Feb2025 22:52:58.999] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=859, y=-27, z=-341}
+[10Feb2025 22:52:58.999] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=859, y=-27, z=-340}
+[10Feb2025 22:53:46.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Dragon Hunter'/745950, l='ServerLevel[world]', x=1265.19, y=56.00, z=-770.00] died: Dragon Hunter was slain by elrisas741
+[10Feb2025 22:53:47.005] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Dragon Hunter'/745827, l='ServerLevel[world]', x=1264.74, y=56.00, z=-774.25] died: Dragon Hunter was slain by elrisas741
+[10Feb2025 22:54:39.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has completed the challenge [Praise the Sun]
+[10Feb2025 22:54:49.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved too quickly! 10.207007552979576,0.9450706159063316,-1.9908377400756763
+[10Feb2025 22:55:04.519] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[10Feb2025 22:55:18.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved wrongly!
+[10Feb2025 22:55:33.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Desolation]
+[10Feb2025 22:55:59.813] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[10Feb2025 22:56:07.017] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[10Feb2025 22:56:12.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Phantom['Mr. President Beatrice the Cracked'/748723, l='ServerLevel[world]', x=1572.78, y=-65555.00, z=-809.52] died: Mr. President Beatrice the Cracked was killed
+[10Feb2025 22:56:22.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Desolation]
+[10Feb2025 22:58:00.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Dragon Hunter'/752493, l='ServerLevel[world]', x=1828.43, y=104.00, z=-1077.89] died: Dragon Hunter was slain by elrisas741
+[10Feb2025 22:58:24.123] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Sir Lothrazar the Toasty'/752558, l='ServerLevel[world]', x=1854.14, y=-1391.36, z=-1116.70] died: Sir Lothrazar the Toasty fell out of the world
+[10Feb2025 22:58:40.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Dragon Hunter'/752989, l='ServerLevel[world]', x=1921.35, y=32.36, z=-1011.73] died: Dragon Hunter was slain by elrisas741
+[10Feb2025 22:58:49.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Dragon Hunter'/752830, l='ServerLevel[world]', x=1917.31, y=33.00, z=-1000.15] died: Dragon Hunter was slain by elrisas741
+[10Feb2025 22:59:07.458] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guardian['End Guardian'/753076, l='ServerLevel[world]', x=1980.43, y=28.05, z=-944.29] died: End Guardian was slain by elrisas741
+[10Feb2025 22:59:20.809] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Dragon Hunter'/753009, l='ServerLevel[world]', x=1972.89, y=33.00, z=-943.75] died: Dragon Hunter was slain by elrisas741
+[10Feb2025 22:59:41.867] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 22:59:57.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [The City at the End of the Game]
+[10Feb2025 23:00:20.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has reached the goal [Sky's the Limit]
+[10Feb2025 23:00:31.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [The City at the End of the Game]
+[10Feb2025 23:00:40.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved wrongly!
+[10Feb2025 23:00:45.467] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:chainmail_boots/apotheosis:mythic/ABILITY/0.3!
