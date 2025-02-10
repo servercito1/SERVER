@@ -13367,82 +13367,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "mynethersdelight:recipes/misc/crafting/spicy_cotton": {
     "criteria": {
-      "log_spam_fixer": "2025-02-10 21:59:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 21:59:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 21:59:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 21:59:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 21:59:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 21:59:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 21:59:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 21:59:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 21:59:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-02-10 21:59:41 +0000",
-      "log_spam_fixer": "2025-02-10 21:59:41 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 21:59:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-10 21:59:41 +0000"
-    },
-    "done": false
-  },
-  "mynethersdelight:recipes/building_blocks/zoglin_trophy": {
-    "criteria": {
-      "has_hoglin_trophy": "2025-02-10 21:42:29 +0000"
+      "has_blaze_rod": "2025-02-10 21:12:20 +0000"
     },
     "done": true
   },
@@ -13458,21 +13385,21 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/cosmic_cod": {
-    "criteria": {
-      "capsid": "2025-02-10 21:57:30 +0000"
-    },
-    "done": true
-  },
   "apotheosis:affix/ancient_gem": {
     "criteria": {
       "gem": "2025-02-10 21:35:11 +0000"
     },
     "done": true
   },
-  "mynethersdelight:recipes/misc/crafting/spicy_cotton": {
+  "mynethersdelight:recipes/building_blocks/zoglin_trophy": {
     "criteria": {
-      "has_blaze_rod": "2025-02-10 21:12:20 +0000"
+      "has_hoglin_trophy": "2025-02-10 21:42:29 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/waxed_hoglin_trophy": {
+    "criteria": {
+      "has_hoglin_trophy": "2025-02-10 21:42:29 +0000"
     },
     "done": true
   },
@@ -13482,9 +13409,9 @@
     },
     "done": true
   },
-  "mynethersdelight:recipes/building_blocks/waxed_hoglin_trophy": {
+  "alexsmobs:alexsmobs/cosmic_cod": {
     "criteria": {
-      "has_hoglin_trophy": "2025-02-10 21:42:29 +0000"
+      "capsid": "2025-02-10 21:57:30 +0000"
     },
     "done": true
   },
