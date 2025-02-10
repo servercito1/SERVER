@@ -4153,3 +4153,65 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [10Feb2025 21:05:04.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 joined the game
 [10Feb2025 21:05:04.460] [Server thread/INFO] [Jade/]: Syncing config to Maikol_4988 (fa63da74-676e-3a75-814c-8fd926924504)
 [10Feb2025 21:07:03.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Ohellpig the Lazy'/4864, l='ServerLevel[world]', x=-5908.81, y=64.00, z=-6133.36] died: Ohellpig the Lazy was slain by elrisas741
+[10Feb2025 21:07:46.660] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
+[10Feb2025 21:07:46.661] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[10Feb2025 21:07:47.990] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[10Feb2025 21:08:09.534] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargingPlayer (#8) on the server
+[10Feb2025 21:08:14.843] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_helmet/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:08:18.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[10Feb2025 21:08:29.309] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[10Feb2025 21:08:49.840] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[10Feb2025 21:08:50.220] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_helmet/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:08:55.669] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:09:00.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Dragon Hunter'/7005, l='ServerLevel[world]', x=-8.25, y=40.00, z=-78.91] died: Dragon Hunter was slain by Maikol_4988
+[10Feb2025 21:09:05.429] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:09:12.232] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[10Feb2025 21:09:14.728] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase DiveBombPlayer (#15) on the server
+[10Feb2025 21:09:18.974] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[10Feb2025 21:09:38.669] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_boots/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:09:45.401] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/8959, l='ServerLevel[world]', x=-5618.00, y=31.00, z=-5971.00] as it would cause deadlock
+[10Feb2025 21:09:45.427] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[10Feb2025 21:12:03.634] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_helmet/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:12:32.040] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_boots/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:12:32.069] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_boots/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:12:36.419] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:12:50.984] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:chainmail_boots/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:13:19.328] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargingPlayer (#8) on the server
+[10Feb2025 21:13:21.491] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_helmet/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:13:34.080] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[10Feb2025 21:13:50.927] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:13:50.928] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_boots/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:13:52.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Aphman the Nifty'/13150, l='ServerLevel[world]', x=-5958.70, y=75.00, z=-5985.49] died: Aphman the Nifty was slain by elrisas741
+[10Feb2025 21:14:18.300] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:chainmail_boots/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:14:24.046] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:14:31.775] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[10Feb2025 21:14:41.332] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[10Feb2025 21:14:43.832] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase CrashPlayer (#14) on the server
+[10Feb2025 21:14:52.830] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[10Feb2025 21:15:09.969] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_helmet/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:15:10.638] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_boots/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:15:28.631] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:15:28.639] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:15:58.828] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:16:11.327] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[10Feb2025 21:18:21.770] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
+[10Feb2025 21:18:21.770] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[10Feb2025 21:18:21.909] [Server thread/WARN] [net.minecraft.world.entity.boss.enderdragon.phases.DragonStrafePlayerPhase/]: Skipping player strafe phase because no player was found
+[10Feb2025 21:18:21.909] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[10Feb2025 21:18:37.731] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/apotheosis:mythic/ABILITY/0.3!
+[10Feb2025 21:20:25.214] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[10Feb2025 21:22:36.010] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/27112, l='ServerLevel[world]', x=-7042.00, y=31.00, z=-6158.00] as it would cause deadlock
+[10Feb2025 21:23:42.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [The Jeweler]
+[10Feb2025 21:24:15.783] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[10Feb2025 21:24:15.815] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[10Feb2025 21:26:13.153] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:6.261377f,range:8,source:{pos:[I;-50,-59,-59],type:"minecraft:block"}}]
+[10Feb2025 21:28:17.275] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.225.186.49:52871] logged in with entity id 31597 at (-1163.2094575266444, 58.0, -181.7393052771207)
+[10Feb2025 21:28:17.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[10Feb2025 21:28:17.323] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[10Feb2025 21:28:18.968] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[10Feb2025 21:28:18.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
+[10Feb2025 21:28:27.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.225.186.49:51599] logged in with entity id 31839 at (-1163.2094575266444, 58.0, -181.7393052771207)
+[10Feb2025 21:28:27.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[10Feb2025 21:28:27.068] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[10Feb2025 21:29:15.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 moved too quickly! 5.52371271265406,-0.9739465284477902,8.324954743098715
+[10Feb2025 21:29:15.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3547ms or 70 ticks behind

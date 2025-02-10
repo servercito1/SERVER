@@ -13366,5 +13366,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-02-10 21:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-02-10 21:19:29 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/spicy_cotton": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-10 21:12:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
